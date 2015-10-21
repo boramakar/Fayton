@@ -1,0 +1,10 @@
+NEW TRANSMISSION START
+**$_POST** [2015-06-01 01:19:30] Param: GetEvent; Value: 2
+**$_POST** [2015-06-01 01:19:30] Param: LoginID; Value: test@test.com
+**$_POST** [2015-06-01 01:19:30] Param: LoginPass; Value: test
+**INDEX** [2015-06-01 01:19:30] Index: 0
+**PACKAGE** [2015-06-01 01:19:30] Param: status; Value: 0
+**PACKAGE** [2015-06-01 01:19:30] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********

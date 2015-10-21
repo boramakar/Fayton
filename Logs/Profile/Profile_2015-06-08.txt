@@ -1,0 +1,58 @@
+NEW TRANSMISSION START
+**$_POST** [2015-06-08 20:09:31] Param: MyProfile; Value: 
+**$_POST** [2015-06-08 20:09:31] Param: LoginID; Value: sukrumakar@hotmail.com
+**$_POST** [2015-06-08 20:09:31] Param: LoginPass; Value: bora
+**VERIFED** [2015-06-08 20:09:31] Param: sukrumakar@hotmail.com; Value: bora
+**PACKAGE** [2015-06-08 20:09:31] Param: status; Value: 1
+**PACKAGE** [2015-06-08 20:09:31] Param: reason; Value: 0
+**PACKAGE** [2015-06-08 20:09:31] Param: GroupCount; Value: 0
+**PACKAGE** [2015-06-08 20:09:31] Param: EventCount; Value: 0
+**PACKAGE** [2015-06-08 20:09:31] Param: CommentCount; Value: 0
+**PACKAGE** [2015-06-08 20:09:31] Param: Name; Value: Sukru Makar
+**PACKAGE** [2015-06-08 20:09:31] Param: Premium; Value: 0
+**PACKAGE** [2015-06-08 20:09:31] Param: AboutMe; Value: About ME
+**PACKAGE** [2015-06-08 20:09:31] Param: Avatar; Value: Avatar
+**PACKAGE** [2015-06-08 20:09:31] Param: DateOfBirth; Value: 1956-08-09
+**PACKAGE** [2015-06-08 20:09:31] Param: Sex; Value: Male
+**PACKAGE** [2015-06-08 20:09:31] Param: SubText; Value: Edit Me
+**PACKAGE** [2015-06-08 20:09:31] Param: Karma; Value: 0
+PROFILE SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-06-08 20:10:24] Param: GetProfile; Value: test@test.com
+**$_POST** [2015-06-08 20:10:24] Param: LoginID; Value: sukrumakar@hotmail.com
+**$_POST** [2015-06-08 20:10:24] Param: LoginPass; Value: bora
+**VERIFED** [2015-06-08 20:10:24] Param: sukrumakar@hotmail.com; Value: bora
+**PACKAGE** [2015-06-08 20:10:24] Param: status; Value: 1
+**PACKAGE** [2015-06-08 20:10:24] Param: reason; Value: 0
+**PACKAGE** [2015-06-08 20:10:24] Param: GroupCount; Value: 1
+**PACKAGE** [2015-06-08 20:10:24] Param: EventCount; Value: 1
+**PACKAGE** [2015-06-08 20:10:24] Param: CommentCount; Value: 0
+**PACKAGE** [2015-06-08 20:10:24] Param: Name; Value: Kamer Levi
+**PACKAGE** [2015-06-08 20:10:24] Param: Premium; Value: 1
+**PACKAGE** [2015-06-08 20:10:24] Param: AboutMe; Value: About ME nonono abooout meeeeeeii123
+**PACKAGE** [2015-06-08 20:10:24] Param: Avatar; Value: Avatar
+**PACKAGE** [2015-06-08 20:10:24] Param: DateOfBirth; Value: 1977-05-24
+**PACKAGE** [2015-06-08 20:10:24] Param: Sex; Value: Male
+**PACKAGE** [2015-06-08 20:10:24] Param: SubText; Value: Edit Me heuheuehue123
+**PACKAGE** [2015-06-08 20:10:24] Param: Karma; Value: 0
+**PACKAGE** [2015-06-08 20:10:24] Param: GroupID; Value: 2
+**PACKAGE** [2015-06-08 20:10:24] Param: GroupName; Value: WoW
+**PACKAGE** [2015-06-08 20:10:24] Param: EventID; Value: 17
+**PACKAGE** [2015-06-08 20:10:24] Param: EventName; Value: oldEvent
+**PACKAGE** [2015-06-08 20:10:24] Param: Participation; Value: 2
+**PACKAGE** [2015-06-08 20:10:24] Param: EventLocation; Value: asd
+**PACKAGE** [2015-06-08 20:10:24] Param: StartTime; Value: 2011-05-28 00:00:00
+PROFILE SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-06-08 20:19:28] Param: GetEvents; Value: test@test.com
+**$_POST** [2015-06-08 20:19:28] Param: LoginID; Value: sukrumakar@hotmail.com
+**$_POST** [2015-06-08 20:19:28] Param: LoginPass; Value: bora
+**PACKAGE** [2015-06-08 20:19:28] Param: status; Value: 0
+**PACKAGE** [2015-06-08 20:19:28] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********

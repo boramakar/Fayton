@@ -1,0 +1,396 @@
+NEW TRANSMISSION START
+**$_POST** [2015-05-27 18:35:52] Param: CreateGroup; Value: 
+**$_POST** [2015-05-27 18:35:52] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-27 18:35:52] Param: LoginPass; Value: test
+**INDEX** [2015-05-27 18:35:52] Index: 0
+**PACKAGE** [2015-05-27 18:35:52] Param: status; Value: 0
+**PACKAGE** [2015-05-27 18:35:52] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-27 18:35:59] Param: CreateGroup; Value: 
+**$_POST** [2015-05-27 18:35:59] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-27 18:35:59] Param: LoginPass; Value: test
+**INDEX** [2015-05-27 18:35:59] Index: 0
+**PACKAGE** [2015-05-27 18:35:59] Param: status; Value: 0
+**PACKAGE** [2015-05-27 18:35:59] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-27 18:36:00] Param: CreateGroup; Value: 
+**$_POST** [2015-05-27 18:36:00] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-27 18:36:00] Param: LoginPass; Value: test
+**INDEX** [2015-05-27 18:36:00] Index: 0
+**PACKAGE** [2015-05-27 18:36:00] Param: status; Value: 0
+**PACKAGE** [2015-05-27 18:36:00] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-27 18:36:00] Param: CreateGroup; Value: 
+**$_POST** [2015-05-27 18:36:00] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-27 18:36:00] Param: LoginPass; Value: test
+**INDEX** [2015-05-27 18:36:00] Index: 0
+**PACKAGE** [2015-05-27 18:36:00] Param: status; Value: 0
+**PACKAGE** [2015-05-27 18:36:00] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-27 18:36:09] Param: MyGroups; Value: 
+**$_POST** [2015-05-27 18:36:09] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-27 18:36:09] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 18:36:09] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 18:36:09] Index: 0
+**PACKAGE** [2015-05-27 18:36:09] Param: status; Value: 1
+**PACKAGE** [2015-05-27 18:36:09] Param: reason; Value: 0
+EMPTY LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-27 18:42:12] Param: MyGroups; Value: 
+**$_POST** [2015-05-27 18:42:12] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-27 18:42:12] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 18:42:12] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 18:42:12] Index: 0
+**PACKAGE** [2015-05-27 18:42:12] Param: status; Value: 1
+**PACKAGE** [2015-05-27 18:42:12] Param: reason; Value: 0
+EMPTY LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-27 18:42:14] Param: GroupSearch; Value: 
+**$_POST** [2015-05-27 18:42:14] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-27 18:42:14] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 18:42:14] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 18:42:14] Index: 0
+**PACKAGE** [2015-05-27 18:42:14] Param: status; Value: 0
+**PACKAGE** [2015-05-27 18:42:14] Param: reason; Value: 2
+QUERY FAILED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-27 19:01:44] Param: MyGroups; Value: 
+**$_POST** [2015-05-27 19:01:44] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-27 19:01:44] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 19:01:44] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 19:01:44] Index: 0
+**PACKAGE** [2015-05-27 19:01:44] Param: status; Value: 1
+**PACKAGE** [2015-05-27 19:01:44] Param: reason; Value: 0
+EMPTY LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-27 19:01:45] Param: GroupSearch; Value: 
+**$_POST** [2015-05-27 19:01:45] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-27 19:01:45] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 19:01:45] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 19:01:45] Index: 0
+**PACKAGE** [2015-05-27 19:01:45] Param: status; Value: 0
+**PACKAGE** [2015-05-27 19:01:45] Param: reason; Value: 2
+QUERY FAILED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-27 19:11:51] Param: CreateEvent; Value: 
+**$_POST** [2015-05-27 19:11:51] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-27 19:11:51] Param: LoginPass; Value: test
+**$_POST** [2015-05-27 19:11:51] Param: EventName; Value: TestEvent
+**$_POST** [2015-05-27 19:11:51] Param: EventDescription; Value: This is a test event.
+**$_POST** [2015-05-27 19:11:51] Param: EventLocation; Value: Narnia
+**$_POST** [2015-05-27 19:11:51] Param: ParticipantLimit; Value: 3
+**$_POST** [2015-05-27 19:11:51] Param: StartTime; Value: 05/27/18   0:04
+
+**$_POST** [2015-05-27 19:11:51] Param: EndTime; Value: 05/29/24   2:02
+
+**INDEX** [2015-05-27 19:11:51] Index: 0
+**PACKAGE** [2015-05-27 19:11:51] Param: status; Value: 0
+**PACKAGE** [2015-05-27 19:11:51] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-27 19:28:41] Param: MyGroups; Value: 
+**$_POST** [2015-05-27 19:28:41] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-27 19:28:41] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 19:28:41] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 19:28:41] Index: 0
+**PACKAGE** [2015-05-27 19:28:41] Param: status; Value: 1
+**PACKAGE** [2015-05-27 19:28:41] Param: reason; Value: 0
+EMPTY LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-27 19:30:54] Param: MyGroups; Value: 
+**$_POST** [2015-05-27 19:30:54] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-27 19:30:54] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 19:30:54] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 19:30:54] Index: 0
+**PACKAGE** [2015-05-27 19:30:54] Param: status; Value: 1
+**PACKAGE** [2015-05-27 19:30:54] Param: reason; Value: 0
+EMPTY LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-27 19:31:49] Param: MyGroups; Value: 
+**$_POST** [2015-05-27 19:31:49] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-27 19:31:49] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 19:31:49] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 19:31:49] Index: 0
+**PACKAGE** [2015-05-27 19:31:49] Param: status; Value: 1
+**PACKAGE** [2015-05-27 19:31:49] Param: reason; Value: 0
+EMPTY LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-27 19:33:28] Param: MyGroups; Value: 
+**$_POST** [2015-05-27 19:33:28] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-27 19:33:28] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 19:33:28] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 19:33:28] Index: 0
+**PACKAGE** [2015-05-27 19:33:28] Param: status; Value: 1
+**PACKAGE** [2015-05-27 19:33:28] Param: reason; Value: 0
+EMPTY LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-27 19:33:56] Param: MyGroups; Value: 
+**$_POST** [2015-05-27 19:33:56] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-27 19:33:56] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 19:33:56] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 19:33:56] Index: 0
+**PACKAGE** [2015-05-27 19:33:56] Param: status; Value: 1
+**PACKAGE** [2015-05-27 19:33:56] Param: reason; Value: 0
+EMPTY LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-27 19:34:01] Param: MyGroups; Value: 
+**$_POST** [2015-05-27 19:34:01] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-27 19:34:01] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 19:34:01] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 19:34:01] Index: 0
+**PACKAGE** [2015-05-27 19:34:01] Param: status; Value: 1
+**PACKAGE** [2015-05-27 19:34:01] Param: reason; Value: 0
+EMPTY LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-27 19:36:00] Param: MyGroups; Value: 
+**$_POST** [2015-05-27 19:36:00] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-27 19:36:00] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 19:36:00] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 19:36:00] Index: 0
+**PACKAGE** [2015-05-27 19:36:00] Param: status; Value: 1
+**PACKAGE** [2015-05-27 19:36:00] Param: reason; Value: 0
+EMPTY LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-27 19:36:34] Param: MyGroups; Value: 
+**$_POST** [2015-05-27 19:36:34] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-27 19:36:34] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 19:36:34] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 19:36:34] Index: 0
+**PACKAGE** [2015-05-27 19:36:34] Param: status; Value: 1
+**PACKAGE** [2015-05-27 19:36:34] Param: reason; Value: 0
+EMPTY LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-27 23:59:14] Param: MyGroups; Value: 
+**$_POST** [2015-05-27 23:59:14] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-27 23:59:14] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 23:59:14] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 23:59:14] Index: 0
+**PACKAGE** [2015-05-27 23:59:14] Param: status; Value: 1
+**PACKAGE** [2015-05-27 23:59:14] Param: reason; Value: 0
+EMPTY LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-27 23:59:17] Param: MyGroups; Value: 
+**$_POST** [2015-05-27 23:59:17] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-27 23:59:17] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 23:59:17] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 23:59:17] Index: 0
+**PACKAGE** [2015-05-27 23:59:17] Param: status; Value: 1
+**PACKAGE** [2015-05-27 23:59:17] Param: reason; Value: 0
+EMPTY LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-27 23:59:19] Param: GroupSearch; Value: 
+**$_POST** [2015-05-27 23:59:19] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-27 23:59:19] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 23:59:20] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 23:59:20] Index: 0
+**PACKAGE** [2015-05-27 23:59:20] Param: status; Value: 0
+**PACKAGE** [2015-05-27 23:59:20] Param: reason; Value: 2
+QUERY FAILED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-27 23:59:57] Param: MyGroups; Value: 
+**$_POST** [2015-05-27 23:59:57] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-27 23:59:57] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 23:59:57] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 23:59:57] Index: 0
+**PACKAGE** [2015-05-27 23:59:57] Param: status; Value: 1
+**PACKAGE** [2015-05-27 23:59:57] Param: reason; Value: 0
+EMPTY LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-27 23:59:57] Param: GroupSearch; Value: 
+**$_POST** [2015-05-27 23:59:57] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-27 23:59:57] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 23:59:57] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 23:59:57] Index: 0
+**PACKAGE** [2015-05-27 23:59:57] Param: status; Value: 0
+**PACKAGE** [2015-05-27 23:59:57] Param: reason; Value: 2
+QUERY FAILED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 00:00:17] Param: MyGroups; Value: 
+**$_POST** [2015-05-28 00:00:17] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-28 00:00:17] Param: LoginPass; Value: test
+**VERIFED** [2015-05-28 00:00:17] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 00:00:17] Index: 0
+**PACKAGE** [2015-05-28 00:00:17] Param: status; Value: 1
+**PACKAGE** [2015-05-28 00:00:17] Param: reason; Value: 0
+EMPTY LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 00:00:18] Param: GroupSearch; Value: 
+**$_POST** [2015-05-28 00:00:18] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-28 00:00:18] Param: LoginPass; Value: test
+**VERIFED** [2015-05-28 00:00:18] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 00:00:18] Index: 0
+**PACKAGE** [2015-05-28 00:00:18] Param: status; Value: 0
+**PACKAGE** [2015-05-28 00:00:18] Param: reason; Value: 2
+QUERY FAILED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 00:00:38] Param: MyGroups; Value: 
+**$_POST** [2015-05-28 00:00:38] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-28 00:00:38] Param: LoginPass; Value: test
+**VERIFED** [2015-05-28 00:00:38] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 00:00:38] Index: 0
+**PACKAGE** [2015-05-28 00:00:38] Param: status; Value: 1
+**PACKAGE** [2015-05-28 00:00:38] Param: reason; Value: 0
+EMPTY LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 00:00:39] Param: GroupSearch; Value: 
+**$_POST** [2015-05-28 00:00:39] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-28 00:00:39] Param: LoginPass; Value: test
+**VERIFED** [2015-05-28 00:00:39] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 00:00:39] Index: 0
+**PACKAGE** [2015-05-28 00:00:39] Param: status; Value: 0
+**PACKAGE** [2015-05-28 00:00:39] Param: reason; Value: 2
+QUERY FAILED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 00:14:21] Param: MyGroups; Value: 
+**$_POST** [2015-05-28 00:14:21] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-28 00:14:21] Param: LoginPass; Value: test
+**VERIFED** [2015-05-28 00:14:21] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 00:14:21] Index: 0
+**PACKAGE** [2015-05-28 00:14:21] Param: status; Value: 1
+**PACKAGE** [2015-05-28 00:14:21] Param: reason; Value: 0
+EMPTY LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 00:14:23] Param: GroupSearch; Value: 
+**$_POST** [2015-05-28 00:14:23] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-28 00:14:23] Param: LoginPass; Value: test
+**VERIFED** [2015-05-28 00:14:23] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 00:14:23] Index: 0
+**PACKAGE** [2015-05-28 00:14:23] Param: status; Value: 0
+**PACKAGE** [2015-05-28 00:14:23] Param: reason; Value: 2
+QUERY FAILED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 00:23:12] Param: MyGroups; Value: 
+**$_POST** [2015-05-28 00:23:12] Param: LoginID; Value: 
+**$_POST** [2015-05-28 00:23:12] Param: LoginPass; Value: 
+**INDEX** [2015-05-28 00:23:12] Index: 0
+**PACKAGE** [2015-05-28 00:23:12] Param: status; Value: 0
+**PACKAGE** [2015-05-28 00:23:12] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 00:23:16] Param: MyGroups; Value: 
+**$_POST** [2015-05-28 00:23:16] Param: LoginID; Value: 
+**$_POST** [2015-05-28 00:23:16] Param: LoginPass; Value: 
+**INDEX** [2015-05-28 00:23:16] Index: 0
+**PACKAGE** [2015-05-28 00:23:16] Param: status; Value: 0
+**PACKAGE** [2015-05-28 00:23:16] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 00:34:04] Param: MyGroups; Value: 
+**$_POST** [2015-05-28 00:34:04] Param: LoginID; Value: 
+**$_POST** [2015-05-28 00:34:04] Param: LoginPass; Value: 
+**INDEX** [2015-05-28 00:34:04] Index: 0
+**PACKAGE** [2015-05-28 00:34:04] Param: status; Value: 0
+**PACKAGE** [2015-05-28 00:34:04] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 00:47:17] Param: MyGroups; Value: 
+**$_POST** [2015-05-28 00:47:17] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-28 00:47:17] Param: LoginPass; Value: test
+**VERIFED** [2015-05-28 00:47:17] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 00:47:17] Index: 0
+**PACKAGE** [2015-05-28 00:47:17] Param: status; Value: 1
+**PACKAGE** [2015-05-28 00:47:17] Param: reason; Value: 0
+EMPTY LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 00:47:17] Param: GroupSearch; Value: 
+**$_POST** [2015-05-28 00:47:17] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-28 00:47:17] Param: LoginPass; Value: test
+**VERIFED** [2015-05-28 00:47:18] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 00:47:18] Index: 0
+**PACKAGE** [2015-05-28 00:47:18] Param: status; Value: 0
+**PACKAGE** [2015-05-28 00:47:18] Param: reason; Value: 2
+QUERY FAILED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 00:47:59] Param: MyGroups; Value: 
+**$_POST** [2015-05-28 00:47:59] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-28 00:47:59] Param: LoginPass; Value: test
+**VERIFED** [2015-05-28 00:47:59] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 00:47:59] Index: 0
+**PACKAGE** [2015-05-28 00:47:59] Param: status; Value: 1
+**PACKAGE** [2015-05-28 00:47:59] Param: reason; Value: 0
+EMPTY LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 00:48:01] Param: GroupSearch; Value: 
+**$_POST** [2015-05-28 00:48:01] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-28 00:48:01] Param: LoginPass; Value: test
+**VERIFED** [2015-05-28 00:48:01] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 00:48:01] Index: 0
+**PACKAGE** [2015-05-28 00:48:01] Param: status; Value: 0
+**PACKAGE** [2015-05-28 00:48:01] Param: reason; Value: 2
+QUERY FAILED!
+END OF TRANSMISSION
+**********

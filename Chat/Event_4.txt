@@ -1,0 +1,2 @@
+[2015-05-28 18:54:52] asd event created!
+[18:54] test@test.com joined event!

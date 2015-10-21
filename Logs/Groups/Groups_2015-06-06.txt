@@ -1,0 +1,96 @@
+NEW TRANSMISSION START
+**$_POST** [2015-06-06 18:59:11] Param: Leaderboard; Value: 2
+**$_POST** [2015-06-06 18:59:11] Param: LoginID; Value: test@test.com
+**$_POST** [2015-06-06 18:59:11] Param: LoginPass; Value: test
+**VERIFED** [2015-06-06 18:59:14] Param: test@test.com; Value: test
+**INDEX** [2015-06-06 18:59:15] Index: 0
+**PACKAGE** [2015-06-06 18:59:15] Param: status; Value: 0
+**PACKAGE** [2015-06-06 18:59:15] Param: reason; Value: 2.2
+QUERY FAILED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-06-06 18:59:51] Param: Leaderboard; Value: 2
+**$_POST** [2015-06-06 18:59:51] Param: LoginID; Value: test@test.com
+**$_POST** [2015-06-06 18:59:51] Param: LoginPass; Value: test
+**VERIFED** [2015-06-06 18:59:51] Param: test@test.com; Value: test
+**INDEX** [2015-06-06 18:59:52] Index: 0
+**PACKAGE** [2015-06-06 18:59:52] Param: status; Value: 0
+**PACKAGE** [2015-06-06 18:59:52] Param: reason; Value: 2.2
+QUERY FAILED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-06-06 19:01:25] Param: Leaderboard; Value: 2
+**$_POST** [2015-06-06 19:01:25] Param: LoginID; Value: test@test.com
+**$_POST** [2015-06-06 19:01:25] Param: LoginPass; Value: test
+**VERIFED** [2015-06-06 19:01:25] Param: test@test.com; Value: test
+**INDEX** [2015-06-06 19:01:25] Index: 0
+**PACKAGE** [2015-06-06 19:01:25] Param: status; Value: 1
+**PACKAGE** [2015-06-06 19:01:25] Param: reason; Value: 0
+**INDEX** [2015-06-06 19:01:25] Index: 1
+**PACKAGE** [2015-06-06 19:01:25] Param: 0; Value: Kamer Levi
+LEADERBOARD SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-06-06 19:01:49] Param: Leaderboard; Value: 2
+**$_POST** [2015-06-06 19:01:49] Param: LoginID; Value: test@test.com
+**$_POST** [2015-06-06 19:01:49] Param: LoginPass; Value: test
+**VERIFED** [2015-06-06 19:01:49] Param: test@test.com; Value: test
+**INDEX** [2015-06-06 19:01:49] Index: 0
+**PACKAGE** [2015-06-06 19:01:49] Param: status; Value: 1
+**PACKAGE** [2015-06-06 19:01:49] Param: reason; Value: 0
+**INDEX** [2015-06-06 19:01:49] Index: 1
+**PACKAGE** [2015-06-06 19:01:49] Param: 0; Value: Kamer Levi
+LEADERBOARD SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-06-06 19:02:50] Param: Leaderboard; Value: 2
+**$_POST** [2015-06-06 19:02:50] Param: LoginID; Value: test@test.com
+**$_POST** [2015-06-06 19:02:50] Param: LoginPass; Value: test
+**VERIFED** [2015-06-06 19:02:50] Param: test@test.com; Value: test
+**INDEX** [2015-06-06 19:02:50] Index: 0
+**PACKAGE** [2015-06-06 19:02:50] Param: status; Value: 1
+**PACKAGE** [2015-06-06 19:02:50] Param: reason; Value: 0
+**INDEX** [2015-06-06 19:02:50] Index: 1
+**PACKAGE** [2015-06-06 19:02:50] Param: 0; Value: Kamer Levi
+**PACKAGE** [2015-06-06 19:02:50] Param: 1; Value: 1440
+LEADERBOARD SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-06-06 19:03:22] Param: Leaderboard; Value: 3
+**$_POST** [2015-06-06 19:03:22] Param: LoginID; Value: test@test.com
+**$_POST** [2015-06-06 19:03:22] Param: LoginPass; Value: test
+**VERIFED** [2015-06-06 19:03:22] Param: test@test.com; Value: test
+**INDEX** [2015-06-06 19:03:22] Index: 0
+**PACKAGE** [2015-06-06 19:03:22] Param: status; Value: 1
+**PACKAGE** [2015-06-06 19:03:22] Param: reason; Value: 0
+**INDEX** [2015-06-06 19:03:22] Index: 1
+**PACKAGE** [2015-06-06 19:03:22] Param: 0; Value: Oya Bilir
+**PACKAGE** [2015-06-06 19:03:22] Param: 1; Value: 1420
+**INDEX** [2015-06-06 19:03:22] Index: 2
+**PACKAGE** [2015-06-06 19:03:22] Param: 0; Value: Cemal Yilmaz
+**PACKAGE** [2015-06-06 19:03:22] Param: 1; Value: 1340
+LEADERBOARD SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-06-06 19:03:56] Param: Leaderboard; Value: 3
+**$_POST** [2015-06-06 19:03:56] Param: LoginID; Value: test@test.com
+**$_POST** [2015-06-06 19:03:56] Param: LoginPass; Value: test
+**VERIFED** [2015-06-06 19:03:56] Param: test@test.com; Value: test
+**INDEX** [2015-06-06 19:03:56] Index: 0
+**PACKAGE** [2015-06-06 19:03:56] Param: status; Value: 1
+**PACKAGE** [2015-06-06 19:03:56] Param: reason; Value: 0
+**INDEX** [2015-06-06 19:03:56] Index: 1
+**PACKAGE** [2015-06-06 19:03:56] Param: Name; Value: Oya Bilir
+**PACKAGE** [2015-06-06 19:03:56] Param: Rating; Value: 1420
+**INDEX** [2015-06-06 19:03:56] Index: 2
+**PACKAGE** [2015-06-06 19:03:56] Param: Name; Value: Cemal Yilmaz
+**PACKAGE** [2015-06-06 19:03:56] Param: Rating; Value: 1340
+LEADERBOARD SENT!
+END OF TRANSMISSION
+**********

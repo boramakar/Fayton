@@ -1,0 +1,2 @@
+[2015-05-28 21:19:37] First Event3 event created!
+[21:19] test2@test.com joined event!

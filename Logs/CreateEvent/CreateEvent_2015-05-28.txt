@@ -1,0 +1,858 @@
+NEW TRANSMISSION START
+**** [2015-05-28 03:13:02] Param: CreateEvent; Value: 
+**** [2015-05-28 03:13:02] Param: LoginID; Value: test@test.com
+**** [2015-05-28 03:13:02] Param: LoginPass; Value: test
+**** [2015-05-28 03:13:02] Param: EventName; Value: TestEvent666
+**** [2015-05-28 03:13:02] Param: EventDescription; Value: Another test bites to dust
+**** [2015-05-28 03:13:02] Param: EventLocation; Value: testland
+**** [2015-05-28 03:13:02] Param: ParticipantLimit; Value: 3
+**** [2015-05-28 03:13:02] Param: StartTime; Value: 05/28/17   0:00
+
+**** [2015-05-28 03:13:02] Param: EndTime; Value: 05/30/20   0:01
+
+**INDEX** [2015-05-28 03:13:02] Index: 0
+**PACKAGE** [2015-05-28 03:13:02] Param: status; Value: 0
+**PACKAGE** [2015-05-28 03:13:02] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 03:20:18] Param: CreateEvent; Value: 
+**** [2015-05-28 03:20:18] Param: LoginID; Value: test@test.com
+**** [2015-05-28 03:20:18] Param: LoginPass; Value: test
+**** [2015-05-28 03:20:18] Param: EventName; Value: ENUF
+**** [2015-05-28 03:20:18] Param: EventDescription; Value: enuf is enuf
+**** [2015-05-28 03:20:18] Param: EventLocation; Value: narnia
+**** [2015-05-28 03:20:18] Param: ParticipantLimit; Value: 3
+**** [2015-05-28 03:20:18] Param: StartTime; Value: 05/29/17   4:04
+
+**** [2015-05-28 03:20:18] Param: EndTime; Value: 06/03/18   0:00
+
+**INDEX** [2015-05-28 03:20:18] Index: 0
+**PACKAGE** [2015-05-28 03:20:18] Param: status; Value: 0
+**PACKAGE** [2015-05-28 03:20:18] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 03:23:17] Param: CreateEvent; Value: 
+**** [2015-05-28 03:23:17] Param: LoginID; Value: test@test.com
+**** [2015-05-28 03:23:17] Param: LoginPass; Value: test
+**** [2015-05-28 03:23:17] Param: EventName; Value: thisis1
+**** [2015-05-28 03:23:17] Param: EventDescription; Value: thisis2
+**** [2015-05-28 03:23:17] Param: EventLocation; Value: thisis3
+**** [2015-05-28 03:23:17] Param: ParticipantLimit; Value: 4
+**** [2015-05-28 03:23:17] Param: StartTime; Value: 05/28/15   0:00
+
+**** [2015-05-28 03:23:17] Param: EndTime; Value: 05/29/16   0:03
+
+**INDEX** [2015-05-28 03:23:17] Index: 0
+**PACKAGE** [2015-05-28 03:23:17] Param: status; Value: 0
+**PACKAGE** [2015-05-28 03:23:17] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 03:24:54] Param: CreateEvent; Value: 
+**** [2015-05-28 03:24:54] Param: LoginID; Value: test@test.com
+**** [2015-05-28 03:24:54] Param: LoginPass; Value: test
+**** [2015-05-28 03:24:54] Param: EventName; Value: 123
+**** [2015-05-28 03:24:54] Param: EventDescription; Value: 456
+**** [2015-05-28 03:24:54] Param: EventLocation; Value: 789
+**** [2015-05-28 03:24:54] Param: ParticipantLimit; Value: 3
+**** [2015-05-28 03:24:54] Param: StartTime; Value: 05/30/16   0:00
+**** [2015-05-28 03:24:54] Param: EndTime; Value: 06/02/18   0:02
+**INDEX** [2015-05-28 03:24:54] Index: 0
+**PACKAGE** [2015-05-28 03:24:54] Param: status; Value: 0
+**PACKAGE** [2015-05-28 03:24:54] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 10:25:55] Param: CreateEvent; Value: 
+**** [2015-05-28 10:25:55] Param: LoginID; Value: test@test.com
+**** [2015-05-28 10:25:55] Param: LoginPass; Value: test
+**** [2015-05-28 10:25:55] Param: EventLocation; Value: home
+**** [2015-05-28 10:25:55] Param: EventType; Value: TestEvent
+**** [2015-05-28 10:25:55] Param: EventName; Value: First Event
+**** [2015-05-28 10:25:55] Param: StartTime; Value: 2015-6-10 15:50:00
+**** [2015-05-28 10:25:55] Param: EndTime; Value: 2015-6-10 17:50:00
+**** [2015-05-28 10:25:55] Param: EventDescription; Value: Tested from Postman
+**** [2015-05-28 10:25:55] Param: ParticipantLimit; Value: 3
+**** [2015-05-28 10:25:55] Param: MinKarma; Value: 
+**** [2015-05-28 10:25:55] Param: MaxRating; Value: 
+**** [2015-05-28 10:25:55] Param: MinRating; Value: 
+**** [2015-05-28 10:25:55] Param: PartOf; Value: 
+**** [2015-05-28 10:25:55] Param: Rated; Value: 
+**** [2015-05-28 10:25:55] Param: MinAge; Value: 
+**** [2015-05-28 10:25:55] Param: MaxAge; Value: 
+**** [2015-05-28 10:25:55] Param: Sex; Value: 
+**VERIFED** [2015-05-28 10:25:55] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 10:25:55] Index: 0
+**PACKAGE** [2015-05-28 10:25:55] Param: status; Value: 1
+**PACKAGE** [2015-05-28 10:25:55] Param: reason; Value: 0
+**INDEX** [2015-05-28 10:25:55] Index: 1
+**PACKAGE** [2015-05-28 10:25:55] Param: EventID; Value: 9
+EVENT CREATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 10:26:06] Param: CreateEvent; Value: 
+**** [2015-05-28 10:26:06] Param: LoginID; Value: test@test.com
+**** [2015-05-28 10:26:06] Param: LoginPass; Value: test
+**** [2015-05-28 10:26:06] Param: EventLocation; Value: home
+**** [2015-05-28 10:26:06] Param: EventType; Value: TestEvent
+**** [2015-05-28 10:26:06] Param: EventName; Value: First Event 2
+**** [2015-05-28 10:26:06] Param: StartTime; Value: 2015-6-10 15:50:00
+**** [2015-05-28 10:26:06] Param: EndTime; Value: 2015-6-10 17:50:00
+**** [2015-05-28 10:26:06] Param: EventDescription; Value: Tested from Postman
+**** [2015-05-28 10:26:06] Param: ParticipantLimit; Value: 3
+**** [2015-05-28 10:26:06] Param: MinKarma; Value: 
+**** [2015-05-28 10:26:06] Param: MaxRating; Value: 
+**** [2015-05-28 10:26:06] Param: MinRating; Value: 
+**** [2015-05-28 10:26:06] Param: PartOf; Value: 
+**** [2015-05-28 10:26:06] Param: Rated; Value: 
+**** [2015-05-28 10:26:06] Param: MinAge; Value: 
+**** [2015-05-28 10:26:06] Param: MaxAge; Value: 
+**** [2015-05-28 10:26:06] Param: Sex; Value: 
+**VERIFED** [2015-05-28 10:26:06] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 10:26:06] Index: 0
+**PACKAGE** [2015-05-28 10:26:06] Param: status; Value: 1
+**PACKAGE** [2015-05-28 10:26:06] Param: reason; Value: 0
+**INDEX** [2015-05-28 10:26:06] Index: 1
+**PACKAGE** [2015-05-28 10:26:06] Param: EventID; Value: 10
+EVENT CREATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 10:47:07] Param: CreateEvent; Value: 
+**** [2015-05-28 10:47:07] Param: LoginID; Value: test@test.com
+**** [2015-05-28 10:47:07] Param: LoginPass; Value: test
+**** [2015-05-28 10:47:07] Param: EventName; Value: TESt
+**** [2015-05-28 10:47:07] Param: EventDescription; Value: test
+**** [2015-05-28 10:47:07] Param: EventLocation; Value: asd
+**** [2015-05-28 10:47:07] Param: ParticipantLimit; Value: 4
+**** [2015-05-28 10:47:07] Param: StartTime; Value: 05/28/15   0:04
+**** [2015-05-28 10:47:07] Param: EndTime; Value: 05/28/19   0:00
+**INDEX** [2015-05-28 10:47:07] Index: 0
+**PACKAGE** [2015-05-28 10:47:07] Param: status; Value: 0
+**PACKAGE** [2015-05-28 10:47:07] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 15:38:12] Param: CreateEvent; Value: 
+**** [2015-05-28 15:38:12] Param: LoginID; Value: test@test.com
+**** [2015-05-28 15:38:12] Param: LoginPass; Value: test
+**** [2015-05-28 15:38:12] Param: EventName; Value: test
+**** [2015-05-28 15:38:12] Param: EventDescription; Value: i luv test
+**** [2015-05-28 15:38:12] Param: EventLocation; Value: narnia
+**** [2015-05-28 15:38:12] Param: ParticipantLimit; Value: 3
+**** [2015-05-28 15:38:12] Param: StartTime; Value: 05/28/15   0:00
+**** [2015-05-28 15:38:12] Param: EndTime; Value: 05/29/16   1:00
+**INDEX** [2015-05-28 15:38:12] Index: 0
+**PACKAGE** [2015-05-28 15:38:12] Param: status; Value: 0
+**PACKAGE** [2015-05-28 15:38:12] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 15:41:22] Param: CreateEvent; Value: 
+**** [2015-05-28 15:41:22] Param: LoginID; Value: test@test.com
+**** [2015-05-28 15:41:22] Param: LoginPass; Value: test
+**** [2015-05-28 15:41:22] Param: EventName; Value: test123
+**** [2015-05-28 15:41:22] Param: EventDescription; Value: test is a grill
+**** [2015-05-28 15:41:22] Param: EventLocation; Value: narnia
+**** [2015-05-28 15:41:22] Param: ParticipantLimit; Value: 3
+**** [2015-05-28 15:41:22] Param: StartTime; Value: 05/30/17   5:03
+**** [2015-05-28 15:41:22] Param: EndTime; Value: 06/02/21   4:04
+**INDEX** [2015-05-28 15:41:22] Index: 0
+**PACKAGE** [2015-05-28 15:41:22] Param: status; Value: 0
+**PACKAGE** [2015-05-28 15:41:22] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 15:42:54] Param: CreateEvent; Value: 
+**** [2015-05-28 15:42:54] Param: LoginID; Value: test@test.com
+**** [2015-05-28 15:42:54] Param: LoginPass; Value: test
+**** [2015-05-28 15:42:54] Param: EventName; Value: test
+**** [2015-05-28 15:42:54] Param: EventDescription; Value: test is a potato
+**** [2015-05-28 15:42:54] Param: EventLocation; Value: narnia
+**** [2015-05-28 15:42:54] Param: ParticipantLimit; Value: 4
+**** [2015-05-28 15:42:54] Param: StartTime; Value: 05/30/17   0:04
+**** [2015-05-28 15:42:54] Param: EndTime; Value: 06/03/19   1:56
+**INDEX** [2015-05-28 15:42:54] Index: 0
+**PACKAGE** [2015-05-28 15:42:54] Param: status; Value: 0
+**PACKAGE** [2015-05-28 15:42:54] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 16:21:37] Param: CreateEvent; Value: 
+**** [2015-05-28 16:21:37] Param: LoginID; Value: test@test.com
+**** [2015-05-28 16:21:37] Param: LoginPass; Value: test
+**** [2015-05-28 16:21:37] Param: EventName; Value: test123
+**** [2015-05-28 16:21:37] Param: EventDescription; Value: test456
+**** [2015-05-28 16:21:37] Param: EventLocation; Value: test789
+**** [2015-05-28 16:21:37] Param: ParticipantLimit; Value: 3
+**** [2015-05-28 16:21:37] Param: StartTime; Value: 05/30/18   0:01
+**** [2015-05-28 16:21:37] Param: EndTime; Value: 06/01/19   20:56
+**INDEX** [2015-05-28 16:21:37] Index: 0
+**PACKAGE** [2015-05-28 16:21:37] Param: status; Value: 0
+**PACKAGE** [2015-05-28 16:21:37] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 16:23:59] Param: CreateEvent; Value: 
+**** [2015-05-28 16:23:59] Param: LoginID; Value: test@test.com
+**** [2015-05-28 16:23:59] Param: LoginPass; Value: test
+**** [2015-05-28 16:23:59] Param: EventName; Value: test123
+**** [2015-05-28 16:23:59] Param: EventDescription; Value: test234
+**** [2015-05-28 16:23:59] Param: EventLocation; Value: test345
+**** [2015-05-28 16:23:59] Param: ParticipantLimit; Value: 4
+**** [2015-05-28 16:23:59] Param: StartTime; Value: 05/28/15   0:00
+**** [2015-05-28 16:23:59] Param: EndTime; Value: 06/01/15   23:57
+**** [2015-05-28 16:23:59] Param: EventType; Value: Group2
+**VERIFED** [2015-05-28 16:23:59] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 16:23:59] Index: 0
+**PACKAGE** [2015-05-28 16:23:59] Param: status; Value: 1
+**PACKAGE** [2015-05-28 16:23:59] Param: reason; Value: 0
+**INDEX** [2015-05-28 16:23:59] Index: 1
+**PACKAGE** [2015-05-28 16:23:59] Param: EventID; Value: 11
+EVENT CREATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 18:33:45] Param: CreateEvent; Value: 
+**** [2015-05-28 18:33:45] Param: LoginID; Value: test@test.com
+**** [2015-05-28 18:33:45] Param: LoginPass; Value: test
+**** [2015-05-28 18:33:45] Param: EventName; Value: TestEvent
+**** [2015-05-28 18:33:45] Param: EventDescription; Value: This is test
+**** [2015-05-28 18:33:45] Param: EventLocation; Value: Narnia
+**** [2015-05-28 18:33:45] Param: ParticipantLimit; Value: 3
+**** [2015-05-28 18:33:45] Param: StartTime; Value: 05/28/17   0:00
+**** [2015-05-28 18:33:45] Param: EndTime; Value: 05/30/21   1:02
+**** [2015-05-28 18:33:45] Param: EventType; Value: WoW
+**VERIFED** [2015-05-28 18:33:45] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 18:33:45] Index: 0
+**PACKAGE** [2015-05-28 18:33:45] Param: status; Value: 0
+**PACKAGE** [2015-05-28 18:33:45] Param: reason; Value: 2.1
+QUERY FAILED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 18:37:19] Param: CreateEvent; Value: 
+**** [2015-05-28 18:37:19] Param: LoginID; Value: test@test.com
+**** [2015-05-28 18:37:19] Param: LoginPass; Value: test
+**** [2015-05-28 18:37:19] Param: EventLocation; Value: home
+**** [2015-05-28 18:37:19] Param: EventType; Value: 
+**** [2015-05-28 18:37:19] Param: EventName; Value: First Event
+**** [2015-05-28 18:37:19] Param: StartTime; Value: 2015-6-10 15:50:00
+**** [2015-05-28 18:37:19] Param: EndTime; Value: 2015-6-10 17:50:00
+**** [2015-05-28 18:37:19] Param: EventDescription; Value: Tested from Postman
+**** [2015-05-28 18:37:19] Param: ParticipantLimit; Value: 3
+**** [2015-05-28 18:37:19] Param: MinKarma; Value: 
+**** [2015-05-28 18:37:19] Param: MaxRating; Value: 
+**** [2015-05-28 18:37:19] Param: MinRating; Value: 
+**** [2015-05-28 18:37:19] Param: PartOf; Value: 
+**** [2015-05-28 18:37:19] Param: Rated; Value: 
+**** [2015-05-28 18:37:19] Param: MinAge; Value: 
+**** [2015-05-28 18:37:19] Param: MaxAge; Value: 
+**** [2015-05-28 18:37:19] Param: Sex; Value: 
+**VERIFED** [2015-05-28 18:37:19] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 18:37:19] Index: 0
+**PACKAGE** [2015-05-28 18:37:19] Param: status; Value: 0
+**PACKAGE** [2015-05-28 18:37:19] Param: reason; Value: 2.1
+QUERY FAILED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 18:37:49] Param: CreateEvent; Value: 
+**** [2015-05-28 18:37:49] Param: LoginID; Value: test@test.com
+**** [2015-05-28 18:37:49] Param: LoginPass; Value: test
+**** [2015-05-28 18:37:49] Param: EventLocation; Value: home
+**** [2015-05-28 18:37:49] Param: EventType; Value: WoW
+**** [2015-05-28 18:37:49] Param: EventName; Value: First Event
+**** [2015-05-28 18:37:49] Param: StartTime; Value: 2015-6-10 15:50:00
+**** [2015-05-28 18:37:49] Param: EndTime; Value: 2015-6-10 17:50:00
+**** [2015-05-28 18:37:49] Param: EventDescription; Value: Tested from Postman
+**** [2015-05-28 18:37:49] Param: ParticipantLimit; Value: 3
+**** [2015-05-28 18:37:49] Param: MinKarma; Value: 
+**** [2015-05-28 18:37:49] Param: MaxRating; Value: 
+**** [2015-05-28 18:37:49] Param: MinRating; Value: 
+**** [2015-05-28 18:37:49] Param: PartOf; Value: 
+**** [2015-05-28 18:37:49] Param: Rated; Value: 
+**** [2015-05-28 18:37:49] Param: MinAge; Value: 
+**** [2015-05-28 18:37:49] Param: MaxAge; Value: 
+**** [2015-05-28 18:37:49] Param: Sex; Value: 
+**VERIFED** [2015-05-28 18:37:49] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 18:37:49] Index: 0
+**PACKAGE** [2015-05-28 18:37:49] Param: status; Value: 0
+**PACKAGE** [2015-05-28 18:37:49] Param: reason; Value: 2
+QUERY FAILED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 18:38:02] Param: CreateEvent; Value: 
+**** [2015-05-28 18:38:02] Param: LoginID; Value: test@test.com
+**** [2015-05-28 18:38:02] Param: LoginPass; Value: test
+**** [2015-05-28 18:38:02] Param: EventLocation; Value: home
+**** [2015-05-28 18:38:02] Param: EventType; Value: WoW
+**** [2015-05-28 18:38:02] Param: EventName; Value: First Event
+**** [2015-05-28 18:38:02] Param: StartTime; Value: 2015-6-10 15:50:00
+**** [2015-05-28 18:38:02] Param: EndTime; Value: 2015-6-10 17:50:00
+**** [2015-05-28 18:38:02] Param: EventDescription; Value: Tested from Postman
+**** [2015-05-28 18:38:02] Param: ParticipantLimit; Value: 3
+**** [2015-05-28 18:38:02] Param: MinKarma; Value: 
+**** [2015-05-28 18:38:02] Param: MaxRating; Value: 
+**** [2015-05-28 18:38:02] Param: MinRating; Value: 
+**** [2015-05-28 18:38:02] Param: PartOf; Value: 
+**** [2015-05-28 18:38:02] Param: Rated; Value: 
+**** [2015-05-28 18:38:02] Param: MinAge; Value: 
+**** [2015-05-28 18:38:02] Param: MaxAge; Value: 
+**** [2015-05-28 18:38:02] Param: Sex; Value: 
+**VERIFED** [2015-05-28 18:38:02] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 18:38:02] Index: 0
+**PACKAGE** [2015-05-28 18:38:02] Param: status; Value: 0
+**PACKAGE** [2015-05-28 18:38:02] Param: reason; Value: Champ 'Age' inconnu dans field list
+QUERY FAILED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 18:39:17] Param: CreateEvent; Value: 
+**** [2015-05-28 18:39:17] Param: LoginID; Value: test@test.com
+**** [2015-05-28 18:39:17] Param: LoginPass; Value: test
+**** [2015-05-28 18:39:17] Param: EventLocation; Value: home
+**** [2015-05-28 18:39:17] Param: EventType; Value: WoW
+**** [2015-05-28 18:39:17] Param: EventName; Value: First Event
+**** [2015-05-28 18:39:17] Param: StartTime; Value: 2015-6-10 15:50:00
+**** [2015-05-28 18:39:17] Param: EndTime; Value: 2015-6-10 17:50:00
+**** [2015-05-28 18:39:17] Param: EventDescription; Value: Tested from Postman
+**** [2015-05-28 18:39:17] Param: ParticipantLimit; Value: 3
+**** [2015-05-28 18:39:17] Param: MinKarma; Value: 
+**** [2015-05-28 18:39:17] Param: MaxRating; Value: 
+**** [2015-05-28 18:39:17] Param: MinRating; Value: 
+**** [2015-05-28 18:39:17] Param: PartOf; Value: 
+**** [2015-05-28 18:39:17] Param: Rated; Value: 
+**** [2015-05-28 18:39:17] Param: MinAge; Value: 
+**** [2015-05-28 18:39:17] Param: MaxAge; Value: 
+**** [2015-05-28 18:39:17] Param: Sex; Value: 
+**VERIFED** [2015-05-28 18:39:17] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 18:39:17] Index: 0
+**PACKAGE** [2015-05-28 18:39:17] Param: status; Value: 0
+**PACKAGE** [2015-05-28 18:39:17] Param: reason; Value: 2.1
+QUERY FAILED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 18:39:44] Param: CreateEvent; Value: 
+**** [2015-05-28 18:39:44] Param: LoginID; Value: test@test.com
+**** [2015-05-28 18:39:44] Param: LoginPass; Value: test
+**** [2015-05-28 18:39:44] Param: EventLocation; Value: home
+**** [2015-05-28 18:39:44] Param: EventType; Value: WoW
+**** [2015-05-28 18:39:44] Param: EventName; Value: First Event
+**** [2015-05-28 18:39:44] Param: StartTime; Value: 2015-6-10 15:50:00
+**** [2015-05-28 18:39:44] Param: EndTime; Value: 2015-6-10 17:50:00
+**** [2015-05-28 18:39:44] Param: EventDescription; Value: Tested from Postman
+**** [2015-05-28 18:39:44] Param: ParticipantLimit; Value: 3
+**** [2015-05-28 18:39:44] Param: MinKarma; Value: 
+**** [2015-05-28 18:39:44] Param: MaxRating; Value: 
+**** [2015-05-28 18:39:44] Param: MinRating; Value: 
+**** [2015-05-28 18:39:44] Param: PartOf; Value: 
+**** [2015-05-28 18:39:44] Param: Rated; Value: 
+**** [2015-05-28 18:39:44] Param: MinAge; Value: 
+**** [2015-05-28 18:39:44] Param: MaxAge; Value: 
+**** [2015-05-28 18:39:44] Param: Sex; Value: 
+**VERIFED** [2015-05-28 18:39:44] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 18:39:44] Index: 0
+**PACKAGE** [2015-05-28 18:39:44] Param: status; Value: 0
+**PACKAGE** [2015-05-28 18:39:44] Param: reason; Value: 2.1
+QUERY FAILED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 18:40:39] Param: CreateEvent; Value: 
+**** [2015-05-28 18:40:39] Param: LoginID; Value: test@test.com
+**** [2015-05-28 18:40:39] Param: LoginPass; Value: test
+**** [2015-05-28 18:40:39] Param: EventLocation; Value: home
+**** [2015-05-28 18:40:39] Param: EventType; Value: WoW
+**** [2015-05-28 18:40:39] Param: EventName; Value: First Event
+**** [2015-05-28 18:40:39] Param: StartTime; Value: 2015-6-10 15:50:00
+**** [2015-05-28 18:40:39] Param: EndTime; Value: 2015-6-10 17:50:00
+**** [2015-05-28 18:40:39] Param: EventDescription; Value: Tested from Postman
+**** [2015-05-28 18:40:39] Param: ParticipantLimit; Value: 3
+**** [2015-05-28 18:40:39] Param: MinKarma; Value: 
+**** [2015-05-28 18:40:39] Param: MaxRating; Value: 
+**** [2015-05-28 18:40:39] Param: MinRating; Value: 
+**** [2015-05-28 18:40:39] Param: PartOf; Value: 
+**** [2015-05-28 18:40:39] Param: Rated; Value: 
+**** [2015-05-28 18:40:39] Param: MinAge; Value: 
+**** [2015-05-28 18:40:39] Param: MaxAge; Value: 
+**** [2015-05-28 18:40:39] Param: Sex; Value: 
+**VERIFED** [2015-05-28 18:40:39] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 18:40:39] Index: 0
+**PACKAGE** [2015-05-28 18:40:39] Param: status; Value: 1
+**PACKAGE** [2015-05-28 18:40:39] Param: reason; Value: 0
+**INDEX** [2015-05-28 18:40:39] Index: 1
+**PACKAGE** [2015-05-28 18:40:39] Param: EventID; Value: 1
+EVENT CREATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 18:41:30] Param: CreateEvent; Value: 
+**** [2015-05-28 18:41:30] Param: LoginID; Value: test@test.com
+**** [2015-05-28 18:41:30] Param: LoginPass; Value: test
+**** [2015-05-28 18:41:30] Param: EventLocation; Value: home
+**** [2015-05-28 18:41:30] Param: EventType; Value: WoW
+**** [2015-05-28 18:41:30] Param: EventName; Value: First Event
+**** [2015-05-28 18:41:30] Param: StartTime; Value: 2015-6-10 15:50:00
+**** [2015-05-28 18:41:30] Param: EndTime; Value: 2015-6-10 17:50:00
+**** [2015-05-28 18:41:30] Param: EventDescription; Value: Tested from Postman
+**** [2015-05-28 18:41:30] Param: ParticipantLimit; Value: 3
+**** [2015-05-28 18:41:30] Param: MinKarma; Value: 
+**** [2015-05-28 18:41:30] Param: MaxRating; Value: 
+**** [2015-05-28 18:41:30] Param: MinRating; Value: 
+**** [2015-05-28 18:41:30] Param: PartOf; Value: 
+**** [2015-05-28 18:41:30] Param: Rated; Value: 
+**** [2015-05-28 18:41:30] Param: MinAge; Value: 
+**** [2015-05-28 18:41:30] Param: MaxAge; Value: 
+**** [2015-05-28 18:41:30] Param: Sex; Value: 
+**VERIFED** [2015-05-28 18:41:31] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 18:41:31] Index: 0
+**PACKAGE** [2015-05-28 18:41:31] Param: status; Value: 1
+**PACKAGE** [2015-05-28 18:41:31] Param: reason; Value: 0
+**INDEX** [2015-05-28 18:41:31] Index: 1
+**PACKAGE** [2015-05-28 18:41:31] Param: EventID; Value: 2
+EVENT CREATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 18:48:50] Param: CreateEvent; Value: 
+**** [2015-05-28 18:48:50] Param: LoginID; Value: test@test.com
+**** [2015-05-28 18:48:50] Param: LoginPass; Value: test
+**** [2015-05-28 18:48:50] Param: EventName; Value: TestEventBois
+**** [2015-05-28 18:48:50] Param: EventDescription; Value: Test test test huehuehue
+**** [2015-05-28 18:48:50] Param: EventLocation; Value: Narnia
+**** [2015-05-28 18:48:50] Param: ParticipantLimit; Value: 3
+**** [2015-05-28 18:48:50] Param: StartTime; Value: 05/30/15   23:59
+**** [2015-05-28 18:48:50] Param: EndTime; Value: 06/18/15   19:00
+**** [2015-05-28 18:48:50] Param: EventType; Value: WoW
+**VERIFED** [2015-05-28 18:48:50] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 18:48:50] Index: 0
+**PACKAGE** [2015-05-28 18:48:50] Param: status; Value: 1
+**PACKAGE** [2015-05-28 18:48:50] Param: reason; Value: 0
+**INDEX** [2015-05-28 18:48:50] Index: 1
+**PACKAGE** [2015-05-28 18:48:50] Param: EventID; Value: 2
+EVENT CREATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 18:53:36] Param: CreateEvent; Value: 
+**** [2015-05-28 18:53:36] Param: LoginID; Value: test@test.com
+**** [2015-05-28 18:53:36] Param: LoginPass; Value: test
+**** [2015-05-28 18:53:36] Param: EventName; Value: vxs
+**** [2015-05-28 18:53:36] Param: EventDescription; Value: asdfsadf
+**** [2015-05-28 18:53:36] Param: EventLocation; Value: sdfasdf
+**** [2015-05-28 18:53:36] Param: ParticipantLimit; Value: 12
+**** [2015-05-28 18:53:36] Param: StartTime; Value: 05/28/15 0:00
+**** [2015-05-28 18:53:36] Param: EndTime; Value: 05/28/15
+**** [2015-05-28 18:53:36] Param: EventType; Value: WoW
+**VERIFED** [2015-05-28 18:53:36] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 18:53:36] Index: 0
+**PACKAGE** [2015-05-28 18:53:36] Param: status; Value: 1
+**PACKAGE** [2015-05-28 18:53:36] Param: reason; Value: 0
+**INDEX** [2015-05-28 18:53:36] Index: 1
+**PACKAGE** [2015-05-28 18:53:36] Param: EventID; Value: 3
+EVENT CREATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 18:54:52] Param: CreateEvent; Value: 
+**** [2015-05-28 18:54:52] Param: LoginID; Value: test@test.com
+**** [2015-05-28 18:54:52] Param: LoginPass; Value: test
+**** [2015-05-28 18:54:52] Param: EventName; Value: asd
+**** [2015-05-28 18:54:52] Param: EventDescription; Value: qwe
+**** [2015-05-28 18:54:52] Param: EventLocation; Value: 123
+**** [2015-05-28 18:54:52] Param: ParticipantLimit; Value: 3
+**** [2015-05-28 18:54:52] Param: StartTime; Value: 05/28/15 0:00
+**** [2015-05-28 18:54:52] Param: EndTime; Value: 05/29/15 23:59
+**** [2015-05-28 18:54:52] Param: EventType; Value: WoW
+**VERIFED** [2015-05-28 18:54:52] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 18:54:52] Index: 0
+**PACKAGE** [2015-05-28 18:54:52] Param: status; Value: 1
+**PACKAGE** [2015-05-28 18:54:52] Param: reason; Value: 0
+**INDEX** [2015-05-28 18:54:52] Index: 1
+**PACKAGE** [2015-05-28 18:54:52] Param: EventID; Value: 4
+EVENT CREATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 18:57:15] Param: CreateEvent; Value: 
+**** [2015-05-28 18:57:15] Param: LoginID; Value: test@test.com
+**** [2015-05-28 18:57:15] Param: LoginPass; Value: test
+**** [2015-05-28 18:57:15] Param: EventName; Value: 123
+**** [2015-05-28 18:57:15] Param: EventDescription; Value: qwe
+**** [2015-05-28 18:57:15] Param: EventLocation; Value: asd
+**** [2015-05-28 18:57:15] Param: ParticipantLimit; Value: 2
+**** [2015-05-28 18:57:15] Param: StartTime; Value: 2015/05/28 0:02
+**** [2015-05-28 18:57:15] Param: EndTime; Value: 2017/01/29 23:55
+**** [2015-05-28 18:57:15] Param: EventType; Value: WoW
+**VERIFED** [2015-05-28 18:57:15] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 18:57:15] Index: 0
+**PACKAGE** [2015-05-28 18:57:15] Param: status; Value: 1
+**PACKAGE** [2015-05-28 18:57:15] Param: reason; Value: 0
+**INDEX** [2015-05-28 18:57:15] Index: 1
+**PACKAGE** [2015-05-28 18:57:15] Param: EventID; Value: 5
+EVENT CREATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 20:34:48] Param: CreateEvent; Value: 
+**** [2015-05-28 20:34:48] Param: LoginID; Value: test2@test.com
+**** [2015-05-28 20:34:48] Param: LoginPass; Value: test
+**** [2015-05-28 20:34:48] Param: EventLocation; Value: home
+**** [2015-05-28 20:34:48] Param: EventType; Value: Predator Killing
+**** [2015-05-28 20:34:48] Param: EventName; Value: Kill 'em all!
+**** [2015-05-28 20:34:48] Param: StartTime; Value: 2015-6-10 15:50:00
+**** [2015-05-28 20:34:48] Param: EndTime; Value: 2015-6-10 17:50:00
+**** [2015-05-28 20:34:48] Param: EventDescription; Value: First to get 30 heads wins!
+**** [2015-05-28 20:34:48] Param: ParticipantLimit; Value: 3
+**** [2015-05-28 20:34:48] Param: MinKarma; Value: 
+**** [2015-05-28 20:34:48] Param: MaxRating; Value: 
+**** [2015-05-28 20:34:48] Param: MinRating; Value: 
+**** [2015-05-28 20:34:48] Param: PartOf; Value: 
+**** [2015-05-28 20:34:48] Param: Rated; Value: 
+**** [2015-05-28 20:34:48] Param: MinAge; Value: 
+**** [2015-05-28 20:34:48] Param: MaxAge; Value: 
+**** [2015-05-28 20:34:48] Param: Sex; Value: 
+**VERIFED** [2015-05-28 20:34:49] Param: test2@test.com; Value: test
+**INDEX** [2015-05-28 20:34:49] Index: 0
+**PACKAGE** [2015-05-28 20:34:49] Param: status; Value: 1
+**PACKAGE** [2015-05-28 20:34:49] Param: reason; Value: 0
+**INDEX** [2015-05-28 20:34:49] Index: 1
+**PACKAGE** [2015-05-28 20:34:49] Param: EventID; Value: 6
+EVENT CREATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 21:18:46] Param: CreateEvent; Value: 
+**** [2015-05-28 21:18:46] Param: LoginID; Value: test@test.com
+**** [2015-05-28 21:18:46] Param: LoginPass; Value: test
+**** [2015-05-28 21:18:46] Param: EventLocation; Value: home
+**** [2015-05-28 21:18:46] Param: EventType; Value: testevent
+**** [2015-05-28 21:18:46] Param: EventName; Value: First Event
+**** [2015-05-28 21:18:46] Param: StartTime; Value: 2015-6-10 15:50:00
+**** [2015-05-28 21:18:46] Param: EndTime; Value: 2015-6-10 17:50:00
+**** [2015-05-28 21:18:46] Param: EventDescription; Value: Tested from Postman
+**** [2015-05-28 21:18:46] Param: ParticipantLimit; Value: 3
+**** [2015-05-28 21:18:46] Param: MinKarma; Value: 
+**** [2015-05-28 21:18:46] Param: MaxRating; Value: 
+**** [2015-05-28 21:18:46] Param: MinRating; Value: 
+**** [2015-05-28 21:18:46] Param: PartOf; Value: 
+**** [2015-05-28 21:18:46] Param: Rated; Value: 
+**** [2015-05-28 21:18:46] Param: MinAge; Value: 
+**** [2015-05-28 21:18:46] Param: MaxAge; Value: 
+**** [2015-05-28 21:18:46] Param: Sex; Value: 
+**VERIFED** [2015-05-28 21:18:46] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 21:18:46] Index: 0
+**PACKAGE** [2015-05-28 21:18:46] Param: status; Value: 1
+**PACKAGE** [2015-05-28 21:18:46] Param: reason; Value: 0
+**INDEX** [2015-05-28 21:18:46] Index: 1
+**PACKAGE** [2015-05-28 21:18:46] Param: EventID; Value: 7
+EVENT CREATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 21:19:37] Param: CreateEvent; Value: 
+**** [2015-05-28 21:19:37] Param: LoginID; Value: test2@test.com
+**** [2015-05-28 21:19:37] Param: LoginPass; Value: test
+**** [2015-05-28 21:19:37] Param: EventLocation; Value: home
+**** [2015-05-28 21:19:37] Param: EventType; Value: testevent
+**** [2015-05-28 21:19:37] Param: EventName; Value: First Event3
+**** [2015-05-28 21:19:37] Param: StartTime; Value: 2015-6-10 15:50:00
+**** [2015-05-28 21:19:37] Param: EndTime; Value: 2015-6-10 17:50:00
+**** [2015-05-28 21:19:37] Param: EventDescription; Value: Tested from Postman
+**** [2015-05-28 21:19:37] Param: ParticipantLimit; Value: 3
+**** [2015-05-28 21:19:37] Param: MinKarma; Value: 
+**** [2015-05-28 21:19:37] Param: MaxRating; Value: 
+**** [2015-05-28 21:19:37] Param: MinRating; Value: 
+**** [2015-05-28 21:19:37] Param: PartOf; Value: 
+**** [2015-05-28 21:19:37] Param: Rated; Value: 
+**** [2015-05-28 21:19:37] Param: MinAge; Value: 
+**** [2015-05-28 21:19:37] Param: MaxAge; Value: 
+**** [2015-05-28 21:19:37] Param: Sex; Value: 
+**VERIFED** [2015-05-28 21:19:37] Param: test2@test.com; Value: test
+**INDEX** [2015-05-28 21:19:37] Index: 0
+**PACKAGE** [2015-05-28 21:19:37] Param: status; Value: 1
+**PACKAGE** [2015-05-28 21:19:37] Param: reason; Value: 0
+**INDEX** [2015-05-28 21:19:37] Index: 1
+**PACKAGE** [2015-05-28 21:19:37] Param: EventID; Value: 8
+EVENT CREATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 21:20:26] Param: CreateEvent; Value: 
+**** [2015-05-28 21:20:26] Param: LoginID; Value: test2@test.com
+**** [2015-05-28 21:20:26] Param: LoginPass; Value: test
+**** [2015-05-28 21:20:26] Param: EventLocation; Value: home
+**** [2015-05-28 21:20:26] Param: EventType; Value: testevent
+**** [2015-05-28 21:20:26] Param: EventName; Value: First Event3
+**** [2015-05-28 21:20:26] Param: StartTime; Value: 2015-6-10 15:50:00
+**** [2015-05-28 21:20:26] Param: EndTime; Value: 2015-6-10 17:50:00
+**** [2015-05-28 21:20:26] Param: EventDescription; Value: Tested from Postman
+**** [2015-05-28 21:20:26] Param: ParticipantLimit; Value: 3
+**** [2015-05-28 21:20:26] Param: MinKarma; Value: 
+**** [2015-05-28 21:20:26] Param: MaxRating; Value: 
+**** [2015-05-28 21:20:26] Param: MinRating; Value: 
+**** [2015-05-28 21:20:26] Param: PartOf; Value: 
+**** [2015-05-28 21:20:26] Param: Rated; Value: 
+**** [2015-05-28 21:20:26] Param: MinAge; Value: 
+**** [2015-05-28 21:20:26] Param: MaxAge; Value: 
+**** [2015-05-28 21:20:26] Param: Sex; Value: 
+**VERIFED** [2015-05-28 21:20:26] Param: test2@test.com; Value: test
+**INDEX** [2015-05-28 21:20:26] Index: 0
+**PACKAGE** [2015-05-28 21:20:26] Param: status; Value: 1
+**PACKAGE** [2015-05-28 21:20:26] Param: reason; Value: 0
+**INDEX** [2015-05-28 21:20:26] Index: 1
+**PACKAGE** [2015-05-28 21:20:26] Param: EventID; Value: 9
+EVENT CREATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 21:20:32] Param: CreateEvent; Value: 
+**** [2015-05-28 21:20:32] Param: LoginID; Value: test2@test.com
+**** [2015-05-28 21:20:32] Param: LoginPass; Value: test
+**** [2015-05-28 21:20:32] Param: EventLocation; Value: home
+**** [2015-05-28 21:20:32] Param: EventType; Value: testevent
+**** [2015-05-28 21:20:32] Param: EventName; Value: First Event3
+**** [2015-05-28 21:20:32] Param: StartTime; Value: 2015-6-10 15:50:00
+**** [2015-05-28 21:20:32] Param: EndTime; Value: 2015-6-10 17:50:00
+**** [2015-05-28 21:20:32] Param: EventDescription; Value: Tested from Postman
+**** [2015-05-28 21:20:32] Param: ParticipantLimit; Value: 3
+**** [2015-05-28 21:20:32] Param: MinKarma; Value: 
+**** [2015-05-28 21:20:32] Param: MaxRating; Value: 
+**** [2015-05-28 21:20:32] Param: MinRating; Value: 
+**** [2015-05-28 21:20:32] Param: PartOf; Value: 
+**** [2015-05-28 21:20:32] Param: Rated; Value: 
+**** [2015-05-28 21:20:32] Param: MinAge; Value: 
+**** [2015-05-28 21:20:32] Param: MaxAge; Value: 
+**** [2015-05-28 21:20:32] Param: Sex; Value: 
+**VERIFED** [2015-05-28 21:20:32] Param: test2@test.com; Value: test
+**INDEX** [2015-05-28 21:20:32] Index: 0
+**PACKAGE** [2015-05-28 21:20:32] Param: status; Value: 1
+**PACKAGE** [2015-05-28 21:20:32] Param: reason; Value: 0
+**INDEX** [2015-05-28 21:20:32] Index: 1
+**PACKAGE** [2015-05-28 21:20:32] Param: EventID; Value: 10
+EVENT CREATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 21:20:34] Param: CreateEvent; Value: 
+**** [2015-05-28 21:20:34] Param: LoginID; Value: test2@test.com
+**** [2015-05-28 21:20:34] Param: LoginPass; Value: test
+**** [2015-05-28 21:20:34] Param: EventLocation; Value: home
+**** [2015-05-28 21:20:34] Param: EventType; Value: testevent
+**** [2015-05-28 21:20:34] Param: EventName; Value: First Event3
+**** [2015-05-28 21:20:34] Param: StartTime; Value: 2015-6-10 15:50:00
+**** [2015-05-28 21:20:34] Param: EndTime; Value: 2015-6-10 17:50:00
+**** [2015-05-28 21:20:34] Param: EventDescription; Value: Tested from Postman
+**** [2015-05-28 21:20:34] Param: ParticipantLimit; Value: 3
+**** [2015-05-28 21:20:34] Param: MinKarma; Value: 
+**** [2015-05-28 21:20:34] Param: MaxRating; Value: 
+**** [2015-05-28 21:20:34] Param: MinRating; Value: 
+**** [2015-05-28 21:20:34] Param: PartOf; Value: 
+**** [2015-05-28 21:20:34] Param: Rated; Value: 
+**** [2015-05-28 21:20:34] Param: MinAge; Value: 
+**** [2015-05-28 21:20:34] Param: MaxAge; Value: 
+**** [2015-05-28 21:20:34] Param: Sex; Value: 
+**VERIFED** [2015-05-28 21:20:34] Param: test2@test.com; Value: test
+**INDEX** [2015-05-28 21:20:34] Index: 0
+**PACKAGE** [2015-05-28 21:20:34] Param: status; Value: 1
+**PACKAGE** [2015-05-28 21:20:34] Param: reason; Value: 0
+**INDEX** [2015-05-28 21:20:34] Index: 1
+**PACKAGE** [2015-05-28 21:20:34] Param: EventID; Value: 11
+EVENT CREATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 21:20:35] Param: CreateEvent; Value: 
+**** [2015-05-28 21:20:35] Param: LoginID; Value: test2@test.com
+**** [2015-05-28 21:20:35] Param: LoginPass; Value: test
+**** [2015-05-28 21:20:35] Param: EventLocation; Value: home
+**** [2015-05-28 21:20:35] Param: EventType; Value: testevent
+**** [2015-05-28 21:20:35] Param: EventName; Value: First Event3
+**** [2015-05-28 21:20:35] Param: StartTime; Value: 2015-6-10 15:50:00
+**** [2015-05-28 21:20:35] Param: EndTime; Value: 2015-6-10 17:50:00
+**** [2015-05-28 21:20:35] Param: EventDescription; Value: Tested from Postman
+**** [2015-05-28 21:20:35] Param: ParticipantLimit; Value: 3
+**** [2015-05-28 21:20:35] Param: MinKarma; Value: 
+**** [2015-05-28 21:20:35] Param: MaxRating; Value: 
+**** [2015-05-28 21:20:35] Param: MinRating; Value: 
+**** [2015-05-28 21:20:35] Param: PartOf; Value: 
+**** [2015-05-28 21:20:35] Param: Rated; Value: 
+**** [2015-05-28 21:20:35] Param: MinAge; Value: 
+**** [2015-05-28 21:20:35] Param: MaxAge; Value: 
+**** [2015-05-28 21:20:35] Param: Sex; Value: 
+**VERIFED** [2015-05-28 21:20:35] Param: test2@test.com; Value: test
+**INDEX** [2015-05-28 21:20:35] Index: 0
+**PACKAGE** [2015-05-28 21:20:35] Param: status; Value: 1
+**PACKAGE** [2015-05-28 21:20:35] Param: reason; Value: 0
+**INDEX** [2015-05-28 21:20:35] Index: 1
+**PACKAGE** [2015-05-28 21:20:35] Param: EventID; Value: 12
+EVENT CREATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 21:20:36] Param: CreateEvent; Value: 
+**** [2015-05-28 21:20:36] Param: LoginID; Value: test2@test.com
+**** [2015-05-28 21:20:36] Param: LoginPass; Value: test
+**** [2015-05-28 21:20:36] Param: EventLocation; Value: home
+**** [2015-05-28 21:20:36] Param: EventType; Value: testevent
+**** [2015-05-28 21:20:36] Param: EventName; Value: First Event3
+**** [2015-05-28 21:20:36] Param: StartTime; Value: 2015-6-10 15:50:00
+**** [2015-05-28 21:20:36] Param: EndTime; Value: 2015-6-10 17:50:00
+**** [2015-05-28 21:20:36] Param: EventDescription; Value: Tested from Postman
+**** [2015-05-28 21:20:36] Param: ParticipantLimit; Value: 3
+**** [2015-05-28 21:20:36] Param: MinKarma; Value: 
+**** [2015-05-28 21:20:36] Param: MaxRating; Value: 
+**** [2015-05-28 21:20:36] Param: MinRating; Value: 
+**** [2015-05-28 21:20:36] Param: PartOf; Value: 
+**** [2015-05-28 21:20:36] Param: Rated; Value: 
+**** [2015-05-28 21:20:36] Param: MinAge; Value: 
+**** [2015-05-28 21:20:36] Param: MaxAge; Value: 
+**** [2015-05-28 21:20:36] Param: Sex; Value: 
+**VERIFED** [2015-05-28 21:20:36] Param: test2@test.com; Value: test
+**INDEX** [2015-05-28 21:20:36] Index: 0
+**PACKAGE** [2015-05-28 21:20:36] Param: status; Value: 1
+**PACKAGE** [2015-05-28 21:20:36] Param: reason; Value: 0
+**INDEX** [2015-05-28 21:20:36] Index: 1
+**PACKAGE** [2015-05-28 21:20:36] Param: EventID; Value: 13
+EVENT CREATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 21:20:37] Param: CreateEvent; Value: 
+**** [2015-05-28 21:20:37] Param: LoginID; Value: test2@test.com
+**** [2015-05-28 21:20:37] Param: LoginPass; Value: test
+**** [2015-05-28 21:20:37] Param: EventLocation; Value: home
+**** [2015-05-28 21:20:37] Param: EventType; Value: testevent
+**** [2015-05-28 21:20:37] Param: EventName; Value: First Event3
+**** [2015-05-28 21:20:37] Param: StartTime; Value: 2015-6-10 15:50:00
+**** [2015-05-28 21:20:37] Param: EndTime; Value: 2015-6-10 17:50:00
+**** [2015-05-28 21:20:37] Param: EventDescription; Value: Tested from Postman
+**** [2015-05-28 21:20:37] Param: ParticipantLimit; Value: 3
+**** [2015-05-28 21:20:37] Param: MinKarma; Value: 
+**** [2015-05-28 21:20:37] Param: MaxRating; Value: 
+**** [2015-05-28 21:20:37] Param: MinRating; Value: 
+**** [2015-05-28 21:20:37] Param: PartOf; Value: 
+**** [2015-05-28 21:20:37] Param: Rated; Value: 
+**** [2015-05-28 21:20:37] Param: MinAge; Value: 
+**** [2015-05-28 21:20:37] Param: MaxAge; Value: 
+**** [2015-05-28 21:20:37] Param: Sex; Value: 
+**VERIFED** [2015-05-28 21:20:38] Param: test2@test.com; Value: test
+**INDEX** [2015-05-28 21:20:38] Index: 0
+**PACKAGE** [2015-05-28 21:20:38] Param: status; Value: 1
+**PACKAGE** [2015-05-28 21:20:38] Param: reason; Value: 0
+**INDEX** [2015-05-28 21:20:38] Index: 1
+**PACKAGE** [2015-05-28 21:20:38] Param: EventID; Value: 14
+EVENT CREATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 21:20:39] Param: CreateEvent; Value: 
+**** [2015-05-28 21:20:39] Param: LoginID; Value: test2@test.com
+**** [2015-05-28 21:20:39] Param: LoginPass; Value: test
+**** [2015-05-28 21:20:39] Param: EventLocation; Value: home
+**** [2015-05-28 21:20:39] Param: EventType; Value: testevent
+**** [2015-05-28 21:20:39] Param: EventName; Value: First Event3
+**** [2015-05-28 21:20:39] Param: StartTime; Value: 2015-6-10 15:50:00
+**** [2015-05-28 21:20:39] Param: EndTime; Value: 2015-6-10 17:50:00
+**** [2015-05-28 21:20:39] Param: EventDescription; Value: Tested from Postman
+**** [2015-05-28 21:20:39] Param: ParticipantLimit; Value: 3
+**** [2015-05-28 21:20:39] Param: MinKarma; Value: 
+**** [2015-05-28 21:20:39] Param: MaxRating; Value: 
+**** [2015-05-28 21:20:39] Param: MinRating; Value: 
+**** [2015-05-28 21:20:39] Param: PartOf; Value: 
+**** [2015-05-28 21:20:39] Param: Rated; Value: 
+**** [2015-05-28 21:20:39] Param: MinAge; Value: 
+**** [2015-05-28 21:20:39] Param: MaxAge; Value: 
+**** [2015-05-28 21:20:39] Param: Sex; Value: 
+**VERIFED** [2015-05-28 21:20:39] Param: test2@test.com; Value: test
+**INDEX** [2015-05-28 21:20:39] Index: 0
+**PACKAGE** [2015-05-28 21:20:39] Param: status; Value: 1
+**PACKAGE** [2015-05-28 21:20:39] Param: reason; Value: 0
+**INDEX** [2015-05-28 21:20:39] Index: 1
+**PACKAGE** [2015-05-28 21:20:39] Param: EventID; Value: 15
+EVENT CREATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-29 00:08:27] Param: CreateEvent; Value: 
+**** [2015-05-29 00:08:27] Param: LoginID; Value: test@test.com
+**** [2015-05-29 00:08:27] Param: LoginPass; Value: test
+**** [2015-05-29 00:08:27] Param: EventName; Value: oldEvent
+**** [2015-05-29 00:08:27] Param: EventDescription; Value: asdf
+**** [2015-05-29 00:08:27] Param: EventLocation; Value: asd
+**** [2015-05-29 00:08:27] Param: ParticipantLimit; Value: 3
+**** [2015-05-29 00:08:27] Param: StartTime; Value: 2014/05/28 0:00
+**** [2015-05-29 00:08:27] Param: EndTime; Value: 2014/05/29 23:59
+**** [2015-05-29 00:08:27] Param: EventType; Value: WoW
+**VERIFED** [2015-05-29 00:08:27] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 00:08:27] Index: 0
+**PACKAGE** [2015-05-29 00:08:27] Param: status; Value: 1
+**PACKAGE** [2015-05-29 00:08:27] Param: reason; Value: 0
+**INDEX** [2015-05-29 00:08:27] Index: 1
+**PACKAGE** [2015-05-29 00:08:27] Param: EventID; Value: 16
+EVENT CREATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-29 00:29:57] Param: CreateEvent; Value: 
+**** [2015-05-29 00:29:57] Param: LoginID; Value: test@test.com
+**** [2015-05-29 00:29:57] Param: LoginPass; Value: test
+**** [2015-05-29 00:29:57] Param: EventName; Value: oldEvent
+**** [2015-05-29 00:29:57] Param: EventDescription; Value: asd
+**** [2015-05-29 00:29:57] Param: EventLocation; Value: qwe
+**** [2015-05-29 00:29:57] Param: ParticipantLimit; Value: 3
+**** [2015-05-29 00:29:57] Param: StartTime; Value: 2011/05/28 0:00
+**** [2015-05-29 00:29:57] Param: EndTime; Value: 2012/05/28 0:00
+**** [2015-05-29 00:29:57] Param: EventType; Value: WoW
+**VERIFED** [2015-05-29 00:29:57] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 00:29:57] Index: 0
+**PACKAGE** [2015-05-29 00:29:57] Param: status; Value: 1
+**PACKAGE** [2015-05-29 00:29:57] Param: reason; Value: 0
+**INDEX** [2015-05-29 00:29:57] Index: 1
+**PACKAGE** [2015-05-29 00:29:57] Param: EventID; Value: 17
+EVENT CREATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-29 00:32:15] Param: CreateEvent; Value: 
+**** [2015-05-29 00:32:15] Param: LoginID; Value: test@test.com
+**** [2015-05-29 00:32:15] Param: LoginPass; Value: test
+**** [2015-05-29 00:32:15] Param: EventLocation; Value: home
+**** [2015-05-29 00:32:15] Param: EventType; Value: event leave test
+**** [2015-05-29 00:32:15] Param: EventName; Value: First Event
+**** [2015-05-29 00:32:15] Param: StartTime; Value: 2015-6-10 15:50:00
+**** [2015-05-29 00:32:15] Param: EndTime; Value: 2015-6-10 17:50:00
+**** [2015-05-29 00:32:15] Param: EventDescription; Value: Tested from Postman
+**** [2015-05-29 00:32:15] Param: ParticipantLimit; Value: 3
+**** [2015-05-29 00:32:15] Param: MinKarma; Value: 
+**** [2015-05-29 00:32:15] Param: MaxRating; Value: 
+**** [2015-05-29 00:32:15] Param: MinRating; Value: 
+**** [2015-05-29 00:32:15] Param: PartOf; Value: 
+**** [2015-05-29 00:32:15] Param: Rated; Value: 
+**** [2015-05-29 00:32:15] Param: MinAge; Value: 
+**** [2015-05-29 00:32:15] Param: MaxAge; Value: 
+**** [2015-05-29 00:32:15] Param: Sex; Value: 
+**VERIFED** [2015-05-29 00:32:15] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 00:32:15] Index: 0
+**PACKAGE** [2015-05-29 00:32:15] Param: status; Value: 1
+**PACKAGE** [2015-05-29 00:32:15] Param: reason; Value: 0
+**INDEX** [2015-05-29 00:32:15] Index: 1
+**PACKAGE** [2015-05-29 00:32:15] Param: EventID; Value: 18
+EVENT CREATED!
+END OF TRANSMISSION
+**********

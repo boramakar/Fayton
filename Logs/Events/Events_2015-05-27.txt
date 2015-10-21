@@ -1,0 +1,303 @@
+NEW TRANSMISSION START
+**** [2015-05-27 18:39:43] Param: MyEvents; Value: 
+**** [2015-05-27 18:39:43] Param: LoginID; Value: 
+**** [2015-05-27 18:39:43] Param: LoginPass; Value: 
+**INDEX** [2015-05-27 18:39:43] Index: 0
+**PACKAGE** [2015-05-27 18:39:43] Param: status; Value: 0
+**PACKAGE** [2015-05-27 18:39:43] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-27 18:41:51] Param: MyEvents; Value: 
+**** [2015-05-27 18:41:51] Param: LoginID; Value: test@test.com
+**** [2015-05-27 18:41:51] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 18:41:51] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 18:41:51] Index: 0
+**PACKAGE** [2015-05-27 18:41:51] Param: status; Value: 1
+**PACKAGE** [2015-05-27 18:41:51] Param: reason; Value: 0
+MY EVENTS SENT!!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-27 18:49:22] Param: MyEvents; Value: 
+**** [2015-05-27 18:49:22] Param: LoginID; Value: test@test.com
+**** [2015-05-27 18:49:22] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 18:49:22] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 18:49:22] Index: 0
+**PACKAGE** [2015-05-27 18:49:22] Param: status; Value: 1
+**PACKAGE** [2015-05-27 18:49:22] Param: reason; Value: 0
+MY EVENTS SENT!!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-27 18:50:58] Param: MyEvents; Value: 
+**** [2015-05-27 18:50:58] Param: LoginID; Value: test@test.com
+**** [2015-05-27 18:50:58] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 18:50:58] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 18:50:58] Index: 0
+**PACKAGE** [2015-05-27 18:50:58] Param: status; Value: 1
+**PACKAGE** [2015-05-27 18:50:58] Param: reason; Value: 0
+MY EVENTS SENT!!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-27 18:56:15] Param: MyEvents; Value: 
+**** [2015-05-27 18:56:15] Param: LoginID; Value: test@test.com
+**** [2015-05-27 18:56:15] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 18:56:15] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 18:56:15] Index: 0
+**PACKAGE** [2015-05-27 18:56:15] Param: status; Value: 1
+**PACKAGE** [2015-05-27 18:56:15] Param: reason; Value: 0
+MY EVENTS SENT!!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-27 18:57:38] Param: MyEvents; Value: 
+**** [2015-05-27 18:57:38] Param: LoginID; Value: test@test.com
+**** [2015-05-27 18:57:38] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 18:57:38] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 18:57:38] Index: 0
+**PACKAGE** [2015-05-27 18:57:38] Param: status; Value: 1
+**PACKAGE** [2015-05-27 18:57:38] Param: reason; Value: 0
+MY EVENTS SENT!!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-27 18:58:40] Param: MyEvents; Value: 
+**** [2015-05-27 18:58:40] Param: LoginID; Value: test@test.com
+**** [2015-05-27 18:58:40] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 18:58:40] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 18:58:40] Index: 0
+**PACKAGE** [2015-05-27 18:58:40] Param: status; Value: 1
+**PACKAGE** [2015-05-27 18:58:40] Param: reason; Value: 0
+MY EVENTS SENT!!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-27 19:05:54] Param: MyEvents; Value: 
+**** [2015-05-27 19:05:54] Param: LoginID; Value: test@test.com
+**** [2015-05-27 19:05:54] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 19:05:54] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 19:05:54] Index: 0
+**PACKAGE** [2015-05-27 19:05:54] Param: status; Value: 1
+**PACKAGE** [2015-05-27 19:05:54] Param: reason; Value: 0
+MY EVENTS SENT!!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-27 19:06:34] Param: MyEvents; Value: 
+**** [2015-05-27 19:06:34] Param: LoginID; Value: test@test.com
+**** [2015-05-27 19:06:34] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 19:06:34] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 19:06:34] Index: 0
+**PACKAGE** [2015-05-27 19:06:34] Param: status; Value: 1
+**PACKAGE** [2015-05-27 19:06:34] Param: reason; Value: 0
+MY EVENTS SENT!!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-27 19:07:26] Param: MyEvents; Value: 
+**** [2015-05-27 19:07:26] Param: LoginID; Value: test@test.com
+**** [2015-05-27 19:07:26] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 19:07:26] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 19:07:26] Index: 0
+**PACKAGE** [2015-05-27 19:07:26] Param: status; Value: 1
+**PACKAGE** [2015-05-27 19:07:26] Param: reason; Value: 0
+MY EVENTS SENT!!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-27 19:11:00] Param: MyEvents; Value: 
+**** [2015-05-27 19:11:00] Param: LoginID; Value: test@test.com
+**** [2015-05-27 19:11:00] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 19:11:00] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 19:11:00] Index: 0
+**PACKAGE** [2015-05-27 19:11:00] Param: status; Value: 1
+**PACKAGE** [2015-05-27 19:11:00] Param: reason; Value: 0
+MY EVENTS SENT!!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-27 19:13:12] Param: MyEvents; Value: 
+**** [2015-05-27 19:13:12] Param: LoginID; Value: test@test.com
+**** [2015-05-27 19:13:12] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 19:13:12] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 19:13:12] Index: 0
+**PACKAGE** [2015-05-27 19:13:12] Param: status; Value: 1
+**PACKAGE** [2015-05-27 19:13:12] Param: reason; Value: 0
+MY EVENTS SENT!!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-27 19:23:01] Param: MyEvents; Value: 
+**** [2015-05-27 19:23:01] Param: LoginID; Value: test@test.com
+**** [2015-05-27 19:23:01] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 19:23:01] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 19:23:01] Index: 0
+**PACKAGE** [2015-05-27 19:23:01] Param: status; Value: 1
+**PACKAGE** [2015-05-27 19:23:01] Param: reason; Value: 0
+MY EVENTS SENT!!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-27 19:28:37] Param: MyEvents; Value: 
+**** [2015-05-27 19:28:37] Param: LoginID; Value: test@test.com
+**** [2015-05-27 19:28:37] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 19:28:40] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 19:28:40] Index: 0
+**PACKAGE** [2015-05-27 19:28:40] Param: status; Value: 1
+**PACKAGE** [2015-05-27 19:28:40] Param: reason; Value: 0
+MY EVENTS SENT!!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-27 19:30:32] Param: MyEvents; Value: 
+**** [2015-05-27 19:30:32] Param: LoginID; Value: test@test.com
+**** [2015-05-27 19:30:32] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 19:30:32] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 19:30:32] Index: 0
+**PACKAGE** [2015-05-27 19:30:32] Param: status; Value: 1
+**PACKAGE** [2015-05-27 19:30:32] Param: reason; Value: 0
+MY EVENTS SENT!!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-27 19:33:27] Param: MyEvents; Value: 
+**** [2015-05-27 19:33:27] Param: LoginID; Value: test@test.com
+**** [2015-05-27 19:33:27] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 19:33:27] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 19:33:27] Index: 0
+**PACKAGE** [2015-05-27 19:33:27] Param: status; Value: 1
+**PACKAGE** [2015-05-27 19:33:27] Param: reason; Value: 0
+MY EVENTS SENT!!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-27 19:33:56] Param: MyEvents; Value: 
+**** [2015-05-27 19:33:56] Param: LoginID; Value: test@test.com
+**** [2015-05-27 19:33:56] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 19:33:56] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 19:33:56] Index: 0
+**PACKAGE** [2015-05-27 19:33:56] Param: status; Value: 1
+**PACKAGE** [2015-05-27 19:33:56] Param: reason; Value: 0
+MY EVENTS SENT!!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-27 19:33:58] Param: MyEvents; Value: 
+**** [2015-05-27 19:33:58] Param: LoginID; Value: test@test.com
+**** [2015-05-27 19:33:58] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 19:33:58] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 19:33:58] Index: 0
+**PACKAGE** [2015-05-27 19:33:58] Param: status; Value: 1
+**PACKAGE** [2015-05-27 19:33:58] Param: reason; Value: 0
+MY EVENTS SENT!!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-27 19:35:47] Param: MyEvents; Value: 
+**** [2015-05-27 19:35:47] Param: LoginID; Value: test@test.com
+**** [2015-05-27 19:35:47] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 19:35:50] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 19:35:50] Index: 0
+**PACKAGE** [2015-05-27 19:35:50] Param: status; Value: 1
+**PACKAGE** [2015-05-27 19:35:50] Param: reason; Value: 0
+MY EVENTS SENT!!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-27 19:36:06] Param: MyEvents; Value: 
+**** [2015-05-27 19:36:06] Param: LoginID; Value: test@test.com
+**** [2015-05-27 19:36:06] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 19:36:06] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 19:36:06] Index: 0
+**PACKAGE** [2015-05-27 19:36:06] Param: status; Value: 1
+**PACKAGE** [2015-05-27 19:36:06] Param: reason; Value: 0
+MY EVENTS SENT!!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-27 23:59:12] Param: MyEvents; Value: 
+**** [2015-05-27 23:59:12] Param: LoginID; Value: test@test.com
+**** [2015-05-27 23:59:12] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 23:59:12] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 23:59:12] Index: 0
+**PACKAGE** [2015-05-27 23:59:12] Param: status; Value: 1
+**PACKAGE** [2015-05-27 23:59:12] Param: reason; Value: 0
+MY EVENTS SENT!!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-27 23:59:16] Param: MyEvents; Value: 
+**** [2015-05-27 23:59:16] Param: LoginID; Value: test@test.com
+**** [2015-05-27 23:59:16] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 23:59:16] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 23:59:16] Index: 0
+**PACKAGE** [2015-05-27 23:59:16] Param: status; Value: 1
+**PACKAGE** [2015-05-27 23:59:16] Param: reason; Value: 0
+MY EVENTS SENT!!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 00:01:20] Param: MyEvents; Value: 
+**** [2015-05-28 00:01:20] Param: LoginID; Value: test@test.com
+**** [2015-05-28 00:01:20] Param: LoginPass; Value: test
+**VERIFED** [2015-05-28 00:01:20] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 00:01:20] Index: 0
+**PACKAGE** [2015-05-28 00:01:20] Param: status; Value: 1
+**PACKAGE** [2015-05-28 00:01:20] Param: reason; Value: 0
+MY EVENTS SENT!!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 00:23:11] Param: MyEvents; Value: 
+**** [2015-05-28 00:23:11] Param: LoginID; Value: 
+**** [2015-05-28 00:23:11] Param: LoginPass; Value: 
+**INDEX** [2015-05-28 00:23:11] Index: 0
+**PACKAGE** [2015-05-28 00:23:11] Param: status; Value: 0
+**PACKAGE** [2015-05-28 00:23:11] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 00:23:13] Param: MyEvents; Value: 
+**** [2015-05-28 00:23:13] Param: LoginID; Value: 
+**** [2015-05-28 00:23:13] Param: LoginPass; Value: 
+**INDEX** [2015-05-28 00:23:13] Index: 0
+**PACKAGE** [2015-05-28 00:23:13] Param: status; Value: 0
+**PACKAGE** [2015-05-28 00:23:13] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 00:23:15] Param: MyEvents; Value: 
+**** [2015-05-28 00:23:15] Param: LoginID; Value: 
+**** [2015-05-28 00:23:15] Param: LoginPass; Value: 
+**INDEX** [2015-05-28 00:23:15] Index: 0
+**PACKAGE** [2015-05-28 00:23:15] Param: status; Value: 0
+**PACKAGE** [2015-05-28 00:23:15] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 00:33:45] Param: MyEvents; Value: 
+**** [2015-05-28 00:33:45] Param: LoginID; Value: test@test.com
+**** [2015-05-28 00:33:45] Param: LoginPass; Value: test
+**VERIFED** [2015-05-28 00:33:45] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 00:33:45] Index: 0
+**PACKAGE** [2015-05-28 00:33:45] Param: status; Value: 1
+**PACKAGE** [2015-05-28 00:33:45] Param: reason; Value: 0
+MY EVENTS SENT!!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 00:34:03] Param: MyEvents; Value: 
+**** [2015-05-28 00:34:03] Param: LoginID; Value: 
+**** [2015-05-28 00:34:03] Param: LoginPass; Value: 
+**INDEX** [2015-05-28 00:34:03] Index: 0
+**PACKAGE** [2015-05-28 00:34:03] Param: status; Value: 0
+**PACKAGE** [2015-05-28 00:34:03] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********

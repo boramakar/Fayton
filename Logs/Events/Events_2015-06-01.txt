@@ -1,0 +1,104 @@
+NEW TRANSMISSION START
+**$_POST** [2015-06-01 01:21:42] Param: GetEvent; Value: 2
+**$_POST** [2015-06-01 01:21:42] Param: LoginID; Value: test@test.com
+**$_POST** [2015-06-01 01:21:42] Param: LoginPass; Value: test
+**VERIFED** [2015-06-01 01:21:42] Param: test@test.com; Value: test
+**INDEX** [2015-06-01 01:21:42] Index: 0
+**PACKAGE** [2015-06-01 01:21:42] Param: status; Value: 1
+**PACKAGE** [2015-06-01 01:21:42] Param: reason; Value: 0
+**INDEX** [2015-06-01 01:21:42] Index: 1
+**PACKAGE** [2015-06-01 01:21:42] Param: EventID; Value: 2
+**PACKAGE** [2015-06-01 01:21:42] Param: EventName; Value: TestEventBois
+**PACKAGE** [2015-06-01 01:21:42] Param: EventLocation; Value: Narnia
+**PACKAGE** [2015-06-01 01:21:42] Param: EventType; Value: WoW
+**PACKAGE** [2015-06-01 01:21:42] Param: EventDescription; Value: Test test test huehuehue
+**PACKAGE** [2015-06-01 01:21:42] Param: StartTime; Value: 2015-05-30 23:59:00
+**PACKAGE** [2015-06-01 01:21:42] Param: EndTime; Value: 2015-06-10 17:50:00
+**PACKAGE** [2015-06-01 01:21:42] Param: Host; Value: test@test.com
+**PACKAGE** [2015-06-01 01:21:42] Param: ParticipantLimit; Value: 3/3
+**PACKAGE** [2015-06-01 01:21:42] Param: EventProtection; Value: 1
+**PACKAGE** [2015-06-01 01:21:42] Param: EventParameters; Value: Min Karma:0
+Min Age:0
+Min Rating:0
+Max Rating:0
+Rated:0
+Max Age:0
+**PACKAGE** [2015-06-01 01:21:42] Param: PartOf; Value: 1
+**INDEX** [2015-06-01 01:21:42] Index: 2
+**PACKAGE** [2015-06-01 01:21:42] Param: UserID; Value: test2@test.com
+**PACKAGE** [2015-06-01 01:21:42] Param: UserName; Value: Ajdar Yılmaz
+**PACKAGE** [2015-06-01 01:21:42] Param: Commentable; Value: 1
+**INDEX** [2015-06-01 01:21:42] Index: 3
+**PACKAGE** [2015-06-01 01:21:42] Param: UserID; Value: test@test.com
+**PACKAGE** [2015-06-01 01:21:42] Param: UserName; Value: Kamer Levi
+**PACKAGE** [2015-06-01 01:21:42] Param: Commentable; Value: 1
+**INDEX** [2015-06-01 01:21:42] Index: 4
+**PACKAGE** [2015-06-01 01:21:42] Param: UserID; Value: testlab@test.com
+**PACKAGE** [2015-06-01 01:21:42] Param: UserName; Value: Cemal Yilmaz
+**PACKAGE** [2015-06-01 01:21:42] Param: Commentable; Value: 1
+EVENT DETAILS SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-06-01 01:23:10] Param: GetEventList; Value: 
+**$_POST** [2015-06-01 01:23:10] Param: LoginID; Value: test@test.com
+**$_POST** [2015-06-01 01:23:10] Param: LoginPass; Value: test
+**$_POST** [2015-06-01 01:23:10] Param: MinKarma; Value: 
+**$_POST** [2015-06-01 01:23:10] Param: EventLocation; Value: 
+**$_POST** [2015-06-01 01:23:10] Param: EventType; Value: 
+**$_POST** [2015-06-01 01:23:10] Param: StartTime; Value: 
+**$_POST** [2015-06-01 01:23:10] Param: StartDate; Value: 
+**$_POST** [2015-06-01 01:23:10] Param: EndTime; Value: 
+**$_POST** [2015-06-01 01:23:10] Param: EndDate; Value: 
+**VERIFED** [2015-06-01 01:23:10] Param: test@test.com; Value: test
+**INDEX** [2015-06-01 01:23:10] Index: 0
+**PACKAGE** [2015-06-01 01:23:10] Param: status; Value: 1
+**PACKAGE** [2015-06-01 01:23:10] Param: reason; Value: 0
+**INDEX** [2015-06-01 01:23:10] Index: 1
+**PACKAGE** [2015-06-01 01:23:10] Param: 0; Value: EventID
+**PACKAGE** [2015-06-01 01:23:10] Param: 1; Value: EventName
+**PACKAGE** [2015-06-01 01:23:10] Param: 2; Value: EventLocation
+**PACKAGE** [2015-06-01 01:23:10] Param: 3; Value: StartTime
+**PACKAGE** [2015-06-01 01:23:10] Param: 4; Value: Participants
+**PACKAGE** [2015-06-01 01:23:10] Param: 5; Value: ParticipantLimit
+**PACKAGE** [2015-06-01 01:23:10] Param: 6; Value: MinKarma
+**PACKAGE** [2015-06-01 01:23:10] Param: 7; Value: EventType
+**INDEX** [2015-06-01 01:23:10] Index: 2
+**PACKAGE** [2015-06-01 01:23:10] Param: EventID; Value: 9
+**PACKAGE** [2015-06-01 01:23:10] Param: EventName; Value: First Event3
+**PACKAGE** [2015-06-01 01:23:10] Param: EventLocation; Value: Tested from Postman
+**PACKAGE** [2015-06-01 01:23:10] Param: StartTime; Value: 2015-06-10 17:50:00
+**PACKAGE** [2015-06-01 01:23:10] Param: Participants; Value: 1
+**PACKAGE** [2015-06-01 01:23:10] Param: ParticipantLimit; Value: 3
+**PACKAGE** [2015-06-01 01:23:10] Param: MinKarma; Value: 0
+**PACKAGE** [2015-06-01 01:23:10] Param: EventType; Value: testevent
+**INDEX** [2015-06-01 01:23:10] Index: 3
+**PACKAGE** [2015-06-01 01:23:10] Param: EventID; Value: 10
+**PACKAGE** [2015-06-01 01:23:10] Param: EventName; Value: First Event4
+**PACKAGE** [2015-06-01 01:23:10] Param: EventLocation; Value: Tested from Postman
+**PACKAGE** [2015-06-01 01:23:10] Param: StartTime; Value: 2015-06-10 17:50:00
+**PACKAGE** [2015-06-01 01:23:10] Param: Participants; Value: 1
+**PACKAGE** [2015-06-01 01:23:10] Param: ParticipantLimit; Value: 3
+**PACKAGE** [2015-06-01 01:23:10] Param: MinKarma; Value: 0
+**PACKAGE** [2015-06-01 01:23:10] Param: EventType; Value: testevent
+**INDEX** [2015-06-01 01:23:10] Index: 4
+**PACKAGE** [2015-06-01 01:23:10] Param: EventID; Value: 14
+**PACKAGE** [2015-06-01 01:23:10] Param: EventName; Value: First Event8
+**PACKAGE** [2015-06-01 01:23:10] Param: EventLocation; Value: Tested from Postman
+**PACKAGE** [2015-06-01 01:23:10] Param: StartTime; Value: 2015-06-10 17:50:00
+**PACKAGE** [2015-06-01 01:23:10] Param: Participants; Value: 1
+**PACKAGE** [2015-06-01 01:23:10] Param: ParticipantLimit; Value: 3
+**PACKAGE** [2015-06-01 01:23:10] Param: MinKarma; Value: 0
+**PACKAGE** [2015-06-01 01:23:10] Param: EventType; Value: testevent
+**INDEX** [2015-06-01 01:23:10] Index: 5
+**PACKAGE** [2015-06-01 01:23:10] Param: EventID; Value: 15
+**PACKAGE** [2015-06-01 01:23:10] Param: EventName; Value: First Event9
+**PACKAGE** [2015-06-01 01:23:10] Param: EventLocation; Value: Tested from Postman
+**PACKAGE** [2015-06-01 01:23:10] Param: StartTime; Value: 2015-06-10 17:50:00
+**PACKAGE** [2015-06-01 01:23:10] Param: Participants; Value: 1
+**PACKAGE** [2015-06-01 01:23:10] Param: ParticipantLimit; Value: 3
+**PACKAGE** [2015-06-01 01:23:10] Param: MinKarma; Value: 0
+**PACKAGE** [2015-06-01 01:23:10] Param: EventType; Value: testevent
+EVENT LIST SENT!
+END OF TRANSMISSION
+**********

@@ -1,0 +1,5 @@
+[2015-05-28 21:20:35] First Event3 event created!
+[21:20] test2@test.com joined event!
+[03:22]  joined event!
+[03:26]  joined event!
+[14:32] Cemal Yilmaz joined event!

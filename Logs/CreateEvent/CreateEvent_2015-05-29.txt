@@ -1,0 +1,40 @@
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:20:39] Param: CreateEvent; Value: 
+**$_POST** [2015-05-29 14:20:39] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:20:39] Param: LoginPass; Value: 123
+**$_POST** [2015-05-29 14:20:39] Param: EventName; Value: labevent
+**$_POST** [2015-05-29 14:20:39] Param: EventDescription; Value: this is a lab event
+**$_POST** [2015-05-29 14:20:39] Param: EventLocation; Value: at lab
+**$_POST** [2015-05-29 14:20:39] Param: ParticipantLimit; Value: 4
+**$_POST** [2015-05-29 14:20:39] Param: StartTime; Value: 2015/05/29 0:01
+**$_POST** [2015-05-29 14:20:39] Param: EndTime; Value: 2015/06/01 0:00
+**$_POST** [2015-05-29 14:20:39] Param: EventType; Value: D&D
+**VERIFED** [2015-05-29 14:20:39] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:20:39] Index: 0
+**PACKAGE** [2015-05-29 14:20:39] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:20:39] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:20:39] Index: 1
+**PACKAGE** [2015-05-29 14:20:39] Param: EventID; Value: 19
+EVENT CREATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:28:24] Param: CreateEvent; Value: 
+**$_POST** [2015-05-29 14:28:24] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 14:28:24] Param: LoginPass; Value: test
+**$_POST** [2015-05-29 14:28:24] Param: EventName; Value: thisevent
+**$_POST** [2015-05-29 14:28:24] Param: EventDescription; Value: 123
+**$_POST** [2015-05-29 14:28:24] Param: EventLocation; Value: 123
+**$_POST** [2015-05-29 14:28:24] Param: ParticipantLimit; Value: 123
+**$_POST** [2015-05-29 14:28:24] Param: StartTime; Value: 2016/05/29 0:00
+**$_POST** [2015-05-29 14:28:24] Param: EndTime; Value: 2018/05/29 0:01
+**$_POST** [2015-05-29 14:28:24] Param: EventType; Value: WoW
+**VERIFED** [2015-05-29 14:28:24] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 14:28:24] Index: 0
+**PACKAGE** [2015-05-29 14:28:24] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:28:24] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:28:24] Index: 1
+**PACKAGE** [2015-05-29 14:28:24] Param: EventID; Value: 20
+EVENT CREATED!
+END OF TRANSMISSION
+**********

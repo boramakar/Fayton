@@ -1,0 +1,5 @@
+[2015-05-29 14:28:24] thisevent event created!
+[14:28] Kamer Levi joined event!
+[14:28] Kamer Levi: test123
+[14:29] Cemal Yilmaz joined event!
+[14:29] Cemal Yilmaz: merhaba herkese

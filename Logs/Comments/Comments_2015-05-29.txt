@@ -1,0 +1,143 @@
+NEW TRANSMISSION START
+**** [2015-05-29] Param: PostAttend; Value: test5@test.com
+**** [2015-05-29] Param: Data; Value: Yes
+**** [2015-05-29] Param: To; Value: 17
+**** [2015-05-29] Param: LoginID; Value: test@test.com
+**** [2015-05-29] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29] Param: test@test.com; Value: test
+**INDEX** [2015-05-29] Index: 0
+**PACKAGE** [2015-05-29] Param: status; Value: 1
+**PACKAGE** [2015-05-29] Param: reason; Value: 0
+ATTENDANCE ADDED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-29] Param: PostAttend; Value: test5@test.com
+**** [2015-05-29] Param: Data; Value: Yes
+**** [2015-05-29] Param: To; Value: 17
+**** [2015-05-29] Param: LoginID; Value: test@test.com
+**** [2015-05-29] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29] Param: test@test.com; Value: test
+**INDEX** [2015-05-29] Index: 0
+**PACKAGE** [2015-05-29] Param: status; Value: 1
+**PACKAGE** [2015-05-29] Param: reason; Value: 0
+ATTENDANCE ADDED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-29] Param: PostComment; Value: 17
+**** [2015-05-29] Param: Data; Value: selam bora :))
+**** [2015-05-29] Param: To; Value: test5@test.com
+**** [2015-05-29] Param: LoginID; Value: test@test.com
+**** [2015-05-29] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29] Param: test@test.com; Value: test
+**INDEX** [2015-05-29] Index: 0
+**PACKAGE** [2015-05-29] Param: status; Value: 1
+**PACKAGE** [2015-05-29] Param: reason; Value: 0
+COMMENT TEXT ADDED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-29] Param: PostAttend; Value: 17
+**** [2015-05-29] Param: Data; Value: Yes
+**** [2015-05-29] Param: To; Value: test5@test.com
+**** [2015-05-29] Param: LoginID; Value: test@test.com
+**** [2015-05-29] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29] Param: test@test.com; Value: test
+**INDEX** [2015-05-29] Index: 0
+**PACKAGE** [2015-05-29] Param: status; Value: 1
+**PACKAGE** [2015-05-29] Param: reason; Value: 0
+ATTENDANCE ADDED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-29] Param: PostComment; Value: test5@test.com
+**** [2015-05-29] Param: Data; Value: eyv cnms
+**** [2015-05-29] Param: To; Value: 17
+**** [2015-05-29] Param: LoginID; Value: test@test.com
+**** [2015-05-29] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29] Param: test@test.com; Value: test
+**INDEX** [2015-05-29] Index: 0
+**PACKAGE** [2015-05-29] Param: status; Value: 1
+**PACKAGE** [2015-05-29] Param: reason; Value: 0
+COMMENT TEXT ADDED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-29] Param: PostAttend; Value: 17
+**** [2015-05-29] Param: Data; Value: No
+**** [2015-05-29] Param: To; Value: test6@test.com
+**** [2015-05-29] Param: LoginID; Value: test@test.com
+**** [2015-05-29] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29] Param: test@test.com; Value: test
+**INDEX** [2015-05-29] Index: 0
+**PACKAGE** [2015-05-29] Param: status; Value: 1
+**PACKAGE** [2015-05-29] Param: reason; Value: 0
+ATTENDANCE ADDED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-29] Param: PostAttend; Value: 17
+**** [2015-05-29] Param: Data; Value: Yes
+**** [2015-05-29] Param: To; Value: test5@test.com
+**** [2015-05-29] Param: LoginID; Value: test@test.com
+**** [2015-05-29] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29] Param: test@test.com; Value: test
+**INDEX** [2015-05-29] Index: 0
+**PACKAGE** [2015-05-29] Param: status; Value: 1
+**PACKAGE** [2015-05-29] Param: reason; Value: 0
+ATTENDANCE ADDED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-29] Param: PostAttend; Value: 17
+**** [2015-05-29] Param: Data; Value: No
+**** [2015-05-29] Param: To; Value: test6@test.com
+**** [2015-05-29] Param: LoginID; Value: test@test.com
+**** [2015-05-29] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29] Param: test@test.com; Value: test
+**INDEX** [2015-05-29] Index: 0
+**PACKAGE** [2015-05-29] Param: status; Value: 1
+**PACKAGE** [2015-05-29] Param: reason; Value: 0
+ATTENDANCE ADDED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-29] Param: PostComment; Value: test6@test.com
+**** [2015-05-29] Param: Data; Value: swag
+**** [2015-05-29] Param: To; Value: 17
+**** [2015-05-29] Param: LoginID; Value: test@test.com
+**** [2015-05-29] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29] Param: test@test.com; Value: test
+**INDEX** [2015-05-29] Index: 0
+**PACKAGE** [2015-05-29] Param: status; Value: 1
+**PACKAGE** [2015-05-29] Param: reason; Value: 0
+COMMENT TEXT ADDED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-29] Param: PostAttend; Value: 17
+**** [2015-05-29] Param: Data; Value: Yes
+**** [2015-05-29] Param: To; Value: test5@test.com
+**** [2015-05-29] Param: LoginID; Value: test@test.com
+**** [2015-05-29] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29] Param: test@test.com; Value: test
+**INDEX** [2015-05-29] Index: 0
+**PACKAGE** [2015-05-29] Param: status; Value: 1
+**PACKAGE** [2015-05-29] Param: reason; Value: 0
+ATTENDANCE ADDED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-29] Param: PostComment; Value: test5@test.com
+**** [2015-05-29] Param: Data; Value: Guzel bir eventti tesekkurler
+**** [2015-05-29] Param: To; Value: 17
+**** [2015-05-29] Param: LoginID; Value: test@test.com
+**** [2015-05-29] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29] Param: test@test.com; Value: test
+**INDEX** [2015-05-29] Index: 0
+**PACKAGE** [2015-05-29] Param: status; Value: 1
+**PACKAGE** [2015-05-29] Param: reason; Value: 0
+COMMENT TEXT ADDED!
+END OF TRANSMISSION
+**********

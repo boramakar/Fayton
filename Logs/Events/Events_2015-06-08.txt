@@ -1,0 +1,74 @@
+NEW TRANSMISSION START
+**$_POST** [2015-06-08 20:19:32] Param: GetEvents; Value: test@test.com
+**$_POST** [2015-06-08 20:19:32] Param: LoginID; Value: sukrumakar@hotmail.com
+**$_POST** [2015-06-08 20:19:32] Param: LoginPass; Value: bora
+**INDEX** [2015-06-08 20:19:32] Index: 0
+**PACKAGE** [2015-06-08 20:19:32] Param: status; Value: 0
+**PACKAGE** [2015-06-08 20:19:32] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-06-08 20:19:37] Param: GetEvent; Value: test@test.com
+**$_POST** [2015-06-08 20:19:37] Param: LoginID; Value: sukrumakar@hotmail.com
+**$_POST** [2015-06-08 20:19:37] Param: LoginPass; Value: bora
+**VERIFED** [2015-06-08 20:19:37] Param: sukrumakar@hotmail.com; Value: bora
+**INDEX** [2015-06-08 20:19:37] Index: 0
+**PACKAGE** [2015-06-08 20:19:37] Param: status; Value: 1
+**PACKAGE** [2015-06-08 20:19:37] Param: reason; Value: 0
+**INDEX** [2015-06-08 20:19:37] Index: 1
+**PACKAGE** [2015-06-08 20:19:37] Param: EventID; Value: test@test.com
+**PACKAGE** [2015-06-08 20:19:37] Param: EventName; Value: 0
+**PACKAGE** [2015-06-08 20:19:37] Param: EventLocation; Value: 0
+**PACKAGE** [2015-06-08 20:19:37] Param: EventType; Value: 0
+**PACKAGE** [2015-06-08 20:19:37] Param: EventDescription; Value: 0
+**PACKAGE** [2015-06-08 20:19:37] Param: StartTime; Value: 0
+**PACKAGE** [2015-06-08 20:19:37] Param: EndTime; Value: 0
+**PACKAGE** [2015-06-08 20:19:37] Param: Host; Value: 0
+**PACKAGE** [2015-06-08 20:19:37] Param: ParticipantLimit; Value: 0/
+**PACKAGE** [2015-06-08 20:19:37] Param: EventProtection; Value: 2
+**PACKAGE** [2015-06-08 20:19:37] Param: EventParameters; Value: 0
+**PACKAGE** [2015-06-08 20:19:37] Param: PartOf; Value: 0
+EVENT DETAILS SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-06-08 20:19:51] Param: GetEvent; Value: 
+**$_POST** [2015-06-08 20:19:51] Param: LoginID; Value: sukrumakar@hotmail.com
+**$_POST** [2015-06-08 20:19:51] Param: LoginPass; Value: bora
+**INDEX** [2015-06-08 20:19:51] Index: 0
+**PACKAGE** [2015-06-08 20:19:51] Param: status; Value: 0
+**PACKAGE** [2015-06-08 20:19:51] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-06-08 20:20:02] Param: EventList; Value: 
+**$_POST** [2015-06-08 20:20:02] Param: LoginID; Value: sukrumakar@hotmail.com
+**$_POST** [2015-06-08 20:20:02] Param: LoginPass; Value: bora
+**INDEX** [2015-06-08 20:20:02] Index: 0
+**PACKAGE** [2015-06-08 20:20:02] Param: status; Value: 0
+**PACKAGE** [2015-06-08 20:20:02] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-06-08 20:20:10] Param: GetEvents; Value: 
+**$_POST** [2015-06-08 20:20:10] Param: LoginID; Value: sukrumakar@hotmail.com
+**$_POST** [2015-06-08 20:20:10] Param: LoginPass; Value: bora
+**INDEX** [2015-06-08 20:20:10] Index: 0
+**PACKAGE** [2015-06-08 20:20:10] Param: status; Value: 0
+**PACKAGE** [2015-06-08 20:20:10] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-06-08 20:20:26] Param: EventSearch; Value: 
+**$_POST** [2015-06-08 20:20:26] Param: LoginID; Value: sukrumakar@hotmail.com
+**$_POST** [2015-06-08 20:20:26] Param: LoginPass; Value: bora
+**INDEX** [2015-06-08 20:20:26] Index: 0
+**PACKAGE** [2015-06-08 20:20:26] Param: status; Value: 0
+**PACKAGE** [2015-06-08 20:20:26] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********

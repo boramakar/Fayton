@@ -1,0 +1,259 @@
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 02:08:52] Param: CreateGroup; Value: 
+**$_POST** [2015-05-28 02:08:52] Param: AdminID; Value: admin
+**$_POST** [2015-05-28 02:08:52] Param: AdminPass; Value: admin
+**$_POST** [2015-05-28 02:08:52] Param: GroupDescription; Value: Admin only POSTMAN test
+**$_POST** [2015-05-28 02:08:52] Param: GroupName; Value: Admin Group
+**INDEX** [2015-05-28 02:08:52] Index: 0
+**PACKAGE** [2015-05-28 02:08:52] Param: status; Value: 0
+**PACKAGE** [2015-05-28 02:08:52] Param: reason; Value: 998
+USER NOT VERIFIED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 02:09:10] Param: CreateGroup; Value: 
+**$_POST** [2015-05-28 02:09:10] Param: AdminID; Value: admin
+**$_POST** [2015-05-28 02:09:10] Param: AdminPass; Value: admin
+**$_POST** [2015-05-28 02:09:10] Param: GroupDescription; Value: Admin only POSTMAN test
+**$_POST** [2015-05-28 02:09:10] Param: GroupName; Value: Admin Group
+**VERIFED** [2015-05-28 02:09:10] Param: admin; Value: admin
+**INDEX** [2015-05-28 02:09:10] Index: 0
+**PACKAGE** [2015-05-28 02:09:10] Param: status; Value: 1
+**PACKAGE** [2015-05-28 02:09:10] Param: reason; Value: 0
+GROUP ADDED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 02:13:24] Param: CreateGroup; Value: 
+**$_POST** [2015-05-28 02:13:24] Param: AdminID; Value: admin
+**$_POST** [2015-05-28 02:13:24] Param: AdminPass; Value: admin
+**$_POST** [2015-05-28 02:13:24] Param: GroupDescription; Value: Test group no:1
+**$_POST** [2015-05-28 02:13:24] Param: GroupName; Value: Test Group 1
+**VERIFED** [2015-05-28 02:13:24] Param: admin; Value: admin
+**INDEX** [2015-05-28 02:13:24] Index: 0
+**PACKAGE** [2015-05-28 02:13:24] Param: status; Value: 1
+**PACKAGE** [2015-05-28 02:13:24] Param: reason; Value: 0
+GROUP ADDED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 02:13:40] Param: CreateGroup; Value: 
+**$_POST** [2015-05-28 02:13:40] Param: AdminID; Value: admin
+**$_POST** [2015-05-28 02:13:40] Param: AdminPass; Value: admin
+**$_POST** [2015-05-28 02:13:40] Param: GroupDescription; Value: Adding even more groups
+**$_POST** [2015-05-28 02:13:40] Param: GroupName; Value: Filling it up
+**VERIFED** [2015-05-28 02:13:40] Param: admin; Value: admin
+**INDEX** [2015-05-28 02:13:40] Index: 0
+**PACKAGE** [2015-05-28 02:13:40] Param: status; Value: 1
+**PACKAGE** [2015-05-28 02:13:40] Param: reason; Value: 0
+GROUP ADDED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 02:13:54] Param: CreateGroup; Value: 
+**$_POST** [2015-05-28 02:13:54] Param: AdminID; Value: admin
+**$_POST** [2015-05-28 02:13:54] Param: AdminPass; Value: admin
+**$_POST** [2015-05-28 02:13:54] Param: GroupDescription; Value: We're definitely gonna make this crash
+**$_POST** [2015-05-28 02:13:54] Param: GroupName; Value: Lets make it crash
+**VERIFED** [2015-05-28 02:13:54] Param: admin; Value: admin
+**INDEX** [2015-05-28 02:13:54] Index: 0
+**PACKAGE** [2015-05-28 02:13:54] Param: status; Value: 1
+**PACKAGE** [2015-05-28 02:13:54] Param: reason; Value: 0
+GROUP ADDED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 03:27:50] Param: CreateGroup; Value: 
+**$_POST** [2015-05-28 03:27:50] Param: AdminID; Value: admin
+**$_POST** [2015-05-28 03:27:50] Param: AdminPass; Value: admin
+**$_POST** [2015-05-28 03:27:50] Param: GroupDescription; Value: Auto chat creation test
+**$_POST** [2015-05-28 03:27:50] Param: GroupName; Value: Group with Chat
+**VERIFED** [2015-05-28 03:27:51] Param: admin; Value: admin
+**INDEX** [2015-05-28 03:27:51] Index: 0
+**PACKAGE** [2015-05-28 03:27:51] Param: status; Value: 1
+**PACKAGE** [2015-05-28 03:27:51] Param: reason; Value: 0
+GROUP ADDED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 03:31:05] Param: CreateGroup; Value: 
+**$_POST** [2015-05-28 03:31:05] Param: AdminID; Value: admin
+**$_POST** [2015-05-28 03:31:05] Param: AdminPass; Value: admin
+**$_POST** [2015-05-28 03:31:05] Param: GroupDescription; Value: Auto chat creation test
+**$_POST** [2015-05-28 03:31:05] Param: GroupName; Value: Group with Chat
+**VERIFED** [2015-05-28 03:31:05] Param: admin; Value: admin
+**INDEX** [2015-05-28 03:31:05] Index: 0
+**PACKAGE** [2015-05-28 03:31:05] Param: status; Value: 1
+**PACKAGE** [2015-05-28 03:31:05] Param: reason; Value: 0
+GROUP ADDED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 03:36:08] Param: CreateGroup; Value: 
+**$_POST** [2015-05-28 03:36:08] Param: AdminID; Value: admin
+**$_POST** [2015-05-28 03:36:08] Param: AdminPass; Value: admin
+**$_POST** [2015-05-28 03:36:08] Param: GroupDescription; Value: Auto chat creation test
+**$_POST** [2015-05-28 03:36:08] Param: GroupName; Value: Group with Chat
+**VERIFED** [2015-05-28 03:36:09] Param: admin; Value: admin
+**INDEX** [2015-05-28 03:36:09] Index: 0
+**PACKAGE** [2015-05-28 03:36:09] Param: status; Value: 1
+**PACKAGE** [2015-05-28 03:36:09] Param: reason; Value: 0
+GROUP ADDED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 03:37:45] Param: CreateGroup; Value: 
+**$_POST** [2015-05-28 03:37:45] Param: AdminID; Value: admin
+**$_POST** [2015-05-28 03:37:45] Param: AdminPass; Value: admin
+**$_POST** [2015-05-28 03:37:45] Param: GroupDescription; Value: Auto chat creation test
+**$_POST** [2015-05-28 03:37:45] Param: GroupName; Value: Group with Chat 2
+**VERIFED** [2015-05-28 03:37:45] Param: admin; Value: admin
+**INDEX** [2015-05-28 03:37:45] Index: 0
+**PACKAGE** [2015-05-28 03:37:45] Param: status; Value: 1
+**PACKAGE** [2015-05-28 03:37:45] Param: reason; Value: 0
+GROUP ADDED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 10:24:51] Param: CreateGroup; Value: 
+**$_POST** [2015-05-28 10:24:51] Param: AdminID; Value: admin
+**$_POST** [2015-05-28 10:24:51] Param: AdminPass; Value: admin
+**$_POST** [2015-05-28 10:24:51] Param: GroupDescription; Value: Group1
+**$_POST** [2015-05-28 10:24:51] Param: GroupName; Value: Group1
+**VERIFED** [2015-05-28 10:24:51] Param: admin; Value: admin
+**INDEX** [2015-05-28 10:24:52] Index: 0
+**PACKAGE** [2015-05-28 10:24:52] Param: status; Value: 1
+**PACKAGE** [2015-05-28 10:24:52] Param: reason; Value: 0
+GROUP ADDED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 10:25:02] Param: CreateGroup; Value: 
+**$_POST** [2015-05-28 10:25:02] Param: AdminID; Value: admin
+**$_POST** [2015-05-28 10:25:02] Param: AdminPass; Value: admin
+**$_POST** [2015-05-28 10:25:02] Param: GroupDescription; Value: Group2
+**$_POST** [2015-05-28 10:25:02] Param: GroupName; Value: Group2
+**VERIFED** [2015-05-28 10:25:02] Param: admin; Value: admin
+**INDEX** [2015-05-28 10:25:02] Index: 0
+**PACKAGE** [2015-05-28 10:25:02] Param: status; Value: 1
+**PACKAGE** [2015-05-28 10:25:02] Param: reason; Value: 0
+GROUP ADDED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 10:25:06] Param: CreateGroup; Value: 
+**$_POST** [2015-05-28 10:25:06] Param: AdminID; Value: admin
+**$_POST** [2015-05-28 10:25:06] Param: AdminPass; Value: admin
+**$_POST** [2015-05-28 10:25:06] Param: GroupDescription; Value: Group3
+**$_POST** [2015-05-28 10:25:06] Param: GroupName; Value: Group3
+**VERIFED** [2015-05-28 10:25:06] Param: admin; Value: admin
+**INDEX** [2015-05-28 10:25:06] Index: 0
+**PACKAGE** [2015-05-28 10:25:06] Param: status; Value: 1
+**PACKAGE** [2015-05-28 10:25:06] Param: reason; Value: 0
+GROUP ADDED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 10:25:10] Param: CreateGroup; Value: 
+**$_POST** [2015-05-28 10:25:10] Param: AdminID; Value: admin
+**$_POST** [2015-05-28 10:25:10] Param: AdminPass; Value: admin
+**$_POST** [2015-05-28 10:25:10] Param: GroupDescription; Value: Group4
+**$_POST** [2015-05-28 10:25:10] Param: GroupName; Value: Group5
+**VERIFED** [2015-05-28 10:25:10] Param: admin; Value: admin
+**INDEX** [2015-05-28 10:25:10] Index: 0
+**PACKAGE** [2015-05-28 10:25:10] Param: status; Value: 1
+**PACKAGE** [2015-05-28 10:25:10] Param: reason; Value: 0
+GROUP ADDED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 10:25:16] Param: CreateGroup; Value: 
+**$_POST** [2015-05-28 10:25:16] Param: AdminID; Value: admin
+**$_POST** [2015-05-28 10:25:16] Param: AdminPass; Value: admin
+**$_POST** [2015-05-28 10:25:16] Param: GroupDescription; Value: Group5
+**$_POST** [2015-05-28 10:25:16] Param: GroupName; Value: Group4
+**VERIFED** [2015-05-28 10:25:16] Param: admin; Value: admin
+**INDEX** [2015-05-28 10:25:16] Index: 0
+**PACKAGE** [2015-05-28 10:25:16] Param: status; Value: 1
+**PACKAGE** [2015-05-28 10:25:16] Param: reason; Value: 0
+GROUP ADDED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 10:25:22] Param: CreateGroup; Value: 
+**$_POST** [2015-05-28 10:25:22] Param: AdminID; Value: admin
+**$_POST** [2015-05-28 10:25:22] Param: AdminPass; Value: admin
+**$_POST** [2015-05-28 10:25:22] Param: GroupDescription; Value: Group6
+**$_POST** [2015-05-28 10:25:22] Param: GroupName; Value: Group6
+**VERIFED** [2015-05-28 10:25:22] Param: admin; Value: admin
+**INDEX** [2015-05-28 10:25:22] Index: 0
+**PACKAGE** [2015-05-28 10:25:22] Param: status; Value: 1
+**PACKAGE** [2015-05-28 10:25:22] Param: reason; Value: 0
+GROUP ADDED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 17:54:42] Param: CreateGroup; Value: 
+**$_POST** [2015-05-28 17:54:42] Param: AdminID; Value: admin
+**$_POST** [2015-05-28 17:54:42] Param: AdminPass; Value: admin
+**$_POST** [2015-05-28 17:54:42] Param: GroupDescription; Value: Dungeons & Dragons
+**$_POST** [2015-05-28 17:54:42] Param: GroupName; Value: D&D
+**VERIFED** [2015-05-28 17:54:42] Param: admin; Value: admin
+**INDEX** [2015-05-28 17:54:42] Index: 0
+**PACKAGE** [2015-05-28 17:54:42] Param: status; Value: 1
+**PACKAGE** [2015-05-28 17:54:42] Param: reason; Value: 0
+GROUP ADDED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 17:55:19] Param: CreateGroup; Value: 
+**$_POST** [2015-05-28 17:55:19] Param: AdminID; Value: admin
+**$_POST** [2015-05-28 17:55:19] Param: AdminPass; Value: admin
+**$_POST** [2015-05-28 17:55:19] Param: GroupDescription; Value: World of Warcraft
+**$_POST** [2015-05-28 17:55:19] Param: GroupName; Value: WoW
+**VERIFED** [2015-05-28 17:55:19] Param: admin; Value: admin
+**INDEX** [2015-05-28 17:55:19] Index: 0
+**PACKAGE** [2015-05-28 17:55:19] Param: status; Value: 1
+**PACKAGE** [2015-05-28 17:55:19] Param: reason; Value: 0
+GROUP ADDED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 17:55:34] Param: CreateGroup; Value: 
+**$_POST** [2015-05-28 17:55:34] Param: AdminID; Value: admin
+**$_POST** [2015-05-28 17:55:34] Param: AdminPass; Value: admin
+**$_POST** [2015-05-28 17:55:34] Param: GroupDescription; Value: Pool and Billiards
+**$_POST** [2015-05-28 17:55:34] Param: GroupName; Value: Billiards
+**VERIFED** [2015-05-28 17:55:35] Param: admin; Value: admin
+**INDEX** [2015-05-28 17:55:35] Index: 0
+**PACKAGE** [2015-05-28 17:55:35] Param: status; Value: 1
+**PACKAGE** [2015-05-28 17:55:35] Param: reason; Value: 0
+GROUP ADDED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 17:56:15] Param: CreateGroup; Value: 
+**$_POST** [2015-05-28 17:56:15] Param: AdminID; Value: admin
+**$_POST** [2015-05-28 17:56:15] Param: AdminPass; Value: admin
+**$_POST** [2015-05-28 17:56:15] Param: GroupDescription; Value: Meeting place for all the android devs
+**$_POST** [2015-05-28 17:56:15] Param: GroupName; Value: Android Devs
+**VERIFED** [2015-05-28 17:56:15] Param: admin; Value: admin
+**INDEX** [2015-05-28 17:56:15] Index: 0
+**PACKAGE** [2015-05-28 17:56:15] Param: status; Value: 1
+**PACKAGE** [2015-05-28 17:56:15] Param: reason; Value: 0
+GROUP ADDED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-28 17:59:25] Param: CreateGroup; Value: 
+**$_POST** [2015-05-28 17:59:25] Param: AdminID; Value: admin
+**$_POST** [2015-05-28 17:59:25] Param: AdminPass; Value: admin
+**$_POST** [2015-05-28 17:59:25] Param: GroupDescription; Value: Meeting place for all the android devs
+**$_POST** [2015-05-28 17:59:25] Param: GroupName; Value: Android Devs
+**VERIFED** [2015-05-28 17:59:26] Param: admin; Value: admin
+**INDEX** [2015-05-28 17:59:26] Index: 0
+**PACKAGE** [2015-05-28 17:59:26] Param: status; Value: 1
+**PACKAGE** [2015-05-28 17:59:26] Param: reason; Value: 0
+GROUP ADDED!
+END OF TRANSMISSION
+**********

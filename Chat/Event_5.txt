@@ -1,0 +1,2 @@
+[2015-05-28 18:57:15] 123 event created!
+[18:57] test@test.com joined event!

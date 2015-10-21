@@ -1,0 +1,2767 @@
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:19:58] Param: GetMyChats; Value: 
+**$_POST** [2015-05-29 02:19:58] Param: LoginID; Value: test6@test.com
+**$_POST** [2015-05-29 02:19:58] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:19:58] Param: test6@test.com; Value: test
+**INDEX** [2015-05-29 02:19:58] Index: 0
+**PACKAGE** [2015-05-29 02:19:58] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:19:58] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:19:58] Index: 1
+**PACKAGE** [2015-05-29 02:19:58] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 02:19:58] Param: ID; Value: 17
+**PACKAGE** [2015-05-29 02:19:58] Param: ChatName; Value: oldEvent
+**INDEX** [2015-05-29 02:19:58] Index: 2
+**PACKAGE** [2015-05-29 02:19:58] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 02:19:58] Param: ID; Value: 18
+**PACKAGE** [2015-05-29 02:19:58] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 02:19:58] Index: 3
+**PACKAGE** [2015-05-29 02:19:58] Param: BelongsTo; Value: 2
+**PACKAGE** [2015-05-29 02:19:58] Param: ID; Value: 3
+**PACKAGE** [2015-05-29 02:19:58] Param: ChatName; Value: Billiards
+MY CHATS SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:20:09] Param: GetChat; Value: 17
+**$_POST** [2015-05-29 02:20:09] Param: LoginID; Value: test6@test.com
+**$_POST** [2015-05-29 02:20:09] Param: LoginPass; Value: test
+**$_POST** [2015-05-29 02:20:09] Param: BelongsTo; Value: 1
+**VERIFED** [2015-05-29 02:20:09] Param: test6@test.com; Value: test
+**INDEX** [2015-05-29 02:20:09] Index: 0
+**PACKAGE** [2015-05-29 02:20:09] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:20:09] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:20:09] Index: 1
+**PACKAGE** [2015-05-29 02:20:09] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 02:20:09] Param: ChatID; Value: 17
+**PACKAGE** [2015-05-29 02:20:09] Param: ID; Value: 17
+**PACKAGE** [2015-05-29 02:20:09] Param: ChatName; Value: oldEvent
+**INDEX** [2015-05-29 02:20:09] Index: 2
+**PACKAGE** [2015-05-29 02:20:09] Param: ChatData; Value: [2015-05-29 00:29:57] oldEvent event created!
+[00:29] test@test.com joined event!
+
+**PACKAGE** [2015-05-29 02:20:09] Param: TimeStamp; Value: 2015-05-29 02:20:09
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:20:12] Param: UpdateChat; Value: 17
+**$_POST** [2015-05-29 02:20:12] Param: LoginID; Value: test6@test.com
+**$_POST** [2015-05-29 02:20:12] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:20:12] Param: test6@test.com; Value: test
+**INDEX** [2015-05-29 02:20:12] Index: 0
+**PACKAGE** [2015-05-29 02:20:12] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:20:12] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:20:12] Index: 1
+**PACKAGE** [2015-05-29 02:20:12] Param: BelongsTo; Value: Group
+**PACKAGE** [2015-05-29 02:20:12] Param: ChatID; Value: 17
+**PACKAGE** [2015-05-29 02:20:12] Param: ID; Value: 17
+**PACKAGE** [2015-05-29 02:20:12] Param: ChatName; Value: 0
+**INDEX** [2015-05-29 02:20:12] Index: 2
+**PACKAGE** [2015-05-29 02:20:12] Param: ChatData; Value: 0
+**PACKAGE** [2015-05-29 02:20:12] Param: TimeStamp; Value: 2015-05-29 02:20:12
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:44:56] Param: GetMyChats; Value: 
+**$_POST** [2015-05-29 02:44:56] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:44:56] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:44:56] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:44:56] Index: 0
+**PACKAGE** [2015-05-29 02:44:56] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:44:56] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:44:56] Index: 1
+**PACKAGE** [2015-05-29 02:44:56] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 02:44:56] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 02:44:56] Param: ChatName; Value: TestEventBois
+**INDEX** [2015-05-29 02:44:56] Index: 2
+**PACKAGE** [2015-05-29 02:44:56] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 02:44:56] Param: ID; Value: 3
+**PACKAGE** [2015-05-29 02:44:56] Param: ChatName; Value: vxs
+**INDEX** [2015-05-29 02:44:56] Index: 3
+**PACKAGE** [2015-05-29 02:44:56] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 02:44:56] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 02:44:56] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 02:44:56] Index: 4
+**PACKAGE** [2015-05-29 02:44:56] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 02:44:56] Param: ID; Value: 13
+**PACKAGE** [2015-05-29 02:44:56] Param: ChatName; Value: First Event7
+**INDEX** [2015-05-29 02:44:56] Index: 5
+**PACKAGE** [2015-05-29 02:44:56] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 02:44:56] Param: ID; Value: 17
+**PACKAGE** [2015-05-29 02:44:56] Param: ChatName; Value: oldEvent
+**INDEX** [2015-05-29 02:44:56] Index: 6
+**PACKAGE** [2015-05-29 02:44:56] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 02:44:56] Param: ID; Value: 18
+**PACKAGE** [2015-05-29 02:44:56] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 02:44:56] Index: 7
+**PACKAGE** [2015-05-29 02:44:56] Param: BelongsTo; Value: 2
+**PACKAGE** [2015-05-29 02:44:56] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 02:44:56] Param: ChatName; Value: WoW
+MY CHATS SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:45:04] Param: GetChat; Value: 2
+**$_POST** [2015-05-29 02:45:04] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:45:04] Param: LoginPass; Value: test
+**$_POST** [2015-05-29 02:45:04] Param: BelongsTo; Value: 1
+**VERIFED** [2015-05-29 02:45:04] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:45:04] Index: 0
+**PACKAGE** [2015-05-29 02:45:04] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:45:04] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:45:04] Index: 1
+**PACKAGE** [2015-05-29 02:45:04] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 02:45:04] Param: ChatID; Value: 2
+**PACKAGE** [2015-05-29 02:45:04] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 02:45:04] Param: ChatName; Value: TestEventBois
+**INDEX** [2015-05-29 02:45:04] Index: 2
+**PACKAGE** [2015-05-29 02:45:04] Param: ChatData; Value: [2015-05-28 18:48:50] TestEventBois event created!
+[18:48:50] test@test.com joined event!
+
+**PACKAGE** [2015-05-29 02:45:04] Param: TimeStamp; Value: 2015-05-29 02:45:04
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:45:08] Param: UpdateChat; Value: 2
+**$_POST** [2015-05-29 02:45:08] Param: BelongsTo; Value: Event
+**$_POST** [2015-05-29 02:45:08] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:45:08] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:45:08] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:45:08] Index: 0
+**PACKAGE** [2015-05-29 02:45:08] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:45:08] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:45:08] Index: 1
+**PACKAGE** [2015-05-29 02:45:08] Param: BelongsTo; Value: Group
+**PACKAGE** [2015-05-29 02:45:08] Param: ChatID; Value: 2
+**PACKAGE** [2015-05-29 02:45:08] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 02:45:08] Param: ChatName; Value: WoW
+**INDEX** [2015-05-29 02:45:08] Index: 2
+**PACKAGE** [2015-05-29 02:45:08] Param: ChatData; Value: [2015-05-28 17:55:19] WoW group created!
+
+**PACKAGE** [2015-05-29 02:45:08] Param: TimeStamp; Value: 2015-05-29 02:45:08
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:45:11] Param: UpdateChat; Value: 2
+**$_POST** [2015-05-29 02:45:11] Param: BelongsTo; Value: Event
+**$_POST** [2015-05-29 02:45:11] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:45:11] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:45:11] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:45:11] Index: 0
+**PACKAGE** [2015-05-29 02:45:11] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:45:11] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:45:11] Index: 1
+**PACKAGE** [2015-05-29 02:45:11] Param: BelongsTo; Value: Group
+**PACKAGE** [2015-05-29 02:45:11] Param: ChatID; Value: 2
+**PACKAGE** [2015-05-29 02:45:11] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 02:45:11] Param: ChatName; Value: WoW
+**INDEX** [2015-05-29 02:45:11] Index: 2
+**PACKAGE** [2015-05-29 02:45:11] Param: ChatData; Value: [2015-05-28 17:55:19] WoW group created!
+
+**PACKAGE** [2015-05-29 02:45:11] Param: TimeStamp; Value: 2015-05-29 02:45:11
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:45:14] Param: UpdateChat; Value: 2
+**$_POST** [2015-05-29 02:45:14] Param: BelongsTo; Value: Event
+**$_POST** [2015-05-29 02:45:14] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:45:14] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:45:14] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:45:14] Index: 0
+**PACKAGE** [2015-05-29 02:45:14] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:45:14] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:45:14] Index: 1
+**PACKAGE** [2015-05-29 02:45:14] Param: BelongsTo; Value: Group
+**PACKAGE** [2015-05-29 02:45:14] Param: ChatID; Value: 2
+**PACKAGE** [2015-05-29 02:45:14] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 02:45:14] Param: ChatName; Value: WoW
+**INDEX** [2015-05-29 02:45:14] Index: 2
+**PACKAGE** [2015-05-29 02:45:14] Param: ChatData; Value: [2015-05-28 17:55:19] WoW group created!
+
+**PACKAGE** [2015-05-29 02:45:14] Param: TimeStamp; Value: 2015-05-29 02:45:14
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:45:17] Param: UpdateChat; Value: 2
+**$_POST** [2015-05-29 02:45:17] Param: BelongsTo; Value: Event
+**$_POST** [2015-05-29 02:45:17] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:45:17] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:45:17] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:45:17] Index: 0
+**PACKAGE** [2015-05-29 02:45:17] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:45:17] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:45:17] Index: 1
+**PACKAGE** [2015-05-29 02:45:17] Param: BelongsTo; Value: Group
+**PACKAGE** [2015-05-29 02:45:17] Param: ChatID; Value: 2
+**PACKAGE** [2015-05-29 02:45:17] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 02:45:17] Param: ChatName; Value: WoW
+**INDEX** [2015-05-29 02:45:17] Index: 2
+**PACKAGE** [2015-05-29 02:45:17] Param: ChatData; Value: [2015-05-28 17:55:19] WoW group created!
+
+**PACKAGE** [2015-05-29 02:45:17] Param: TimeStamp; Value: 2015-05-29 02:45:17
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:45:20] Param: UpdateChat; Value: 2
+**$_POST** [2015-05-29 02:45:20] Param: BelongsTo; Value: Event
+**$_POST** [2015-05-29 02:45:20] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:45:20] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:45:20] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:45:20] Index: 0
+**PACKAGE** [2015-05-29 02:45:20] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:45:20] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:45:20] Index: 1
+**PACKAGE** [2015-05-29 02:45:20] Param: BelongsTo; Value: Group
+**PACKAGE** [2015-05-29 02:45:20] Param: ChatID; Value: 2
+**PACKAGE** [2015-05-29 02:45:20] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 02:45:20] Param: ChatName; Value: WoW
+**INDEX** [2015-05-29 02:45:20] Index: 2
+**PACKAGE** [2015-05-29 02:45:20] Param: ChatData; Value: [2015-05-28 17:55:19] WoW group created!
+
+**PACKAGE** [2015-05-29 02:45:20] Param: TimeStamp; Value: 2015-05-29 02:45:20
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:45:24] Param: UpdateChat; Value: 2
+**$_POST** [2015-05-29 02:45:24] Param: BelongsTo; Value: Event
+**$_POST** [2015-05-29 02:45:24] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:45:24] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:45:24] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:45:24] Index: 0
+**PACKAGE** [2015-05-29 02:45:24] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:45:24] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:45:24] Index: 1
+**PACKAGE** [2015-05-29 02:45:24] Param: BelongsTo; Value: Group
+**PACKAGE** [2015-05-29 02:45:24] Param: ChatID; Value: 2
+**PACKAGE** [2015-05-29 02:45:24] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 02:45:24] Param: ChatName; Value: WoW
+**INDEX** [2015-05-29 02:45:24] Index: 2
+**PACKAGE** [2015-05-29 02:45:24] Param: ChatData; Value: [2015-05-28 17:55:19] WoW group created!
+
+**PACKAGE** [2015-05-29 02:45:24] Param: TimeStamp; Value: 2015-05-29 02:45:24
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:45:26] Param: UpdateChat; Value: 2
+**$_POST** [2015-05-29 02:45:26] Param: BelongsTo; Value: Event
+**$_POST** [2015-05-29 02:45:26] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:45:26] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:45:26] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:45:26] Index: 0
+**PACKAGE** [2015-05-29 02:45:26] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:45:26] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:45:26] Index: 1
+**PACKAGE** [2015-05-29 02:45:26] Param: BelongsTo; Value: Group
+**PACKAGE** [2015-05-29 02:45:26] Param: ChatID; Value: 2
+**PACKAGE** [2015-05-29 02:45:26] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 02:45:26] Param: ChatName; Value: WoW
+**INDEX** [2015-05-29 02:45:26] Index: 2
+**PACKAGE** [2015-05-29 02:45:26] Param: ChatData; Value: [2015-05-28 17:55:19] WoW group created!
+
+**PACKAGE** [2015-05-29 02:45:26] Param: TimeStamp; Value: 2015-05-29 02:45:26
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:45:30] Param: UpdateChat; Value: 2
+**$_POST** [2015-05-29 02:45:30] Param: BelongsTo; Value: Event
+**$_POST** [2015-05-29 02:45:30] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:45:30] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:45:30] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:45:30] Index: 0
+**PACKAGE** [2015-05-29 02:45:30] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:45:30] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:45:30] Index: 1
+**PACKAGE** [2015-05-29 02:45:30] Param: BelongsTo; Value: Group
+**PACKAGE** [2015-05-29 02:45:30] Param: ChatID; Value: 2
+**PACKAGE** [2015-05-29 02:45:30] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 02:45:30] Param: ChatName; Value: WoW
+**INDEX** [2015-05-29 02:45:30] Index: 2
+**PACKAGE** [2015-05-29 02:45:30] Param: ChatData; Value: [2015-05-28 17:55:19] WoW group created!
+
+**PACKAGE** [2015-05-29 02:45:30] Param: TimeStamp; Value: 2015-05-29 02:45:30
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:45:33] Param: UpdateChat; Value: 2
+**$_POST** [2015-05-29 02:45:33] Param: BelongsTo; Value: Event
+**$_POST** [2015-05-29 02:45:33] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:45:33] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:45:33] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:45:33] Index: 0
+**PACKAGE** [2015-05-29 02:45:33] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:45:33] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:45:33] Index: 1
+**PACKAGE** [2015-05-29 02:45:33] Param: BelongsTo; Value: Group
+**PACKAGE** [2015-05-29 02:45:33] Param: ChatID; Value: 2
+**PACKAGE** [2015-05-29 02:45:33] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 02:45:33] Param: ChatName; Value: WoW
+**INDEX** [2015-05-29 02:45:33] Index: 2
+**PACKAGE** [2015-05-29 02:45:33] Param: ChatData; Value: [2015-05-28 17:55:19] WoW group created!
+
+**PACKAGE** [2015-05-29 02:45:33] Param: TimeStamp; Value: 2015-05-29 02:45:33
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:45:35] Param: PostChat; Value: 2
+**$_POST** [2015-05-29 02:45:35] Param: BelongsTo; Value: Event
+**$_POST** [2015-05-29 02:45:35] Param: ChatData; Value: slm
+**$_POST** [2015-05-29 02:45:35] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:45:35] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:45:35] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:45:35] Index: 0
+**PACKAGE** [2015-05-29 02:45:35] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:45:35] Param: reason; Value: 0
+CHAT UPDATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:45:36] Param: UpdateChat; Value: 2
+**$_POST** [2015-05-29 02:45:36] Param: BelongsTo; Value: Event
+**$_POST** [2015-05-29 02:45:36] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:45:36] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:45:36] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:45:36] Index: 0
+**PACKAGE** [2015-05-29 02:45:36] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:45:36] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:45:36] Index: 1
+**PACKAGE** [2015-05-29 02:45:36] Param: BelongsTo; Value: Group
+**PACKAGE** [2015-05-29 02:45:36] Param: ChatID; Value: 2
+**PACKAGE** [2015-05-29 02:45:36] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 02:45:36] Param: ChatName; Value: WoW
+**INDEX** [2015-05-29 02:45:36] Index: 2
+**PACKAGE** [2015-05-29 02:45:36] Param: ChatData; Value: [2015-05-28 17:55:19] WoW group created!
+[02:45] Kamer Levi: slm
+
+**PACKAGE** [2015-05-29 02:45:36] Param: TimeStamp; Value: 2015-05-29 02:45:36
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:45:39] Param: UpdateChat; Value: 2
+**$_POST** [2015-05-29 02:45:39] Param: BelongsTo; Value: Event
+**$_POST** [2015-05-29 02:45:39] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:45:39] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:45:39] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:45:39] Index: 0
+**PACKAGE** [2015-05-29 02:45:39] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:45:39] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:45:39] Index: 1
+**PACKAGE** [2015-05-29 02:45:39] Param: BelongsTo; Value: Group
+**PACKAGE** [2015-05-29 02:45:39] Param: ChatID; Value: 2
+**PACKAGE** [2015-05-29 02:45:39] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 02:45:39] Param: ChatName; Value: WoW
+**INDEX** [2015-05-29 02:45:39] Index: 2
+**PACKAGE** [2015-05-29 02:45:39] Param: ChatData; Value: [2015-05-28 17:55:19] WoW group created!
+[02:45] Kamer Levi: slm
+
+**PACKAGE** [2015-05-29 02:45:39] Param: TimeStamp; Value: 2015-05-29 02:45:39
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:45:42] Param: UpdateChat; Value: 2
+**$_POST** [2015-05-29 02:45:42] Param: BelongsTo; Value: Event
+**$_POST** [2015-05-29 02:45:42] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:45:42] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:45:42] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:45:42] Index: 0
+**PACKAGE** [2015-05-29 02:45:42] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:45:42] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:45:42] Index: 1
+**PACKAGE** [2015-05-29 02:45:42] Param: BelongsTo; Value: Group
+**PACKAGE** [2015-05-29 02:45:42] Param: ChatID; Value: 2
+**PACKAGE** [2015-05-29 02:45:42] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 02:45:42] Param: ChatName; Value: WoW
+**INDEX** [2015-05-29 02:45:42] Index: 2
+**PACKAGE** [2015-05-29 02:45:42] Param: ChatData; Value: [2015-05-28 17:55:19] WoW group created!
+[02:45] Kamer Levi: slm
+
+**PACKAGE** [2015-05-29 02:45:42] Param: TimeStamp; Value: 2015-05-29 02:45:42
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:45:45] Param: UpdateChat; Value: 2
+**$_POST** [2015-05-29 02:45:45] Param: BelongsTo; Value: Event
+**$_POST** [2015-05-29 02:45:45] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:45:45] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:45:45] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:45:45] Index: 0
+**PACKAGE** [2015-05-29 02:45:45] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:45:45] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:45:45] Index: 1
+**PACKAGE** [2015-05-29 02:45:45] Param: BelongsTo; Value: Group
+**PACKAGE** [2015-05-29 02:45:45] Param: ChatID; Value: 2
+**PACKAGE** [2015-05-29 02:45:45] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 02:45:45] Param: ChatName; Value: WoW
+**INDEX** [2015-05-29 02:45:45] Index: 2
+**PACKAGE** [2015-05-29 02:45:45] Param: ChatData; Value: [2015-05-28 17:55:19] WoW group created!
+[02:45] Kamer Levi: slm
+
+**PACKAGE** [2015-05-29 02:45:45] Param: TimeStamp; Value: 2015-05-29 02:45:45
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:45:48] Param: GetChat; Value: 17
+**$_POST** [2015-05-29 02:45:48] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:45:48] Param: LoginPass; Value: test
+**$_POST** [2015-05-29 02:45:48] Param: BelongsTo; Value: 1
+**VERIFED** [2015-05-29 02:45:48] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:45:48] Index: 0
+**PACKAGE** [2015-05-29 02:45:48] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:45:48] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:45:48] Index: 1
+**PACKAGE** [2015-05-29 02:45:48] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 02:45:48] Param: ChatID; Value: 17
+**PACKAGE** [2015-05-29 02:45:48] Param: ID; Value: 17
+**PACKAGE** [2015-05-29 02:45:48] Param: ChatName; Value: oldEvent
+**INDEX** [2015-05-29 02:45:48] Index: 2
+**PACKAGE** [2015-05-29 02:45:48] Param: ChatData; Value: [2015-05-29 00:29:57] oldEvent event created!
+[00:29] test@test.com joined event!
+
+**PACKAGE** [2015-05-29 02:45:48] Param: TimeStamp; Value: 2015-05-29 02:45:48
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:45:49] Param: UpdateChat; Value: 2
+**$_POST** [2015-05-29 02:45:49] Param: BelongsTo; Value: Event
+**$_POST** [2015-05-29 02:45:49] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:45:49] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:45:49] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:45:49] Index: 0
+**PACKAGE** [2015-05-29 02:45:49] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:45:49] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:45:49] Index: 1
+**PACKAGE** [2015-05-29 02:45:49] Param: BelongsTo; Value: Group
+**PACKAGE** [2015-05-29 02:45:49] Param: ChatID; Value: 2
+**PACKAGE** [2015-05-29 02:45:49] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 02:45:49] Param: ChatName; Value: WoW
+**INDEX** [2015-05-29 02:45:49] Index: 2
+**PACKAGE** [2015-05-29 02:45:49] Param: ChatData; Value: [2015-05-28 17:55:19] WoW group created!
+[02:45] Kamer Levi: slm
+
+**PACKAGE** [2015-05-29 02:45:49] Param: TimeStamp; Value: 2015-05-29 02:45:49
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:45:51] Param: UpdateChat; Value: 17
+**$_POST** [2015-05-29 02:45:51] Param: BelongsTo; Value: Event
+**$_POST** [2015-05-29 02:45:51] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:45:51] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:45:51] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:45:51] Index: 0
+**PACKAGE** [2015-05-29 02:45:51] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:45:51] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:45:51] Index: 1
+**PACKAGE** [2015-05-29 02:45:51] Param: BelongsTo; Value: Group
+**PACKAGE** [2015-05-29 02:45:51] Param: ChatID; Value: 17
+**PACKAGE** [2015-05-29 02:45:51] Param: ID; Value: 17
+**PACKAGE** [2015-05-29 02:45:51] Param: ChatName; Value: 0
+**INDEX** [2015-05-29 02:45:51] Index: 2
+**PACKAGE** [2015-05-29 02:45:51] Param: ChatData; Value: 0
+**PACKAGE** [2015-05-29 02:45:51] Param: TimeStamp; Value: 2015-05-29 02:45:51
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:46:58] Param: GetMyChats; Value: 
+**$_POST** [2015-05-29 02:46:58] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:46:58] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:46:58] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:46:58] Index: 0
+**PACKAGE** [2015-05-29 02:46:58] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:46:58] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:46:58] Index: 1
+**PACKAGE** [2015-05-29 02:46:58] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 02:46:58] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 02:46:58] Param: ChatName; Value: TestEventBois
+**INDEX** [2015-05-29 02:46:58] Index: 2
+**PACKAGE** [2015-05-29 02:46:58] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 02:46:58] Param: ID; Value: 3
+**PACKAGE** [2015-05-29 02:46:58] Param: ChatName; Value: vxs
+**INDEX** [2015-05-29 02:46:58] Index: 3
+**PACKAGE** [2015-05-29 02:46:58] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 02:46:58] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 02:46:58] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 02:46:58] Index: 4
+**PACKAGE** [2015-05-29 02:46:58] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 02:46:58] Param: ID; Value: 13
+**PACKAGE** [2015-05-29 02:46:58] Param: ChatName; Value: First Event7
+**INDEX** [2015-05-29 02:46:58] Index: 5
+**PACKAGE** [2015-05-29 02:46:58] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 02:46:58] Param: ID; Value: 17
+**PACKAGE** [2015-05-29 02:46:58] Param: ChatName; Value: oldEvent
+**INDEX** [2015-05-29 02:46:58] Index: 6
+**PACKAGE** [2015-05-29 02:46:58] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 02:46:58] Param: ID; Value: 18
+**PACKAGE** [2015-05-29 02:46:58] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 02:46:58] Index: 7
+**PACKAGE** [2015-05-29 02:46:58] Param: BelongsTo; Value: 2
+**PACKAGE** [2015-05-29 02:46:58] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 02:46:58] Param: ChatName; Value: WoW
+MY CHATS SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:47:13] Param: GetChat; Value: 3
+**$_POST** [2015-05-29 02:47:13] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:47:13] Param: LoginPass; Value: test
+**$_POST** [2015-05-29 02:47:13] Param: BelongsTo; Value: 1
+**VERIFED** [2015-05-29 02:47:13] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:47:13] Index: 0
+**PACKAGE** [2015-05-29 02:47:13] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:47:13] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:47:13] Index: 1
+**PACKAGE** [2015-05-29 02:47:13] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 02:47:13] Param: ChatID; Value: 3
+**PACKAGE** [2015-05-29 02:47:13] Param: ID; Value: 3
+**PACKAGE** [2015-05-29 02:47:13] Param: ChatName; Value: vxs
+**INDEX** [2015-05-29 02:47:13] Index: 2
+**PACKAGE** [2015-05-29 02:47:13] Param: ChatData; Value: [2015-05-28 18:53:36] vxs event created!
+[18:53] test@test.com joined event!
+
+**PACKAGE** [2015-05-29 02:47:13] Param: TimeStamp; Value: 2015-05-29 02:47:13
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:47:17] Param: UpdateChat; Value: 3
+**$_POST** [2015-05-29 02:47:17] Param: BelongsTo; Value: Event
+**$_POST** [2015-05-29 02:47:17] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:47:17] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:47:17] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:47:17] Index: 0
+**PACKAGE** [2015-05-29 02:47:17] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:47:17] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:47:17] Index: 1
+**PACKAGE** [2015-05-29 02:47:17] Param: BelongsTo; Value: Group
+**PACKAGE** [2015-05-29 02:47:17] Param: ChatID; Value: 3
+**PACKAGE** [2015-05-29 02:47:17] Param: ID; Value: 3
+**PACKAGE** [2015-05-29 02:47:17] Param: ChatName; Value: Billiards
+**INDEX** [2015-05-29 02:47:17] Index: 2
+**PACKAGE** [2015-05-29 02:47:17] Param: ChatData; Value: [2015-05-28 17:55:35] Billiards group created!
+
+**PACKAGE** [2015-05-29 02:47:17] Param: TimeStamp; Value: 2015-05-29 02:47:17
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:47:20] Param: UpdateChat; Value: 3
+**$_POST** [2015-05-29 02:47:20] Param: BelongsTo; Value: Event
+**$_POST** [2015-05-29 02:47:20] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:47:20] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:47:20] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:47:20] Index: 0
+**PACKAGE** [2015-05-29 02:47:20] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:47:20] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:47:20] Index: 1
+**PACKAGE** [2015-05-29 02:47:20] Param: BelongsTo; Value: Group
+**PACKAGE** [2015-05-29 02:47:20] Param: ChatID; Value: 3
+**PACKAGE** [2015-05-29 02:47:20] Param: ID; Value: 3
+**PACKAGE** [2015-05-29 02:47:20] Param: ChatName; Value: Billiards
+**INDEX** [2015-05-29 02:47:20] Index: 2
+**PACKAGE** [2015-05-29 02:47:20] Param: ChatData; Value: [2015-05-28 17:55:35] Billiards group created!
+
+**PACKAGE** [2015-05-29 02:47:20] Param: TimeStamp; Value: 2015-05-29 02:47:20
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:47:23] Param: UpdateChat; Value: 3
+**$_POST** [2015-05-29 02:47:23] Param: BelongsTo; Value: Event
+**$_POST** [2015-05-29 02:47:23] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:47:23] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:47:23] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:47:23] Index: 0
+**PACKAGE** [2015-05-29 02:47:23] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:47:23] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:47:23] Index: 1
+**PACKAGE** [2015-05-29 02:47:23] Param: BelongsTo; Value: Group
+**PACKAGE** [2015-05-29 02:47:23] Param: ChatID; Value: 3
+**PACKAGE** [2015-05-29 02:47:23] Param: ID; Value: 3
+**PACKAGE** [2015-05-29 02:47:23] Param: ChatName; Value: Billiards
+**INDEX** [2015-05-29 02:47:23] Index: 2
+**PACKAGE** [2015-05-29 02:47:23] Param: ChatData; Value: [2015-05-28 17:55:35] Billiards group created!
+
+**PACKAGE** [2015-05-29 02:47:23] Param: TimeStamp; Value: 2015-05-29 02:47:23
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:47:26] Param: UpdateChat; Value: 3
+**$_POST** [2015-05-29 02:47:26] Param: BelongsTo; Value: Event
+**$_POST** [2015-05-29 02:47:26] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:47:26] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:47:26] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:47:26] Index: 0
+**PACKAGE** [2015-05-29 02:47:26] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:47:26] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:47:26] Index: 1
+**PACKAGE** [2015-05-29 02:47:26] Param: BelongsTo; Value: Group
+**PACKAGE** [2015-05-29 02:47:26] Param: ChatID; Value: 3
+**PACKAGE** [2015-05-29 02:47:26] Param: ID; Value: 3
+**PACKAGE** [2015-05-29 02:47:26] Param: ChatName; Value: Billiards
+**INDEX** [2015-05-29 02:47:26] Index: 2
+**PACKAGE** [2015-05-29 02:47:26] Param: ChatData; Value: [2015-05-28 17:55:35] Billiards group created!
+
+**PACKAGE** [2015-05-29 02:47:26] Param: TimeStamp; Value: 2015-05-29 02:47:26
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:49:43] Param: GetMyChats; Value: 
+**$_POST** [2015-05-29 02:49:43] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:49:43] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:49:43] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:49:43] Index: 0
+**PACKAGE** [2015-05-29 02:49:43] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:49:43] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:49:43] Index: 1
+**PACKAGE** [2015-05-29 02:49:43] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 02:49:43] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 02:49:43] Param: ChatName; Value: TestEventBois
+**INDEX** [2015-05-29 02:49:43] Index: 2
+**PACKAGE** [2015-05-29 02:49:43] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 02:49:43] Param: ID; Value: 3
+**PACKAGE** [2015-05-29 02:49:43] Param: ChatName; Value: vxs
+**INDEX** [2015-05-29 02:49:43] Index: 3
+**PACKAGE** [2015-05-29 02:49:43] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 02:49:43] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 02:49:43] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 02:49:43] Index: 4
+**PACKAGE** [2015-05-29 02:49:43] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 02:49:43] Param: ID; Value: 13
+**PACKAGE** [2015-05-29 02:49:43] Param: ChatName; Value: First Event7
+**INDEX** [2015-05-29 02:49:43] Index: 5
+**PACKAGE** [2015-05-29 02:49:43] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 02:49:43] Param: ID; Value: 17
+**PACKAGE** [2015-05-29 02:49:43] Param: ChatName; Value: oldEvent
+**INDEX** [2015-05-29 02:49:43] Index: 6
+**PACKAGE** [2015-05-29 02:49:43] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 02:49:43] Param: ID; Value: 18
+**PACKAGE** [2015-05-29 02:49:43] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 02:49:43] Index: 7
+**PACKAGE** [2015-05-29 02:49:43] Param: BelongsTo; Value: 2
+**PACKAGE** [2015-05-29 02:49:43] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 02:49:43] Param: ChatName; Value: WoW
+MY CHATS SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:49:51] Param: GetChat; Value: 7
+**$_POST** [2015-05-29 02:49:51] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:49:51] Param: LoginPass; Value: test
+**$_POST** [2015-05-29 02:49:51] Param: BelongsTo; Value: 1
+**VERIFED** [2015-05-29 02:49:51] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:49:51] Index: 0
+**PACKAGE** [2015-05-29 02:49:51] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:49:51] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:49:51] Index: 1
+**PACKAGE** [2015-05-29 02:49:51] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 02:49:51] Param: ChatID; Value: 7
+**PACKAGE** [2015-05-29 02:49:51] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 02:49:51] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 02:49:51] Index: 2
+**PACKAGE** [2015-05-29 02:49:51] Param: ChatData; Value: [2015-05-28 21:18:46] First Event event created!
+[21:18] test@test.com joined event!
+
+**PACKAGE** [2015-05-29 02:49:51] Param: TimeStamp; Value: 2015-05-29 02:49:51
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:49:57] Param: UpdateChat; Value: 7
+**$_POST** [2015-05-29 02:49:57] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 02:49:57] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:49:57] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:49:57] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:49:57] Index: 0
+**PACKAGE** [2015-05-29 02:49:57] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:49:57] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:49:57] Index: 1
+**PACKAGE** [2015-05-29 02:49:57] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 02:49:57] Param: ChatID; Value: 7
+**PACKAGE** [2015-05-29 02:49:57] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 02:49:57] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 02:49:57] Index: 2
+**PACKAGE** [2015-05-29 02:49:57] Param: ChatData; Value: [2015-05-28 21:18:46] First Event event created!
+[21:18] test@test.com joined event!
+
+**PACKAGE** [2015-05-29 02:49:57] Param: TimeStamp; Value: 2015-05-29 02:49:57
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:49:58] Param: UpdateChat; Value: 7
+**$_POST** [2015-05-29 02:49:58] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 02:49:58] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:49:58] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:49:58] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:49:58] Index: 0
+**PACKAGE** [2015-05-29 02:49:58] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:49:58] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:49:58] Index: 1
+**PACKAGE** [2015-05-29 02:49:58] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 02:49:58] Param: ChatID; Value: 7
+**PACKAGE** [2015-05-29 02:49:58] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 02:49:58] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 02:49:58] Index: 2
+**PACKAGE** [2015-05-29 02:49:58] Param: ChatData; Value: [2015-05-28 21:18:46] First Event event created!
+[21:18] test@test.com joined event!
+
+**PACKAGE** [2015-05-29 02:49:58] Param: TimeStamp; Value: 2015-05-29 02:49:58
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:50:00] Param: UpdateChat; Value: 7
+**$_POST** [2015-05-29 02:50:00] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 02:50:00] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:50:00] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:50:00] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:50:00] Index: 0
+**PACKAGE** [2015-05-29 02:50:00] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:50:00] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:50:00] Index: 1
+**PACKAGE** [2015-05-29 02:50:00] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 02:50:00] Param: ChatID; Value: 7
+**PACKAGE** [2015-05-29 02:50:00] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 02:50:00] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 02:50:00] Index: 2
+**PACKAGE** [2015-05-29 02:50:00] Param: ChatData; Value: [2015-05-28 21:18:46] First Event event created!
+[21:18] test@test.com joined event!
+
+**PACKAGE** [2015-05-29 02:50:00] Param: TimeStamp; Value: 2015-05-29 02:50:00
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:50:03] Param: PostChat; Value: 7
+**$_POST** [2015-05-29 02:50:03] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 02:50:03] Param: ChatData; Value: slm kzlar
+**$_POST** [2015-05-29 02:50:03] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:50:03] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:50:03] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:50:03] Index: 0
+**PACKAGE** [2015-05-29 02:50:03] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:50:03] Param: reason; Value: 0
+CHAT UPDATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:50:03] Param: UpdateChat; Value: 7
+**$_POST** [2015-05-29 02:50:03] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 02:50:03] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:50:03] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:50:03] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:50:03] Index: 0
+**PACKAGE** [2015-05-29 02:50:03] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:50:03] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:50:03] Index: 1
+**PACKAGE** [2015-05-29 02:50:03] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 02:50:03] Param: ChatID; Value: 7
+**PACKAGE** [2015-05-29 02:50:03] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 02:50:03] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 02:50:03] Index: 2
+**PACKAGE** [2015-05-29 02:50:03] Param: ChatData; Value: [2015-05-28 21:18:46] First Event event created!
+[21:18] test@test.com joined event!
+[02:50] Kamer Levi: slm kzlar
+
+**PACKAGE** [2015-05-29 02:50:03] Param: TimeStamp; Value: 2015-05-29 02:50:03
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:50:07] Param: UpdateChat; Value: 7
+**$_POST** [2015-05-29 02:50:07] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 02:50:07] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:50:07] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:50:07] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:50:07] Index: 0
+**PACKAGE** [2015-05-29 02:50:07] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:50:07] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:50:07] Index: 1
+**PACKAGE** [2015-05-29 02:50:07] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 02:50:07] Param: ChatID; Value: 7
+**PACKAGE** [2015-05-29 02:50:07] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 02:50:07] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 02:50:07] Index: 2
+**PACKAGE** [2015-05-29 02:50:07] Param: ChatData; Value: [2015-05-28 21:18:46] First Event event created!
+[21:18] test@test.com joined event!
+[02:50] Kamer Levi: slm kzlar
+
+**PACKAGE** [2015-05-29 02:50:07] Param: TimeStamp; Value: 2015-05-29 02:50:07
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:50:09] Param: UpdateChat; Value: 7
+**$_POST** [2015-05-29 02:50:09] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 02:50:09] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:50:09] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:50:10] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:50:10] Index: 0
+**PACKAGE** [2015-05-29 02:50:10] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:50:10] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:50:10] Index: 1
+**PACKAGE** [2015-05-29 02:50:10] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 02:50:10] Param: ChatID; Value: 7
+**PACKAGE** [2015-05-29 02:50:10] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 02:50:10] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 02:50:10] Index: 2
+**PACKAGE** [2015-05-29 02:50:10] Param: ChatData; Value: [2015-05-28 21:18:46] First Event event created!
+[21:18] test@test.com joined event!
+[02:50] Kamer Levi: slm kzlar
+
+**PACKAGE** [2015-05-29 02:50:10] Param: TimeStamp; Value: 2015-05-29 02:50:09
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:50:12] Param: UpdateChat; Value: 7
+**$_POST** [2015-05-29 02:50:12] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 02:50:12] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:50:12] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:50:13] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:50:13] Index: 0
+**PACKAGE** [2015-05-29 02:50:13] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:50:13] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:50:13] Index: 1
+**PACKAGE** [2015-05-29 02:50:13] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 02:50:13] Param: ChatID; Value: 7
+**PACKAGE** [2015-05-29 02:50:13] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 02:50:13] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 02:50:13] Index: 2
+**PACKAGE** [2015-05-29 02:50:13] Param: ChatData; Value: [2015-05-28 21:18:46] First Event event created!
+[21:18] test@test.com joined event!
+[02:50] Kamer Levi: slm kzlar
+
+**PACKAGE** [2015-05-29 02:50:13] Param: TimeStamp; Value: 2015-05-29 02:50:12
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:50:16] Param: UpdateChat; Value: 7
+**$_POST** [2015-05-29 02:50:16] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 02:50:16] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:50:16] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:50:16] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:50:16] Index: 0
+**PACKAGE** [2015-05-29 02:50:16] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:50:16] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:50:16] Index: 1
+**PACKAGE** [2015-05-29 02:50:16] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 02:50:16] Param: ChatID; Value: 7
+**PACKAGE** [2015-05-29 02:50:16] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 02:50:16] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 02:50:16] Index: 2
+**PACKAGE** [2015-05-29 02:50:16] Param: ChatData; Value: [2015-05-28 21:18:46] First Event event created!
+[21:18] test@test.com joined event!
+[02:50] Kamer Levi: slm kzlar
+
+**PACKAGE** [2015-05-29 02:50:16] Param: TimeStamp; Value: 2015-05-29 02:50:16
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:50:19] Param: UpdateChat; Value: 7
+**$_POST** [2015-05-29 02:50:19] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 02:50:19] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:50:19] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:50:19] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:50:19] Index: 0
+**PACKAGE** [2015-05-29 02:50:19] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:50:19] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:50:19] Index: 1
+**PACKAGE** [2015-05-29 02:50:19] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 02:50:19] Param: ChatID; Value: 7
+**PACKAGE** [2015-05-29 02:50:19] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 02:50:19] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 02:50:19] Index: 2
+**PACKAGE** [2015-05-29 02:50:19] Param: ChatData; Value: [2015-05-28 21:18:46] First Event event created!
+[21:18] test@test.com joined event!
+[02:50] Kamer Levi: slm kzlar
+
+**PACKAGE** [2015-05-29 02:50:19] Param: TimeStamp; Value: 2015-05-29 02:50:19
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:50:22] Param: UpdateChat; Value: 7
+**$_POST** [2015-05-29 02:50:22] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 02:50:22] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:50:22] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:50:22] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:50:22] Index: 0
+**PACKAGE** [2015-05-29 02:50:22] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:50:22] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:50:22] Index: 1
+**PACKAGE** [2015-05-29 02:50:22] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 02:50:22] Param: ChatID; Value: 7
+**PACKAGE** [2015-05-29 02:50:22] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 02:50:22] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 02:50:22] Index: 2
+**PACKAGE** [2015-05-29 02:50:22] Param: ChatData; Value: [2015-05-28 21:18:46] First Event event created!
+[21:18] test@test.com joined event!
+[02:50] Kamer Levi: slm kzlar
+
+**PACKAGE** [2015-05-29 02:50:22] Param: TimeStamp; Value: 2015-05-29 02:50:22
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:50:25] Param: UpdateChat; Value: 7
+**$_POST** [2015-05-29 02:50:25] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 02:50:25] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:50:25] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:50:25] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:50:25] Index: 0
+**PACKAGE** [2015-05-29 02:50:25] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:50:25] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:50:25] Index: 1
+**PACKAGE** [2015-05-29 02:50:25] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 02:50:25] Param: ChatID; Value: 7
+**PACKAGE** [2015-05-29 02:50:25] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 02:50:25] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 02:50:25] Index: 2
+**PACKAGE** [2015-05-29 02:50:25] Param: ChatData; Value: [2015-05-28 21:18:46] First Event event created!
+[21:18] test@test.com joined event!
+[02:50] Kamer Levi: slm kzlar
+
+**PACKAGE** [2015-05-29 02:50:25] Param: TimeStamp; Value: 2015-05-29 02:50:25
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:50:28] Param: UpdateChat; Value: 7
+**$_POST** [2015-05-29 02:50:28] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 02:50:28] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 02:50:28] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:50:28] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 02:50:28] Index: 0
+**PACKAGE** [2015-05-29 02:50:28] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:50:28] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:50:28] Index: 1
+**PACKAGE** [2015-05-29 02:50:28] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 02:50:28] Param: ChatID; Value: 7
+**PACKAGE** [2015-05-29 02:50:28] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 02:50:28] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 02:50:28] Index: 2
+**PACKAGE** [2015-05-29 02:50:28] Param: ChatData; Value: [2015-05-28 21:18:46] First Event event created!
+[21:18] test@test.com joined event!
+[02:50] Kamer Levi: slm kzlar
+
+**PACKAGE** [2015-05-29 02:50:28] Param: TimeStamp; Value: 2015-05-29 02:50:28
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:31] Param: GetMyChats; Value: 
+**$_POST** [2015-05-29 04:13:31] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:31] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:13:31] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:31] Index: 0
+**PACKAGE** [2015-05-29 04:13:31] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:31] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:13:31] Index: 1
+**PACKAGE** [2015-05-29 04:13:31] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 04:13:31] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 04:13:31] Param: ChatName; Value: TestEventBois
+**INDEX** [2015-05-29 04:13:31] Index: 2
+**PACKAGE** [2015-05-29 04:13:31] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 04:13:31] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 04:13:31] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:13:31] Index: 3
+**PACKAGE** [2015-05-29 04:13:31] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 04:13:31] Param: ID; Value: 12
+**PACKAGE** [2015-05-29 04:13:31] Param: ChatName; Value: First Event6
+**INDEX** [2015-05-29 04:13:31] Index: 4
+**PACKAGE** [2015-05-29 04:13:31] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 04:13:31] Param: ID; Value: 13
+**PACKAGE** [2015-05-29 04:13:31] Param: ChatName; Value: First Event7
+**INDEX** [2015-05-29 04:13:31] Index: 5
+**PACKAGE** [2015-05-29 04:13:31] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 04:13:31] Param: ID; Value: 17
+**PACKAGE** [2015-05-29 04:13:31] Param: ChatName; Value: oldEvent
+**INDEX** [2015-05-29 04:13:31] Index: 6
+**PACKAGE** [2015-05-29 04:13:31] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 04:13:31] Param: ID; Value: 18
+**PACKAGE** [2015-05-29 04:13:31] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:13:31] Index: 7
+**PACKAGE** [2015-05-29 04:13:31] Param: BelongsTo; Value: 2
+**PACKAGE** [2015-05-29 04:13:31] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 04:13:31] Param: ChatName; Value: WoW
+MY CHATS SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:37] Param: GetChat; Value: 7
+**$_POST** [2015-05-29 04:13:37] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:37] Param: LoginPass; Value: test
+**$_POST** [2015-05-29 04:13:37] Param: BelongsTo; Value: 1
+**VERIFED** [2015-05-29 04:13:37] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:37] Index: 0
+**PACKAGE** [2015-05-29 04:13:37] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:37] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:13:37] Index: 1
+**PACKAGE** [2015-05-29 04:13:37] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 04:13:37] Param: ChatID; Value: 7
+**PACKAGE** [2015-05-29 04:13:37] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 04:13:37] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:13:37] Index: 2
+**PACKAGE** [2015-05-29 04:13:37] Param: ChatData; Value: [2015-05-28 21:18:46] First Event event created!
+[21:18] test@test.com joined event!
+[02:50] Kamer Levi: slm kzlar
+
+**PACKAGE** [2015-05-29 04:13:37] Param: TimeStamp; Value: 2015-05-29 04:13:37
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:40] Param: UpdateChat; Value: 7
+**$_POST** [2015-05-29 04:13:40] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 04:13:40] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:40] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:13:40] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:40] Index: 0
+**PACKAGE** [2015-05-29 04:13:40] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:40] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:13:40] Index: 1
+**PACKAGE** [2015-05-29 04:13:40] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 04:13:40] Param: ChatID; Value: 7
+**PACKAGE** [2015-05-29 04:13:40] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 04:13:40] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:13:40] Index: 2
+**PACKAGE** [2015-05-29 04:13:40] Param: ChatData; Value: [2015-05-28 21:18:46] First Event event created!
+[21:18] test@test.com joined event!
+[02:50] Kamer Levi: slm kzlar
+
+**PACKAGE** [2015-05-29 04:13:40] Param: TimeStamp; Value: 2015-05-29 04:13:40
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:41] Param: PostChat; Value: 7
+**$_POST** [2015-05-29 04:13:41] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 04:13:41] Param: ChatData; Value: ehuehuehue
+**$_POST** [2015-05-29 04:13:41] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:41] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:13:41] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:41] Index: 0
+**PACKAGE** [2015-05-29 04:13:41] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:41] Param: reason; Value: 0
+CHAT UPDATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:43] Param: UpdateChat; Value: 7
+**$_POST** [2015-05-29 04:13:43] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 04:13:43] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:43] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:13:43] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:43] Index: 0
+**PACKAGE** [2015-05-29 04:13:43] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:43] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:13:43] Index: 1
+**PACKAGE** [2015-05-29 04:13:43] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 04:13:43] Param: ChatID; Value: 7
+**PACKAGE** [2015-05-29 04:13:43] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 04:13:43] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:13:43] Index: 2
+**PACKAGE** [2015-05-29 04:13:43] Param: ChatData; Value: [2015-05-28 21:18:46] First Event event created!
+[21:18] test@test.com joined event!
+[02:50] Kamer Levi: slm kzlar
+[04:13] Kamer Levi: ehuehuehue
+
+**PACKAGE** [2015-05-29 04:13:43] Param: TimeStamp; Value: 2015-05-29 04:13:43
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:46] Param: UpdateChat; Value: 7
+**$_POST** [2015-05-29 04:13:46] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 04:13:46] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:46] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:13:46] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:46] Index: 0
+**PACKAGE** [2015-05-29 04:13:46] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:46] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:13:46] Index: 1
+**PACKAGE** [2015-05-29 04:13:46] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 04:13:46] Param: ChatID; Value: 7
+**PACKAGE** [2015-05-29 04:13:46] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 04:13:46] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:13:46] Index: 2
+**PACKAGE** [2015-05-29 04:13:46] Param: ChatData; Value: [2015-05-28 21:18:46] First Event event created!
+[21:18] test@test.com joined event!
+[02:50] Kamer Levi: slm kzlar
+[04:13] Kamer Levi: ehuehuehue
+
+**PACKAGE** [2015-05-29 04:13:46] Param: TimeStamp; Value: 2015-05-29 04:13:46
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:47] Param: GetChat; Value: 18
+**$_POST** [2015-05-29 04:13:47] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:47] Param: LoginPass; Value: test
+**$_POST** [2015-05-29 04:13:47] Param: BelongsTo; Value: 1
+**VERIFED** [2015-05-29 04:13:47] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:47] Index: 0
+**PACKAGE** [2015-05-29 04:13:47] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:47] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:13:47] Index: 1
+**PACKAGE** [2015-05-29 04:13:47] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 04:13:47] Param: ChatID; Value: 18
+**PACKAGE** [2015-05-29 04:13:47] Param: ID; Value: 18
+**PACKAGE** [2015-05-29 04:13:47] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:13:47] Index: 2
+**PACKAGE** [2015-05-29 04:13:47] Param: ChatData; Value: [2015-05-29 00:32:15] First Event event created!
+[00:32] test@test.com joined event!
+[03:31]  joined event!
+
+**PACKAGE** [2015-05-29 04:13:47] Param: TimeStamp; Value: 2015-05-29 04:13:47
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:49] Param: UpdateChat; Value: 7
+**$_POST** [2015-05-29 04:13:49] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 04:13:49] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:49] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:13:49] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:49] Index: 0
+**PACKAGE** [2015-05-29 04:13:49] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:49] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:13:49] Index: 1
+**PACKAGE** [2015-05-29 04:13:49] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 04:13:49] Param: ChatID; Value: 7
+**PACKAGE** [2015-05-29 04:13:49] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 04:13:49] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:13:49] Index: 2
+**PACKAGE** [2015-05-29 04:13:49] Param: ChatData; Value: [2015-05-28 21:18:46] First Event event created!
+[21:18] test@test.com joined event!
+[02:50] Kamer Levi: slm kzlar
+[04:13] Kamer Levi: ehuehuehue
+
+**PACKAGE** [2015-05-29 04:13:49] Param: TimeStamp; Value: 2015-05-29 04:13:49
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:50] Param: UpdateChat; Value: 18
+**$_POST** [2015-05-29 04:13:50] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 04:13:50] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:50] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:13:50] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:50] Index: 0
+**PACKAGE** [2015-05-29 04:13:50] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:50] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:13:50] Index: 1
+**PACKAGE** [2015-05-29 04:13:50] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 04:13:50] Param: ChatID; Value: 18
+**PACKAGE** [2015-05-29 04:13:50] Param: ID; Value: 18
+**PACKAGE** [2015-05-29 04:13:50] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:13:50] Index: 2
+**PACKAGE** [2015-05-29 04:13:50] Param: ChatData; Value: [2015-05-29 00:32:15] First Event event created!
+[00:32] test@test.com joined event!
+[03:31]  joined event!
+
+**PACKAGE** [2015-05-29 04:13:50] Param: TimeStamp; Value: 2015-05-29 04:13:50
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:52] Param: PostChat; Value: 18
+**$_POST** [2015-05-29 04:13:52] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 04:13:52] Param: ChatData; Value: 123swag
+**$_POST** [2015-05-29 04:13:52] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:52] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:13:52] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:52] Index: 0
+**PACKAGE** [2015-05-29 04:13:52] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:52] Param: reason; Value: 0
+CHAT UPDATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:52] Param: UpdateChat; Value: 7
+**$_POST** [2015-05-29 04:13:52] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 04:13:52] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:52] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:13:52] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:52] Index: 0
+**PACKAGE** [2015-05-29 04:13:52] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:52] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:13:52] Index: 1
+**PACKAGE** [2015-05-29 04:13:52] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 04:13:52] Param: ChatID; Value: 7
+**PACKAGE** [2015-05-29 04:13:52] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 04:13:52] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:13:52] Index: 2
+**PACKAGE** [2015-05-29 04:13:52] Param: ChatData; Value: [2015-05-28 21:18:46] First Event event created!
+[21:18] test@test.com joined event!
+[02:50] Kamer Levi: slm kzlar
+[04:13] Kamer Levi: ehuehuehue
+
+**PACKAGE** [2015-05-29 04:13:52] Param: TimeStamp; Value: 2015-05-29 04:13:52
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:54] Param: UpdateChat; Value: 18
+**$_POST** [2015-05-29 04:13:54] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 04:13:54] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:54] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:13:54] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:54] Index: 0
+**PACKAGE** [2015-05-29 04:13:54] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:54] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:13:54] Index: 1
+**PACKAGE** [2015-05-29 04:13:54] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 04:13:54] Param: ChatID; Value: 18
+**PACKAGE** [2015-05-29 04:13:54] Param: ID; Value: 18
+**PACKAGE** [2015-05-29 04:13:54] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:13:54] Index: 2
+**PACKAGE** [2015-05-29 04:13:54] Param: ChatData; Value: [2015-05-29 00:32:15] First Event event created!
+[00:32] test@test.com joined event!
+[03:31]  joined event!
+[04:13] Kamer Levi: 123swag
+
+**PACKAGE** [2015-05-29 04:13:54] Param: TimeStamp; Value: 2015-05-29 04:13:54
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:55] Param: UpdateChat; Value: 7
+**$_POST** [2015-05-29 04:13:55] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 04:13:55] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:55] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:13:56] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:56] Index: 0
+**PACKAGE** [2015-05-29 04:13:56] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:56] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:13:56] Index: 1
+**PACKAGE** [2015-05-29 04:13:56] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 04:13:56] Param: ChatID; Value: 7
+**PACKAGE** [2015-05-29 04:13:56] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 04:13:56] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:13:56] Index: 2
+**PACKAGE** [2015-05-29 04:13:56] Param: ChatData; Value: [2015-05-28 21:18:46] First Event event created!
+[21:18] test@test.com joined event!
+[02:50] Kamer Levi: slm kzlar
+[04:13] Kamer Levi: ehuehuehue
+
+**PACKAGE** [2015-05-29 04:13:56] Param: TimeStamp; Value: 2015-05-29 04:13:55
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:57] Param: UpdateChat; Value: 18
+**$_POST** [2015-05-29 04:13:57] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 04:13:57] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:57] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:13:57] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:57] Index: 0
+**PACKAGE** [2015-05-29 04:13:57] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:57] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:13:57] Index: 1
+**PACKAGE** [2015-05-29 04:13:57] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 04:13:57] Param: ChatID; Value: 18
+**PACKAGE** [2015-05-29 04:13:57] Param: ID; Value: 18
+**PACKAGE** [2015-05-29 04:13:57] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:13:57] Index: 2
+**PACKAGE** [2015-05-29 04:13:57] Param: ChatData; Value: [2015-05-29 00:32:15] First Event event created!
+[00:32] test@test.com joined event!
+[03:31]  joined event!
+[04:13] Kamer Levi: 123swag
+
+**PACKAGE** [2015-05-29 04:13:57] Param: TimeStamp; Value: 2015-05-29 04:13:57
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:57] Param: GetChat; Value: 18
+**$_POST** [2015-05-29 04:13:57] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:57] Param: LoginPass; Value: test
+**$_POST** [2015-05-29 04:13:57] Param: BelongsTo; Value: 1
+**VERIFED** [2015-05-29 04:13:57] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:57] Index: 0
+**PACKAGE** [2015-05-29 04:13:57] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:57] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:13:57] Index: 1
+**PACKAGE** [2015-05-29 04:13:57] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 04:13:57] Param: ChatID; Value: 18
+**PACKAGE** [2015-05-29 04:13:57] Param: ID; Value: 18
+**PACKAGE** [2015-05-29 04:13:57] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:13:57] Index: 2
+**PACKAGE** [2015-05-29 04:13:57] Param: ChatData; Value: [2015-05-29 00:32:15] First Event event created!
+[00:32] test@test.com joined event!
+[03:31]  joined event!
+[04:13] Kamer Levi: 123swag
+
+**PACKAGE** [2015-05-29 04:13:57] Param: TimeStamp; Value: 2015-05-29 04:13:57
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:59] Param: UpdateChat; Value: 7
+**$_POST** [2015-05-29 04:13:59] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 04:13:59] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:59] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:13:59] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:59] Index: 0
+**PACKAGE** [2015-05-29 04:13:59] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:59] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:13:59] Index: 1
+**PACKAGE** [2015-05-29 04:13:59] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 04:13:59] Param: ChatID; Value: 7
+**PACKAGE** [2015-05-29 04:13:59] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 04:13:59] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:13:59] Index: 2
+**PACKAGE** [2015-05-29 04:13:59] Param: ChatData; Value: [2015-05-28 21:18:46] First Event event created!
+[21:18] test@test.com joined event!
+[02:50] Kamer Levi: slm kzlar
+[04:13] Kamer Levi: ehuehuehue
+
+**PACKAGE** [2015-05-29 04:13:59] Param: TimeStamp; Value: 2015-05-29 04:13:59
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:14:00] Param: UpdateChat; Value: 18
+**$_POST** [2015-05-29 04:14:00] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 04:14:00] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:14:00] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:14:00] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:14:00] Index: 0
+**PACKAGE** [2015-05-29 04:14:00] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:14:00] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:14:00] Index: 1
+**PACKAGE** [2015-05-29 04:14:00] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 04:14:00] Param: ChatID; Value: 18
+**PACKAGE** [2015-05-29 04:14:00] Param: ID; Value: 18
+**PACKAGE** [2015-05-29 04:14:00] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:14:00] Index: 2
+**PACKAGE** [2015-05-29 04:14:00] Param: ChatData; Value: [2015-05-29 00:32:15] First Event event created!
+[00:32] test@test.com joined event!
+[03:31]  joined event!
+[04:13] Kamer Levi: 123swag
+
+**PACKAGE** [2015-05-29 04:14:00] Param: TimeStamp; Value: 2015-05-29 04:14:00
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:14:00] Param: UpdateChat; Value: 18
+**$_POST** [2015-05-29 04:14:00] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 04:14:00] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:14:00] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:14:00] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:14:00] Index: 0
+**PACKAGE** [2015-05-29 04:14:00] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:14:00] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:14:00] Index: 1
+**PACKAGE** [2015-05-29 04:14:00] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 04:14:00] Param: ChatID; Value: 18
+**PACKAGE** [2015-05-29 04:14:00] Param: ID; Value: 18
+**PACKAGE** [2015-05-29 04:14:00] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:14:00] Index: 2
+**PACKAGE** [2015-05-29 04:14:00] Param: ChatData; Value: [2015-05-29 00:32:15] First Event event created!
+[00:32] test@test.com joined event!
+[03:31]  joined event!
+[04:13] Kamer Levi: 123swag
+
+**PACKAGE** [2015-05-29 04:14:00] Param: TimeStamp; Value: 2015-05-29 04:14:00
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:14:02] Param: UpdateChat; Value: 7
+**$_POST** [2015-05-29 04:14:02] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 04:14:02] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:14:02] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:14:02] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:14:02] Index: 0
+**PACKAGE** [2015-05-29 04:14:02] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:14:02] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:14:02] Index: 1
+**PACKAGE** [2015-05-29 04:14:02] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 04:14:02] Param: ChatID; Value: 7
+**PACKAGE** [2015-05-29 04:14:02] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 04:14:02] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:14:02] Index: 2
+**PACKAGE** [2015-05-29 04:14:02] Param: ChatData; Value: [2015-05-28 21:18:46] First Event event created!
+[21:18] test@test.com joined event!
+[02:50] Kamer Levi: slm kzlar
+[04:13] Kamer Levi: ehuehuehue
+
+**PACKAGE** [2015-05-29 04:14:02] Param: TimeStamp; Value: 2015-05-29 04:14:02
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:14:02] Param: GetMyChats; Value: 
+**$_POST** [2015-05-29 04:14:02] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:14:02] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:14:02] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:14:02] Index: 0
+**PACKAGE** [2015-05-29 04:14:02] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:14:02] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:14:02] Index: 1
+**PACKAGE** [2015-05-29 04:14:02] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 04:14:02] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 04:14:02] Param: ChatName; Value: TestEventBois
+**INDEX** [2015-05-29 04:14:02] Index: 2
+**PACKAGE** [2015-05-29 04:14:02] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 04:14:02] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 04:14:02] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:14:02] Index: 3
+**PACKAGE** [2015-05-29 04:14:02] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 04:14:02] Param: ID; Value: 12
+**PACKAGE** [2015-05-29 04:14:02] Param: ChatName; Value: First Event6
+**INDEX** [2015-05-29 04:14:02] Index: 4
+**PACKAGE** [2015-05-29 04:14:02] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 04:14:02] Param: ID; Value: 13
+**PACKAGE** [2015-05-29 04:14:02] Param: ChatName; Value: First Event7
+**INDEX** [2015-05-29 04:14:02] Index: 5
+**PACKAGE** [2015-05-29 04:14:02] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 04:14:02] Param: ID; Value: 17
+**PACKAGE** [2015-05-29 04:14:02] Param: ChatName; Value: oldEvent
+**INDEX** [2015-05-29 04:14:02] Index: 6
+**PACKAGE** [2015-05-29 04:14:02] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 04:14:02] Param: ID; Value: 18
+**PACKAGE** [2015-05-29 04:14:02] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:14:02] Index: 7
+**PACKAGE** [2015-05-29 04:14:02] Param: BelongsTo; Value: 2
+**PACKAGE** [2015-05-29 04:14:02] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 04:14:02] Param: ChatName; Value: WoW
+MY CHATS SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:14:03] Param: UpdateChat; Value: 18
+**$_POST** [2015-05-29 04:14:03] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 04:14:03] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:14:03] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:14:03] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:14:03] Index: 0
+**PACKAGE** [2015-05-29 04:14:03] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:14:03] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:14:03] Index: 1
+**PACKAGE** [2015-05-29 04:14:03] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 04:14:03] Param: ChatID; Value: 18
+**PACKAGE** [2015-05-29 04:14:03] Param: ID; Value: 18
+**PACKAGE** [2015-05-29 04:14:03] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:14:03] Index: 2
+**PACKAGE** [2015-05-29 04:14:03] Param: ChatData; Value: [2015-05-29 00:32:15] First Event event created!
+[00:32] test@test.com joined event!
+[03:31]  joined event!
+[04:13] Kamer Levi: 123swag
+
+**PACKAGE** [2015-05-29 04:14:03] Param: TimeStamp; Value: 2015-05-29 04:14:03
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:14:03] Param: UpdateChat; Value: 18
+**$_POST** [2015-05-29 04:14:03] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 04:14:03] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:14:03] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:14:03] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:14:03] Index: 0
+**PACKAGE** [2015-05-29 04:14:03] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:14:03] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:14:03] Index: 1
+**PACKAGE** [2015-05-29 04:14:03] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 04:14:03] Param: ChatID; Value: 18
+**PACKAGE** [2015-05-29 04:14:03] Param: ID; Value: 18
+**PACKAGE** [2015-05-29 04:14:03] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:14:03] Index: 2
+**PACKAGE** [2015-05-29 04:14:03] Param: ChatData; Value: [2015-05-29 00:32:15] First Event event created!
+[00:32] test@test.com joined event!
+[03:31]  joined event!
+[04:13] Kamer Levi: 123swag
+
+**PACKAGE** [2015-05-29 04:14:03] Param: TimeStamp; Value: 2015-05-29 04:14:03
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:14:05] Param: UpdateChat; Value: 7
+**$_POST** [2015-05-29 04:14:05] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 04:14:05] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:14:05] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:14:05] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:14:05] Index: 0
+**PACKAGE** [2015-05-29 04:14:05] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:14:05] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:14:05] Index: 1
+**PACKAGE** [2015-05-29 04:14:05] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 04:14:05] Param: ChatID; Value: 7
+**PACKAGE** [2015-05-29 04:14:05] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 04:14:05] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:14:05] Index: 2
+**PACKAGE** [2015-05-29 04:14:05] Param: ChatData; Value: [2015-05-28 21:18:46] First Event event created!
+[21:18] test@test.com joined event!
+[02:50] Kamer Levi: slm kzlar
+[04:13] Kamer Levi: ehuehuehue
+
+**PACKAGE** [2015-05-29 04:14:05] Param: TimeStamp; Value: 2015-05-29 04:14:05
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:14:06] Param: UpdateChat; Value: 18
+**$_POST** [2015-05-29 04:14:06] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 04:14:06] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:14:06] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:14:06] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:14:06] Index: 0
+**PACKAGE** [2015-05-29 04:14:06] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:14:06] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:14:06] Index: 1
+**PACKAGE** [2015-05-29 04:14:06] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 04:14:06] Param: ChatID; Value: 18
+**PACKAGE** [2015-05-29 04:14:06] Param: ID; Value: 18
+**PACKAGE** [2015-05-29 04:14:06] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:14:06] Index: 2
+**PACKAGE** [2015-05-29 04:14:06] Param: ChatData; Value: [2015-05-29 00:32:15] First Event event created!
+[00:32] test@test.com joined event!
+[03:31]  joined event!
+[04:13] Kamer Levi: 123swag
+
+**PACKAGE** [2015-05-29 04:14:06] Param: TimeStamp; Value: 2015-05-29 04:14:06
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:14:06] Param: UpdateChat; Value: 18
+**$_POST** [2015-05-29 04:14:06] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 04:14:06] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:14:06] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:14:06] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:14:06] Index: 0
+**PACKAGE** [2015-05-29 04:14:06] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:14:06] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:14:06] Index: 1
+**PACKAGE** [2015-05-29 04:14:06] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 04:14:06] Param: ChatID; Value: 18
+**PACKAGE** [2015-05-29 04:14:06] Param: ID; Value: 18
+**PACKAGE** [2015-05-29 04:14:06] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:14:06] Index: 2
+**PACKAGE** [2015-05-29 04:14:06] Param: ChatData; Value: [2015-05-29 00:32:15] First Event event created!
+[00:32] test@test.com joined event!
+[03:31]  joined event!
+[04:13] Kamer Levi: 123swag
+
+**PACKAGE** [2015-05-29 04:14:06] Param: TimeStamp; Value: 2015-05-29 04:14:06
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:14:08] Param: UpdateChat; Value: 7
+**$_POST** [2015-05-29 04:14:08] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 04:14:08] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:14:08] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:14:08] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:14:08] Index: 0
+**PACKAGE** [2015-05-29 04:14:08] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:14:08] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:14:08] Index: 1
+**PACKAGE** [2015-05-29 04:14:08] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 04:14:08] Param: ChatID; Value: 7
+**PACKAGE** [2015-05-29 04:14:08] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 04:14:08] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:14:08] Index: 2
+**PACKAGE** [2015-05-29 04:14:08] Param: ChatData; Value: [2015-05-28 21:18:46] First Event event created!
+[21:18] test@test.com joined event!
+[02:50] Kamer Levi: slm kzlar
+[04:13] Kamer Levi: ehuehuehue
+
+**PACKAGE** [2015-05-29 04:14:08] Param: TimeStamp; Value: 2015-05-29 04:14:08
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:14:43] Param: GetMyChats; Value: 
+**$_POST** [2015-05-29 04:14:43] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:14:43] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:14:43] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:14:43] Index: 0
+**PACKAGE** [2015-05-29 04:14:43] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:14:43] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:14:43] Index: 1
+**PACKAGE** [2015-05-29 04:14:43] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 04:14:43] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 04:14:43] Param: ChatName; Value: TestEventBois
+**INDEX** [2015-05-29 04:14:43] Index: 2
+**PACKAGE** [2015-05-29 04:14:43] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 04:14:43] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 04:14:43] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:14:43] Index: 3
+**PACKAGE** [2015-05-29 04:14:43] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 04:14:43] Param: ID; Value: 12
+**PACKAGE** [2015-05-29 04:14:43] Param: ChatName; Value: First Event6
+**INDEX** [2015-05-29 04:14:43] Index: 4
+**PACKAGE** [2015-05-29 04:14:43] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 04:14:43] Param: ID; Value: 13
+**PACKAGE** [2015-05-29 04:14:43] Param: ChatName; Value: First Event7
+**INDEX** [2015-05-29 04:14:43] Index: 5
+**PACKAGE** [2015-05-29 04:14:43] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 04:14:43] Param: ID; Value: 17
+**PACKAGE** [2015-05-29 04:14:43] Param: ChatName; Value: oldEvent
+**INDEX** [2015-05-29 04:14:43] Index: 6
+**PACKAGE** [2015-05-29 04:14:43] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 04:14:43] Param: ID; Value: 18
+**PACKAGE** [2015-05-29 04:14:43] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:14:43] Index: 7
+**PACKAGE** [2015-05-29 04:14:43] Param: BelongsTo; Value: 2
+**PACKAGE** [2015-05-29 04:14:43] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 04:14:43] Param: ChatName; Value: WoW
+MY CHATS SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:14:45] Param: GetMyChats; Value: 
+**$_POST** [2015-05-29 04:14:45] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:14:45] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:14:45] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:14:45] Index: 0
+**PACKAGE** [2015-05-29 04:14:45] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:14:45] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:14:45] Index: 1
+**PACKAGE** [2015-05-29 04:14:45] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 04:14:45] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 04:14:45] Param: ChatName; Value: TestEventBois
+**INDEX** [2015-05-29 04:14:45] Index: 2
+**PACKAGE** [2015-05-29 04:14:45] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 04:14:45] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 04:14:45] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:14:45] Index: 3
+**PACKAGE** [2015-05-29 04:14:45] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 04:14:45] Param: ID; Value: 12
+**PACKAGE** [2015-05-29 04:14:45] Param: ChatName; Value: First Event6
+**INDEX** [2015-05-29 04:14:45] Index: 4
+**PACKAGE** [2015-05-29 04:14:45] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 04:14:45] Param: ID; Value: 13
+**PACKAGE** [2015-05-29 04:14:45] Param: ChatName; Value: First Event7
+**INDEX** [2015-05-29 04:14:45] Index: 5
+**PACKAGE** [2015-05-29 04:14:45] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 04:14:45] Param: ID; Value: 17
+**PACKAGE** [2015-05-29 04:14:45] Param: ChatName; Value: oldEvent
+**INDEX** [2015-05-29 04:14:45] Index: 6
+**PACKAGE** [2015-05-29 04:14:45] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 04:14:45] Param: ID; Value: 18
+**PACKAGE** [2015-05-29 04:14:45] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 04:14:45] Index: 7
+**PACKAGE** [2015-05-29 04:14:45] Param: BelongsTo; Value: 2
+**PACKAGE** [2015-05-29 04:14:45] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 04:14:45] Param: ChatName; Value: WoW
+MY CHATS SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:21:39] Param: GetMyChats; Value: 
+**$_POST** [2015-05-29 14:21:39] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:21:39] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:21:39] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:21:39] Index: 0
+**PACKAGE** [2015-05-29 14:21:39] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:21:39] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:21:39] Index: 1
+**PACKAGE** [2015-05-29 14:21:39] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 14:21:39] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 14:21:39] Param: ChatName; Value: TestEventBois
+**INDEX** [2015-05-29 14:21:39] Index: 2
+**PACKAGE** [2015-05-29 14:21:39] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 14:21:39] Param: ID; Value: 10
+**PACKAGE** [2015-05-29 14:21:39] Param: ChatName; Value: First Event4
+**INDEX** [2015-05-29 14:21:39] Index: 3
+**PACKAGE** [2015-05-29 14:21:39] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 14:21:39] Param: ID; Value: 19
+**PACKAGE** [2015-05-29 14:21:39] Param: ChatName; Value: labevent
+**INDEX** [2015-05-29 14:21:39] Index: 4
+**PACKAGE** [2015-05-29 14:21:39] Param: BelongsTo; Value: 2
+**PACKAGE** [2015-05-29 14:21:39] Param: ID; Value: 1
+**PACKAGE** [2015-05-29 14:21:39] Param: ChatName; Value: D&D
+MY CHATS SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:21:53] Param: GetChat; Value: 19
+**$_POST** [2015-05-29 14:21:53] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:21:53] Param: LoginPass; Value: 123
+**$_POST** [2015-05-29 14:21:53] Param: BelongsTo; Value: 1
+**VERIFED** [2015-05-29 14:21:54] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:21:54] Index: 0
+**PACKAGE** [2015-05-29 14:21:54] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:21:54] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:21:54] Index: 1
+**PACKAGE** [2015-05-29 14:21:54] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:21:54] Param: ChatID; Value: 19
+**PACKAGE** [2015-05-29 14:21:54] Param: ID; Value: 19
+**PACKAGE** [2015-05-29 14:21:54] Param: ChatName; Value: labevent
+**INDEX** [2015-05-29 14:21:54] Index: 2
+**PACKAGE** [2015-05-29 14:21:54] Param: ChatData; Value: [2015-05-29 14:20:39] labevent event created!
+[14:20] Cemal Yilmaz joined event!
+
+**PACKAGE** [2015-05-29 14:21:54] Param: TimeStamp; Value: 2015-05-29 14:21:53
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:21:57] Param: UpdateChat; Value: 19
+**$_POST** [2015-05-29 14:21:57] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:21:57] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:21:57] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:21:57] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:21:57] Index: 0
+**PACKAGE** [2015-05-29 14:21:57] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:21:57] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:21:57] Index: 1
+**PACKAGE** [2015-05-29 14:21:57] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:21:57] Param: ChatID; Value: 19
+**PACKAGE** [2015-05-29 14:21:57] Param: ID; Value: 19
+**PACKAGE** [2015-05-29 14:21:57] Param: ChatName; Value: labevent
+**INDEX** [2015-05-29 14:21:57] Index: 2
+**PACKAGE** [2015-05-29 14:21:57] Param: ChatData; Value: [2015-05-29 14:20:39] labevent event created!
+[14:20] Cemal Yilmaz joined event!
+
+**PACKAGE** [2015-05-29 14:21:57] Param: TimeStamp; Value: 2015-05-29 14:21:57
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:22:00] Param: UpdateChat; Value: 19
+**$_POST** [2015-05-29 14:22:00] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:22:00] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:22:00] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:22:00] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:22:00] Index: 0
+**PACKAGE** [2015-05-29 14:22:00] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:22:00] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:22:00] Index: 1
+**PACKAGE** [2015-05-29 14:22:00] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:22:00] Param: ChatID; Value: 19
+**PACKAGE** [2015-05-29 14:22:00] Param: ID; Value: 19
+**PACKAGE** [2015-05-29 14:22:00] Param: ChatName; Value: labevent
+**INDEX** [2015-05-29 14:22:00] Index: 2
+**PACKAGE** [2015-05-29 14:22:00] Param: ChatData; Value: [2015-05-29 14:20:39] labevent event created!
+[14:20] Cemal Yilmaz joined event!
+
+**PACKAGE** [2015-05-29 14:22:00] Param: TimeStamp; Value: 2015-05-29 14:22:00
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:22:03] Param: UpdateChat; Value: 19
+**$_POST** [2015-05-29 14:22:03] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:22:03] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:22:03] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:22:03] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:22:03] Index: 0
+**PACKAGE** [2015-05-29 14:22:03] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:22:03] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:22:03] Index: 1
+**PACKAGE** [2015-05-29 14:22:03] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:22:03] Param: ChatID; Value: 19
+**PACKAGE** [2015-05-29 14:22:03] Param: ID; Value: 19
+**PACKAGE** [2015-05-29 14:22:03] Param: ChatName; Value: labevent
+**INDEX** [2015-05-29 14:22:03] Index: 2
+**PACKAGE** [2015-05-29 14:22:03] Param: ChatData; Value: [2015-05-29 14:20:39] labevent event created!
+[14:20] Cemal Yilmaz joined event!
+
+**PACKAGE** [2015-05-29 14:22:03] Param: TimeStamp; Value: 2015-05-29 14:22:03
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:22:06] Param: UpdateChat; Value: 19
+**$_POST** [2015-05-29 14:22:06] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:22:06] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:22:06] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:22:06] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:22:06] Index: 0
+**PACKAGE** [2015-05-29 14:22:06] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:22:06] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:22:06] Index: 1
+**PACKAGE** [2015-05-29 14:22:06] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:22:06] Param: ChatID; Value: 19
+**PACKAGE** [2015-05-29 14:22:06] Param: ID; Value: 19
+**PACKAGE** [2015-05-29 14:22:06] Param: ChatName; Value: labevent
+**INDEX** [2015-05-29 14:22:06] Index: 2
+**PACKAGE** [2015-05-29 14:22:06] Param: ChatData; Value: [2015-05-29 14:20:39] labevent event created!
+[14:20] Cemal Yilmaz joined event!
+
+**PACKAGE** [2015-05-29 14:22:06] Param: TimeStamp; Value: 2015-05-29 14:22:06
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:22:09] Param: UpdateChat; Value: 19
+**$_POST** [2015-05-29 14:22:09] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:22:09] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:22:09] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:22:09] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:22:09] Index: 0
+**PACKAGE** [2015-05-29 14:22:09] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:22:09] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:22:09] Index: 1
+**PACKAGE** [2015-05-29 14:22:09] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:22:09] Param: ChatID; Value: 19
+**PACKAGE** [2015-05-29 14:22:09] Param: ID; Value: 19
+**PACKAGE** [2015-05-29 14:22:09] Param: ChatName; Value: labevent
+**INDEX** [2015-05-29 14:22:09] Index: 2
+**PACKAGE** [2015-05-29 14:22:09] Param: ChatData; Value: [2015-05-29 14:20:39] labevent event created!
+[14:20] Cemal Yilmaz joined event!
+
+**PACKAGE** [2015-05-29 14:22:09] Param: TimeStamp; Value: 2015-05-29 14:22:09
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:22:10] Param: PostChat; Value: 19
+**$_POST** [2015-05-29 14:22:10] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:22:10] Param: ChatData; Value: merhaba
+**$_POST** [2015-05-29 14:22:10] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:22:10] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:22:10] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:22:10] Index: 0
+**PACKAGE** [2015-05-29 14:22:10] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:22:10] Param: reason; Value: 0
+CHAT UPDATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:22:12] Param: UpdateChat; Value: 19
+**$_POST** [2015-05-29 14:22:12] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:22:12] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:22:12] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:22:12] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:22:12] Index: 0
+**PACKAGE** [2015-05-29 14:22:12] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:22:12] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:22:12] Index: 1
+**PACKAGE** [2015-05-29 14:22:12] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:22:12] Param: ChatID; Value: 19
+**PACKAGE** [2015-05-29 14:22:12] Param: ID; Value: 19
+**PACKAGE** [2015-05-29 14:22:12] Param: ChatName; Value: labevent
+**INDEX** [2015-05-29 14:22:12] Index: 2
+**PACKAGE** [2015-05-29 14:22:12] Param: ChatData; Value: [2015-05-29 14:20:39] labevent event created!
+[14:20] Cemal Yilmaz joined event!
+[14:22] Cemal Yilmaz: merhaba
+
+**PACKAGE** [2015-05-29 14:22:12] Param: TimeStamp; Value: 2015-05-29 14:22:12
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:22:15] Param: UpdateChat; Value: 19
+**$_POST** [2015-05-29 14:22:15] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:22:15] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:22:15] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:22:15] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:22:15] Index: 0
+**PACKAGE** [2015-05-29 14:22:15] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:22:15] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:22:15] Index: 1
+**PACKAGE** [2015-05-29 14:22:15] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:22:15] Param: ChatID; Value: 19
+**PACKAGE** [2015-05-29 14:22:15] Param: ID; Value: 19
+**PACKAGE** [2015-05-29 14:22:15] Param: ChatName; Value: labevent
+**INDEX** [2015-05-29 14:22:15] Index: 2
+**PACKAGE** [2015-05-29 14:22:15] Param: ChatData; Value: [2015-05-29 14:20:39] labevent event created!
+[14:20] Cemal Yilmaz joined event!
+[14:22] Cemal Yilmaz: merhaba
+
+**PACKAGE** [2015-05-29 14:22:15] Param: TimeStamp; Value: 2015-05-29 14:22:15
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:22:18] Param: UpdateChat; Value: 19
+**$_POST** [2015-05-29 14:22:18] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:22:18] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:22:18] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:22:18] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:22:18] Index: 0
+**PACKAGE** [2015-05-29 14:22:18] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:22:18] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:22:18] Index: 1
+**PACKAGE** [2015-05-29 14:22:18] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:22:18] Param: ChatID; Value: 19
+**PACKAGE** [2015-05-29 14:22:18] Param: ID; Value: 19
+**PACKAGE** [2015-05-29 14:22:18] Param: ChatName; Value: labevent
+**INDEX** [2015-05-29 14:22:18] Index: 2
+**PACKAGE** [2015-05-29 14:22:18] Param: ChatData; Value: [2015-05-29 14:20:39] labevent event created!
+[14:20] Cemal Yilmaz joined event!
+[14:22] Cemal Yilmaz: merhaba
+
+**PACKAGE** [2015-05-29 14:22:18] Param: TimeStamp; Value: 2015-05-29 14:22:18
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:22:21] Param: UpdateChat; Value: 19
+**$_POST** [2015-05-29 14:22:21] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:22:21] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:22:21] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:22:21] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:22:21] Index: 0
+**PACKAGE** [2015-05-29 14:22:21] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:22:21] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:22:21] Index: 1
+**PACKAGE** [2015-05-29 14:22:21] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:22:21] Param: ChatID; Value: 19
+**PACKAGE** [2015-05-29 14:22:21] Param: ID; Value: 19
+**PACKAGE** [2015-05-29 14:22:21] Param: ChatName; Value: labevent
+**INDEX** [2015-05-29 14:22:21] Index: 2
+**PACKAGE** [2015-05-29 14:22:21] Param: ChatData; Value: [2015-05-29 14:20:39] labevent event created!
+[14:20] Cemal Yilmaz joined event!
+[14:22] Cemal Yilmaz: merhaba
+
+**PACKAGE** [2015-05-29 14:22:21] Param: TimeStamp; Value: 2015-05-29 14:22:21
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:22:24] Param: UpdateChat; Value: 19
+**$_POST** [2015-05-29 14:22:24] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:22:24] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:22:24] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:22:24] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:22:24] Index: 0
+**PACKAGE** [2015-05-29 14:22:24] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:22:24] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:22:24] Index: 1
+**PACKAGE** [2015-05-29 14:22:24] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:22:24] Param: ChatID; Value: 19
+**PACKAGE** [2015-05-29 14:22:24] Param: ID; Value: 19
+**PACKAGE** [2015-05-29 14:22:24] Param: ChatName; Value: labevent
+**INDEX** [2015-05-29 14:22:24] Index: 2
+**PACKAGE** [2015-05-29 14:22:24] Param: ChatData; Value: [2015-05-29 14:20:39] labevent event created!
+[14:20] Cemal Yilmaz joined event!
+[14:22] Cemal Yilmaz: merhaba
+
+**PACKAGE** [2015-05-29 14:22:24] Param: TimeStamp; Value: 2015-05-29 14:22:24
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:22:27] Param: UpdateChat; Value: 19
+**$_POST** [2015-05-29 14:22:27] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:22:27] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:22:27] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:22:27] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:22:27] Index: 0
+**PACKAGE** [2015-05-29 14:22:27] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:22:27] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:22:27] Index: 1
+**PACKAGE** [2015-05-29 14:22:27] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:22:27] Param: ChatID; Value: 19
+**PACKAGE** [2015-05-29 14:22:27] Param: ID; Value: 19
+**PACKAGE** [2015-05-29 14:22:27] Param: ChatName; Value: labevent
+**INDEX** [2015-05-29 14:22:27] Index: 2
+**PACKAGE** [2015-05-29 14:22:27] Param: ChatData; Value: [2015-05-29 14:20:39] labevent event created!
+[14:20] Cemal Yilmaz joined event!
+[14:22] Cemal Yilmaz: merhaba
+
+**PACKAGE** [2015-05-29 14:22:27] Param: TimeStamp; Value: 2015-05-29 14:22:27
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:22:30] Param: UpdateChat; Value: 19
+**$_POST** [2015-05-29 14:22:30] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:22:30] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:22:30] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:22:30] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:22:30] Index: 0
+**PACKAGE** [2015-05-29 14:22:30] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:22:30] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:22:30] Index: 1
+**PACKAGE** [2015-05-29 14:22:30] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:22:30] Param: ChatID; Value: 19
+**PACKAGE** [2015-05-29 14:22:30] Param: ID; Value: 19
+**PACKAGE** [2015-05-29 14:22:30] Param: ChatName; Value: labevent
+**INDEX** [2015-05-29 14:22:30] Index: 2
+**PACKAGE** [2015-05-29 14:22:30] Param: ChatData; Value: [2015-05-29 14:20:39] labevent event created!
+[14:20] Cemal Yilmaz joined event!
+[14:22] Cemal Yilmaz: merhaba
+
+**PACKAGE** [2015-05-29 14:22:30] Param: TimeStamp; Value: 2015-05-29 14:22:30
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:22:33] Param: UpdateChat; Value: 19
+**$_POST** [2015-05-29 14:22:33] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:22:33] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:22:33] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:22:33] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:22:33] Index: 0
+**PACKAGE** [2015-05-29 14:22:33] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:22:33] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:22:33] Index: 1
+**PACKAGE** [2015-05-29 14:22:33] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:22:33] Param: ChatID; Value: 19
+**PACKAGE** [2015-05-29 14:22:33] Param: ID; Value: 19
+**PACKAGE** [2015-05-29 14:22:33] Param: ChatName; Value: labevent
+**INDEX** [2015-05-29 14:22:33] Index: 2
+**PACKAGE** [2015-05-29 14:22:33] Param: ChatData; Value: [2015-05-29 14:20:39] labevent event created!
+[14:20] Cemal Yilmaz joined event!
+[14:22] Cemal Yilmaz: merhaba
+
+**PACKAGE** [2015-05-29 14:22:33] Param: TimeStamp; Value: 2015-05-29 14:22:33
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:22:36] Param: UpdateChat; Value: 19
+**$_POST** [2015-05-29 14:22:36] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:22:36] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:22:36] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:22:36] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:22:36] Index: 0
+**PACKAGE** [2015-05-29 14:22:36] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:22:36] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:22:36] Index: 1
+**PACKAGE** [2015-05-29 14:22:36] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:22:36] Param: ChatID; Value: 19
+**PACKAGE** [2015-05-29 14:22:36] Param: ID; Value: 19
+**PACKAGE** [2015-05-29 14:22:36] Param: ChatName; Value: labevent
+**INDEX** [2015-05-29 14:22:36] Index: 2
+**PACKAGE** [2015-05-29 14:22:36] Param: ChatData; Value: [2015-05-29 14:20:39] labevent event created!
+[14:20] Cemal Yilmaz joined event!
+[14:22] Cemal Yilmaz: merhaba
+
+**PACKAGE** [2015-05-29 14:22:36] Param: TimeStamp; Value: 2015-05-29 14:22:36
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:22:39] Param: UpdateChat; Value: 19
+**$_POST** [2015-05-29 14:22:39] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:22:39] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:22:39] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:22:39] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:22:39] Index: 0
+**PACKAGE** [2015-05-29 14:22:39] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:22:39] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:22:39] Index: 1
+**PACKAGE** [2015-05-29 14:22:39] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:22:39] Param: ChatID; Value: 19
+**PACKAGE** [2015-05-29 14:22:39] Param: ID; Value: 19
+**PACKAGE** [2015-05-29 14:22:39] Param: ChatName; Value: labevent
+**INDEX** [2015-05-29 14:22:39] Index: 2
+**PACKAGE** [2015-05-29 14:22:39] Param: ChatData; Value: [2015-05-29 14:20:39] labevent event created!
+[14:20] Cemal Yilmaz joined event!
+[14:22] Cemal Yilmaz: merhaba
+
+**PACKAGE** [2015-05-29 14:22:39] Param: TimeStamp; Value: 2015-05-29 14:22:39
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:22:42] Param: UpdateChat; Value: 19
+**$_POST** [2015-05-29 14:22:42] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:22:42] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:22:42] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:22:42] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:22:42] Index: 0
+**PACKAGE** [2015-05-29 14:22:42] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:22:42] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:22:42] Index: 1
+**PACKAGE** [2015-05-29 14:22:42] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:22:42] Param: ChatID; Value: 19
+**PACKAGE** [2015-05-29 14:22:42] Param: ID; Value: 19
+**PACKAGE** [2015-05-29 14:22:42] Param: ChatName; Value: labevent
+**INDEX** [2015-05-29 14:22:42] Index: 2
+**PACKAGE** [2015-05-29 14:22:42] Param: ChatData; Value: [2015-05-29 14:20:39] labevent event created!
+[14:20] Cemal Yilmaz joined event!
+[14:22] Cemal Yilmaz: merhaba
+
+**PACKAGE** [2015-05-29 14:22:42] Param: TimeStamp; Value: 2015-05-29 14:22:42
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:22:45] Param: UpdateChat; Value: 19
+**$_POST** [2015-05-29 14:22:45] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:22:45] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:22:45] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:22:45] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:22:45] Index: 0
+**PACKAGE** [2015-05-29 14:22:45] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:22:45] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:22:45] Index: 1
+**PACKAGE** [2015-05-29 14:22:45] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:22:45] Param: ChatID; Value: 19
+**PACKAGE** [2015-05-29 14:22:45] Param: ID; Value: 19
+**PACKAGE** [2015-05-29 14:22:45] Param: ChatName; Value: labevent
+**INDEX** [2015-05-29 14:22:45] Index: 2
+**PACKAGE** [2015-05-29 14:22:45] Param: ChatData; Value: [2015-05-29 14:20:39] labevent event created!
+[14:20] Cemal Yilmaz joined event!
+[14:22] Cemal Yilmaz: merhaba
+
+**PACKAGE** [2015-05-29 14:22:45] Param: TimeStamp; Value: 2015-05-29 14:22:45
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:22:48] Param: UpdateChat; Value: 19
+**$_POST** [2015-05-29 14:22:48] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:22:48] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:22:48] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:22:48] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:22:48] Index: 0
+**PACKAGE** [2015-05-29 14:22:48] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:22:48] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:22:48] Index: 1
+**PACKAGE** [2015-05-29 14:22:48] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:22:48] Param: ChatID; Value: 19
+**PACKAGE** [2015-05-29 14:22:48] Param: ID; Value: 19
+**PACKAGE** [2015-05-29 14:22:48] Param: ChatName; Value: labevent
+**INDEX** [2015-05-29 14:22:48] Index: 2
+**PACKAGE** [2015-05-29 14:22:48] Param: ChatData; Value: [2015-05-29 14:20:39] labevent event created!
+[14:20] Cemal Yilmaz joined event!
+[14:22] Cemal Yilmaz: merhaba
+
+**PACKAGE** [2015-05-29 14:22:48] Param: TimeStamp; Value: 2015-05-29 14:22:48
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:22:51] Param: UpdateChat; Value: 19
+**$_POST** [2015-05-29 14:22:51] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:22:51] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:22:51] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:22:51] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:22:51] Index: 0
+**PACKAGE** [2015-05-29 14:22:51] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:22:51] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:22:51] Index: 1
+**PACKAGE** [2015-05-29 14:22:51] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:22:51] Param: ChatID; Value: 19
+**PACKAGE** [2015-05-29 14:22:51] Param: ID; Value: 19
+**PACKAGE** [2015-05-29 14:22:51] Param: ChatName; Value: labevent
+**INDEX** [2015-05-29 14:22:51] Index: 2
+**PACKAGE** [2015-05-29 14:22:51] Param: ChatData; Value: [2015-05-29 14:20:39] labevent event created!
+[14:20] Cemal Yilmaz joined event!
+[14:22] Cemal Yilmaz: merhaba
+
+**PACKAGE** [2015-05-29 14:22:51] Param: TimeStamp; Value: 2015-05-29 14:22:51
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:22:54] Param: UpdateChat; Value: 19
+**$_POST** [2015-05-29 14:22:54] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:22:54] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:22:54] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:22:54] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:22:54] Index: 0
+**PACKAGE** [2015-05-29 14:22:54] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:22:54] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:22:54] Index: 1
+**PACKAGE** [2015-05-29 14:22:54] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:22:54] Param: ChatID; Value: 19
+**PACKAGE** [2015-05-29 14:22:54] Param: ID; Value: 19
+**PACKAGE** [2015-05-29 14:22:54] Param: ChatName; Value: labevent
+**INDEX** [2015-05-29 14:22:54] Index: 2
+**PACKAGE** [2015-05-29 14:22:54] Param: ChatData; Value: [2015-05-29 14:20:39] labevent event created!
+[14:20] Cemal Yilmaz joined event!
+[14:22] Cemal Yilmaz: merhaba
+
+**PACKAGE** [2015-05-29 14:22:54] Param: TimeStamp; Value: 2015-05-29 14:22:54
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:22:57] Param: UpdateChat; Value: 19
+**$_POST** [2015-05-29 14:22:57] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:22:57] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:22:57] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:22:57] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:22:57] Index: 0
+**PACKAGE** [2015-05-29 14:22:57] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:22:57] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:22:57] Index: 1
+**PACKAGE** [2015-05-29 14:22:57] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:22:57] Param: ChatID; Value: 19
+**PACKAGE** [2015-05-29 14:22:57] Param: ID; Value: 19
+**PACKAGE** [2015-05-29 14:22:57] Param: ChatName; Value: labevent
+**INDEX** [2015-05-29 14:22:57] Index: 2
+**PACKAGE** [2015-05-29 14:22:57] Param: ChatData; Value: [2015-05-29 14:20:39] labevent event created!
+[14:20] Cemal Yilmaz joined event!
+[14:22] Cemal Yilmaz: merhaba
+
+**PACKAGE** [2015-05-29 14:22:57] Param: TimeStamp; Value: 2015-05-29 14:22:57
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:23:00] Param: UpdateChat; Value: 19
+**$_POST** [2015-05-29 14:23:00] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:23:00] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:23:00] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:23:00] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:23:00] Index: 0
+**PACKAGE** [2015-05-29 14:23:00] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:23:00] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:23:00] Index: 1
+**PACKAGE** [2015-05-29 14:23:00] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:23:00] Param: ChatID; Value: 19
+**PACKAGE** [2015-05-29 14:23:00] Param: ID; Value: 19
+**PACKAGE** [2015-05-29 14:23:00] Param: ChatName; Value: labevent
+**INDEX** [2015-05-29 14:23:00] Index: 2
+**PACKAGE** [2015-05-29 14:23:00] Param: ChatData; Value: [2015-05-29 14:20:39] labevent event created!
+[14:20] Cemal Yilmaz joined event!
+[14:22] Cemal Yilmaz: merhaba
+
+**PACKAGE** [2015-05-29 14:23:00] Param: TimeStamp; Value: 2015-05-29 14:23:00
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:28:31] Param: GetMyChats; Value: 
+**$_POST** [2015-05-29 14:28:31] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 14:28:31] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 14:28:31] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 14:28:31] Index: 0
+**PACKAGE** [2015-05-29 14:28:31] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:28:31] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:28:31] Index: 1
+**PACKAGE** [2015-05-29 14:28:31] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 14:28:31] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 14:28:31] Param: ChatName; Value: TestEventBois
+**INDEX** [2015-05-29 14:28:31] Index: 2
+**PACKAGE** [2015-05-29 14:28:31] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 14:28:31] Param: ID; Value: 7
+**PACKAGE** [2015-05-29 14:28:31] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 14:28:31] Index: 3
+**PACKAGE** [2015-05-29 14:28:31] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 14:28:31] Param: ID; Value: 12
+**PACKAGE** [2015-05-29 14:28:31] Param: ChatName; Value: First Event6
+**INDEX** [2015-05-29 14:28:31] Index: 4
+**PACKAGE** [2015-05-29 14:28:31] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 14:28:31] Param: ID; Value: 13
+**PACKAGE** [2015-05-29 14:28:31] Param: ChatName; Value: First Event7
+**INDEX** [2015-05-29 14:28:31] Index: 5
+**PACKAGE** [2015-05-29 14:28:31] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 14:28:31] Param: ID; Value: 17
+**PACKAGE** [2015-05-29 14:28:31] Param: ChatName; Value: oldEvent
+**INDEX** [2015-05-29 14:28:31] Index: 6
+**PACKAGE** [2015-05-29 14:28:31] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 14:28:31] Param: ID; Value: 18
+**PACKAGE** [2015-05-29 14:28:31] Param: ChatName; Value: First Event
+**INDEX** [2015-05-29 14:28:31] Index: 7
+**PACKAGE** [2015-05-29 14:28:31] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 14:28:31] Param: ID; Value: 20
+**PACKAGE** [2015-05-29 14:28:31] Param: ChatName; Value: thisevent
+**INDEX** [2015-05-29 14:28:31] Index: 8
+**PACKAGE** [2015-05-29 14:28:31] Param: BelongsTo; Value: 2
+**PACKAGE** [2015-05-29 14:28:31] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 14:28:31] Param: ChatName; Value: WoW
+MY CHATS SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:28:33] Param: GetChat; Value: 20
+**$_POST** [2015-05-29 14:28:33] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 14:28:33] Param: LoginPass; Value: test
+**$_POST** [2015-05-29 14:28:33] Param: BelongsTo; Value: 1
+**VERIFED** [2015-05-29 14:28:34] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 14:28:34] Index: 0
+**PACKAGE** [2015-05-29 14:28:34] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:28:34] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:28:34] Index: 1
+**PACKAGE** [2015-05-29 14:28:34] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:28:34] Param: ChatID; Value: 20
+**PACKAGE** [2015-05-29 14:28:34] Param: ID; Value: 20
+**PACKAGE** [2015-05-29 14:28:34] Param: ChatName; Value: thisevent
+**INDEX** [2015-05-29 14:28:34] Index: 2
+**PACKAGE** [2015-05-29 14:28:34] Param: ChatData; Value: [2015-05-29 14:28:24] thisevent event created!
+[14:28] Kamer Levi joined event!
+
+**PACKAGE** [2015-05-29 14:28:34] Param: TimeStamp; Value: 2015-05-29 14:28:33
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:28:37] Param: UpdateChat; Value: 20
+**$_POST** [2015-05-29 14:28:37] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:28:37] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 14:28:37] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 14:28:37] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 14:28:37] Index: 0
+**PACKAGE** [2015-05-29 14:28:37] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:28:37] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:28:37] Index: 1
+**PACKAGE** [2015-05-29 14:28:37] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:28:37] Param: ChatID; Value: 20
+**PACKAGE** [2015-05-29 14:28:37] Param: ID; Value: 20
+**PACKAGE** [2015-05-29 14:28:37] Param: ChatName; Value: thisevent
+**INDEX** [2015-05-29 14:28:37] Index: 2
+**PACKAGE** [2015-05-29 14:28:37] Param: ChatData; Value: [2015-05-29 14:28:24] thisevent event created!
+[14:28] Kamer Levi joined event!
+
+**PACKAGE** [2015-05-29 14:28:37] Param: TimeStamp; Value: 2015-05-29 14:28:37
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:28:39] Param: PostChat; Value: 20
+**$_POST** [2015-05-29 14:28:39] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:28:39] Param: ChatData; Value: test123
+**$_POST** [2015-05-29 14:28:39] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 14:28:39] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 14:28:39] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 14:28:39] Index: 0
+**PACKAGE** [2015-05-29 14:28:39] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:28:39] Param: reason; Value: 0
+CHAT UPDATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:28:40] Param: UpdateChat; Value: 20
+**$_POST** [2015-05-29 14:28:40] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:28:40] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 14:28:40] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 14:28:40] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 14:28:40] Index: 0
+**PACKAGE** [2015-05-29 14:28:40] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:28:40] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:28:40] Index: 1
+**PACKAGE** [2015-05-29 14:28:40] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:28:40] Param: ChatID; Value: 20
+**PACKAGE** [2015-05-29 14:28:40] Param: ID; Value: 20
+**PACKAGE** [2015-05-29 14:28:40] Param: ChatName; Value: thisevent
+**INDEX** [2015-05-29 14:28:40] Index: 2
+**PACKAGE** [2015-05-29 14:28:40] Param: ChatData; Value: [2015-05-29 14:28:24] thisevent event created!
+[14:28] Kamer Levi joined event!
+[14:28] Kamer Levi: test123
+
+**PACKAGE** [2015-05-29 14:28:40] Param: TimeStamp; Value: 2015-05-29 14:28:40
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:28:43] Param: UpdateChat; Value: 20
+**$_POST** [2015-05-29 14:28:43] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:28:43] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 14:28:43] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 14:28:43] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 14:28:43] Index: 0
+**PACKAGE** [2015-05-29 14:28:43] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:28:43] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:28:43] Index: 1
+**PACKAGE** [2015-05-29 14:28:43] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:28:43] Param: ChatID; Value: 20
+**PACKAGE** [2015-05-29 14:28:43] Param: ID; Value: 20
+**PACKAGE** [2015-05-29 14:28:43] Param: ChatName; Value: thisevent
+**INDEX** [2015-05-29 14:28:43] Index: 2
+**PACKAGE** [2015-05-29 14:28:43] Param: ChatData; Value: [2015-05-29 14:28:24] thisevent event created!
+[14:28] Kamer Levi joined event!
+[14:28] Kamer Levi: test123
+
+**PACKAGE** [2015-05-29 14:28:43] Param: TimeStamp; Value: 2015-05-29 14:28:43
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:28:46] Param: UpdateChat; Value: 20
+**$_POST** [2015-05-29 14:28:46] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:28:46] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 14:28:46] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 14:28:46] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 14:28:46] Index: 0
+**PACKAGE** [2015-05-29 14:28:46] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:28:46] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:28:46] Index: 1
+**PACKAGE** [2015-05-29 14:28:46] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:28:46] Param: ChatID; Value: 20
+**PACKAGE** [2015-05-29 14:28:46] Param: ID; Value: 20
+**PACKAGE** [2015-05-29 14:28:46] Param: ChatName; Value: thisevent
+**INDEX** [2015-05-29 14:28:46] Index: 2
+**PACKAGE** [2015-05-29 14:28:46] Param: ChatData; Value: [2015-05-29 14:28:24] thisevent event created!
+[14:28] Kamer Levi joined event!
+[14:28] Kamer Levi: test123
+
+**PACKAGE** [2015-05-29 14:28:46] Param: TimeStamp; Value: 2015-05-29 14:28:46
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:29:26] Param: GetMyChats; Value: 
+**$_POST** [2015-05-29 14:29:26] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:29:26] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:29:26] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:29:26] Index: 0
+**PACKAGE** [2015-05-29 14:29:26] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:29:26] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:29:26] Index: 1
+**PACKAGE** [2015-05-29 14:29:26] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 14:29:26] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 14:29:26] Param: ChatName; Value: TestEventBois
+**INDEX** [2015-05-29 14:29:26] Index: 2
+**PACKAGE** [2015-05-29 14:29:26] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 14:29:26] Param: ID; Value: 10
+**PACKAGE** [2015-05-29 14:29:26] Param: ChatName; Value: First Event4
+**INDEX** [2015-05-29 14:29:26] Index: 3
+**PACKAGE** [2015-05-29 14:29:26] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 14:29:26] Param: ID; Value: 19
+**PACKAGE** [2015-05-29 14:29:26] Param: ChatName; Value: labevent
+**INDEX** [2015-05-29 14:29:26] Index: 4
+**PACKAGE** [2015-05-29 14:29:26] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 14:29:26] Param: ID; Value: 20
+**PACKAGE** [2015-05-29 14:29:26] Param: ChatName; Value: thisevent
+**INDEX** [2015-05-29 14:29:26] Index: 5
+**PACKAGE** [2015-05-29 14:29:26] Param: BelongsTo; Value: 2
+**PACKAGE** [2015-05-29 14:29:26] Param: ID; Value: 1
+**PACKAGE** [2015-05-29 14:29:26] Param: ChatName; Value: D&D
+MY CHATS SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:29:27] Param: GetChat; Value: 20
+**$_POST** [2015-05-29 14:29:27] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:29:27] Param: LoginPass; Value: 123
+**$_POST** [2015-05-29 14:29:27] Param: BelongsTo; Value: 1
+**VERIFED** [2015-05-29 14:29:27] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:29:27] Index: 0
+**PACKAGE** [2015-05-29 14:29:27] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:29:27] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:29:27] Index: 1
+**PACKAGE** [2015-05-29 14:29:27] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:29:27] Param: ChatID; Value: 20
+**PACKAGE** [2015-05-29 14:29:27] Param: ID; Value: 20
+**PACKAGE** [2015-05-29 14:29:27] Param: ChatName; Value: thisevent
+**INDEX** [2015-05-29 14:29:27] Index: 2
+**PACKAGE** [2015-05-29 14:29:27] Param: ChatData; Value: [2015-05-29 14:28:24] thisevent event created!
+[14:28] Kamer Levi joined event!
+[14:28] Kamer Levi: test123
+[14:29] Cemal Yilmaz joined event!
+
+**PACKAGE** [2015-05-29 14:29:27] Param: TimeStamp; Value: 2015-05-29 14:29:27
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:29:30] Param: UpdateChat; Value: 20
+**$_POST** [2015-05-29 14:29:30] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:29:30] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:29:30] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:29:31] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:29:31] Index: 0
+**PACKAGE** [2015-05-29 14:29:31] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:29:31] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:29:31] Index: 1
+**PACKAGE** [2015-05-29 14:29:31] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:29:31] Param: ChatID; Value: 20
+**PACKAGE** [2015-05-29 14:29:31] Param: ID; Value: 20
+**PACKAGE** [2015-05-29 14:29:31] Param: ChatName; Value: thisevent
+**INDEX** [2015-05-29 14:29:31] Index: 2
+**PACKAGE** [2015-05-29 14:29:31] Param: ChatData; Value: [2015-05-29 14:28:24] thisevent event created!
+[14:28] Kamer Levi joined event!
+[14:28] Kamer Levi: test123
+[14:29] Cemal Yilmaz joined event!
+
+**PACKAGE** [2015-05-29 14:29:31] Param: TimeStamp; Value: 2015-05-29 14:29:30
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:29:33] Param: UpdateChat; Value: 20
+**$_POST** [2015-05-29 14:29:33] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:29:33] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:29:33] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:29:34] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:29:34] Index: 0
+**PACKAGE** [2015-05-29 14:29:34] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:29:34] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:29:34] Index: 1
+**PACKAGE** [2015-05-29 14:29:34] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:29:34] Param: ChatID; Value: 20
+**PACKAGE** [2015-05-29 14:29:34] Param: ID; Value: 20
+**PACKAGE** [2015-05-29 14:29:34] Param: ChatName; Value: thisevent
+**INDEX** [2015-05-29 14:29:34] Index: 2
+**PACKAGE** [2015-05-29 14:29:34] Param: ChatData; Value: [2015-05-29 14:28:24] thisevent event created!
+[14:28] Kamer Levi joined event!
+[14:28] Kamer Levi: test123
+[14:29] Cemal Yilmaz joined event!
+
+**PACKAGE** [2015-05-29 14:29:34] Param: TimeStamp; Value: 2015-05-29 14:29:33
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:29:37] Param: UpdateChat; Value: 20
+**$_POST** [2015-05-29 14:29:37] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:29:37] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:29:37] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:29:37] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:29:37] Index: 0
+**PACKAGE** [2015-05-29 14:29:37] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:29:37] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:29:37] Index: 1
+**PACKAGE** [2015-05-29 14:29:37] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:29:37] Param: ChatID; Value: 20
+**PACKAGE** [2015-05-29 14:29:37] Param: ID; Value: 20
+**PACKAGE** [2015-05-29 14:29:37] Param: ChatName; Value: thisevent
+**INDEX** [2015-05-29 14:29:37] Index: 2
+**PACKAGE** [2015-05-29 14:29:37] Param: ChatData; Value: [2015-05-29 14:28:24] thisevent event created!
+[14:28] Kamer Levi joined event!
+[14:28] Kamer Levi: test123
+[14:29] Cemal Yilmaz joined event!
+
+**PACKAGE** [2015-05-29 14:29:37] Param: TimeStamp; Value: 2015-05-29 14:29:37
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:29:37] Param: PostChat; Value: 20
+**$_POST** [2015-05-29 14:29:37] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:29:37] Param: ChatData; Value: merhaba herkese
+**$_POST** [2015-05-29 14:29:37] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:29:37] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:29:37] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:29:37] Index: 0
+**PACKAGE** [2015-05-29 14:29:37] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:29:37] Param: reason; Value: 0
+CHAT UPDATED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:29:43] Param: UpdateChat; Value: 20
+**$_POST** [2015-05-29 14:29:43] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:29:43] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:29:43] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:29:43] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:29:43] Index: 0
+**PACKAGE** [2015-05-29 14:29:43] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:29:43] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:29:43] Index: 1
+**PACKAGE** [2015-05-29 14:29:43] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:29:43] Param: ChatID; Value: 20
+**PACKAGE** [2015-05-29 14:29:43] Param: ID; Value: 20
+**PACKAGE** [2015-05-29 14:29:43] Param: ChatName; Value: thisevent
+**INDEX** [2015-05-29 14:29:43] Index: 2
+**PACKAGE** [2015-05-29 14:29:43] Param: ChatData; Value: [2015-05-29 14:28:24] thisevent event created!
+[14:28] Kamer Levi joined event!
+[14:28] Kamer Levi: test123
+[14:29] Cemal Yilmaz joined event!
+[14:29] Cemal Yilmaz: merhaba herkese
+
+**PACKAGE** [2015-05-29 14:29:43] Param: TimeStamp; Value: 2015-05-29 14:29:43
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:29:43] Param: UpdateChat; Value: 20
+**$_POST** [2015-05-29 14:29:43] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:29:43] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:29:43] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:29:43] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:29:43] Index: 0
+**PACKAGE** [2015-05-29 14:29:43] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:29:43] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:29:43] Index: 1
+**PACKAGE** [2015-05-29 14:29:43] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:29:43] Param: ChatID; Value: 20
+**PACKAGE** [2015-05-29 14:29:43] Param: ID; Value: 20
+**PACKAGE** [2015-05-29 14:29:43] Param: ChatName; Value: thisevent
+**INDEX** [2015-05-29 14:29:43] Index: 2
+**PACKAGE** [2015-05-29 14:29:43] Param: ChatData; Value: [2015-05-29 14:28:24] thisevent event created!
+[14:28] Kamer Levi joined event!
+[14:28] Kamer Levi: test123
+[14:29] Cemal Yilmaz joined event!
+[14:29] Cemal Yilmaz: merhaba herkese
+
+**PACKAGE** [2015-05-29 14:29:43] Param: TimeStamp; Value: 2015-05-29 14:29:43
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:29:46] Param: UpdateChat; Value: 20
+**$_POST** [2015-05-29 14:29:46] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:29:46] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:29:46] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:29:46] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:29:46] Index: 0
+**PACKAGE** [2015-05-29 14:29:46] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:29:46] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:29:46] Index: 1
+**PACKAGE** [2015-05-29 14:29:46] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:29:46] Param: ChatID; Value: 20
+**PACKAGE** [2015-05-29 14:29:46] Param: ID; Value: 20
+**PACKAGE** [2015-05-29 14:29:46] Param: ChatName; Value: thisevent
+**INDEX** [2015-05-29 14:29:46] Index: 2
+**PACKAGE** [2015-05-29 14:29:46] Param: ChatData; Value: [2015-05-29 14:28:24] thisevent event created!
+[14:28] Kamer Levi joined event!
+[14:28] Kamer Levi: test123
+[14:29] Cemal Yilmaz joined event!
+[14:29] Cemal Yilmaz: merhaba herkese
+
+**PACKAGE** [2015-05-29 14:29:46] Param: TimeStamp; Value: 2015-05-29 14:29:46
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:29:49] Param: UpdateChat; Value: 20
+**$_POST** [2015-05-29 14:29:49] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:29:49] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:29:49] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:29:49] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:29:49] Index: 0
+**PACKAGE** [2015-05-29 14:29:49] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:29:49] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:29:49] Index: 1
+**PACKAGE** [2015-05-29 14:29:49] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:29:49] Param: ChatID; Value: 20
+**PACKAGE** [2015-05-29 14:29:49] Param: ID; Value: 20
+**PACKAGE** [2015-05-29 14:29:49] Param: ChatName; Value: thisevent
+**INDEX** [2015-05-29 14:29:49] Index: 2
+**PACKAGE** [2015-05-29 14:29:49] Param: ChatData; Value: [2015-05-29 14:28:24] thisevent event created!
+[14:28] Kamer Levi joined event!
+[14:28] Kamer Levi: test123
+[14:29] Cemal Yilmaz joined event!
+[14:29] Cemal Yilmaz: merhaba herkese
+
+**PACKAGE** [2015-05-29 14:29:49] Param: TimeStamp; Value: 2015-05-29 14:29:49
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:29:52] Param: UpdateChat; Value: 20
+**$_POST** [2015-05-29 14:29:52] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:29:52] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:29:52] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:29:52] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:29:52] Index: 0
+**PACKAGE** [2015-05-29 14:29:52] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:29:52] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:29:52] Index: 1
+**PACKAGE** [2015-05-29 14:29:52] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:29:52] Param: ChatID; Value: 20
+**PACKAGE** [2015-05-29 14:29:52] Param: ID; Value: 20
+**PACKAGE** [2015-05-29 14:29:52] Param: ChatName; Value: thisevent
+**INDEX** [2015-05-29 14:29:52] Index: 2
+**PACKAGE** [2015-05-29 14:29:52] Param: ChatData; Value: [2015-05-29 14:28:24] thisevent event created!
+[14:28] Kamer Levi joined event!
+[14:28] Kamer Levi: test123
+[14:29] Cemal Yilmaz joined event!
+[14:29] Cemal Yilmaz: merhaba herkese
+
+**PACKAGE** [2015-05-29 14:29:52] Param: TimeStamp; Value: 2015-05-29 14:29:52
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:29:55] Param: UpdateChat; Value: 20
+**$_POST** [2015-05-29 14:29:55] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:29:55] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:29:55] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:29:55] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:29:55] Index: 0
+**PACKAGE** [2015-05-29 14:29:55] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:29:55] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:29:55] Index: 1
+**PACKAGE** [2015-05-29 14:29:55] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:29:55] Param: ChatID; Value: 20
+**PACKAGE** [2015-05-29 14:29:55] Param: ID; Value: 20
+**PACKAGE** [2015-05-29 14:29:55] Param: ChatName; Value: thisevent
+**INDEX** [2015-05-29 14:29:55] Index: 2
+**PACKAGE** [2015-05-29 14:29:55] Param: ChatData; Value: [2015-05-29 14:28:24] thisevent event created!
+[14:28] Kamer Levi joined event!
+[14:28] Kamer Levi: test123
+[14:29] Cemal Yilmaz joined event!
+[14:29] Cemal Yilmaz: merhaba herkese
+
+**PACKAGE** [2015-05-29 14:29:55] Param: TimeStamp; Value: 2015-05-29 14:29:55
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:29:58] Param: UpdateChat; Value: 20
+**$_POST** [2015-05-29 14:29:58] Param: BelongsTo; Value: 1
+**$_POST** [2015-05-29 14:29:58] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:29:58] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:29:58] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:29:58] Index: 0
+**PACKAGE** [2015-05-29 14:29:58] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:29:58] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:29:58] Index: 1
+**PACKAGE** [2015-05-29 14:29:58] Param: BelongsTo; Value: Event
+**PACKAGE** [2015-05-29 14:29:58] Param: ChatID; Value: 20
+**PACKAGE** [2015-05-29 14:29:58] Param: ID; Value: 20
+**PACKAGE** [2015-05-29 14:29:58] Param: ChatName; Value: thisevent
+**INDEX** [2015-05-29 14:29:58] Index: 2
+**PACKAGE** [2015-05-29 14:29:58] Param: ChatData; Value: [2015-05-29 14:28:24] thisevent event created!
+[14:28] Kamer Levi joined event!
+[14:28] Kamer Levi: test123
+[14:29] Cemal Yilmaz joined event!
+[14:29] Cemal Yilmaz: merhaba herkese
+
+**PACKAGE** [2015-05-29 14:29:58] Param: TimeStamp; Value: 2015-05-29 14:29:58
+CHAT SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:34:26] Param: GetMyChats; Value: 
+**$_POST** [2015-05-29 14:34:26] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:34:26] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:34:26] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:34:26] Index: 0
+**PACKAGE** [2015-05-29 14:34:26] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:34:26] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:34:26] Index: 1
+**PACKAGE** [2015-05-29 14:34:26] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 14:34:26] Param: ID; Value: 2
+**PACKAGE** [2015-05-29 14:34:26] Param: ChatName; Value: TestEventBois
+**INDEX** [2015-05-29 14:34:26] Index: 2
+**PACKAGE** [2015-05-29 14:34:26] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 14:34:26] Param: ID; Value: 10
+**PACKAGE** [2015-05-29 14:34:26] Param: ChatName; Value: First Event4
+**INDEX** [2015-05-29 14:34:26] Index: 3
+**PACKAGE** [2015-05-29 14:34:26] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 14:34:26] Param: ID; Value: 12
+**PACKAGE** [2015-05-29 14:34:26] Param: ChatName; Value: First Event6
+**INDEX** [2015-05-29 14:34:26] Index: 4
+**PACKAGE** [2015-05-29 14:34:26] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 14:34:26] Param: ID; Value: 19
+**PACKAGE** [2015-05-29 14:34:26] Param: ChatName; Value: labevent
+**INDEX** [2015-05-29 14:34:26] Index: 5
+**PACKAGE** [2015-05-29 14:34:26] Param: BelongsTo; Value: 1
+**PACKAGE** [2015-05-29 14:34:26] Param: ID; Value: 20
+**PACKAGE** [2015-05-29 14:34:26] Param: ChatName; Value: thisevent
+**INDEX** [2015-05-29 14:34:26] Index: 6
+**PACKAGE** [2015-05-29 14:34:26] Param: BelongsTo; Value: 2
+**PACKAGE** [2015-05-29 14:34:26] Param: ID; Value: 1
+**PACKAGE** [2015-05-29 14:34:26] Param: ChatName; Value: D&D
+**INDEX** [2015-05-29 14:34:26] Index: 7
+**PACKAGE** [2015-05-29 14:34:26] Param: BelongsTo; Value: 2
+**PACKAGE** [2015-05-29 14:34:26] Param: ID; Value: 3
+**PACKAGE** [2015-05-29 14:34:26] Param: ChatName; Value: Billiards
+**INDEX** [2015-05-29 14:34:26] Index: 8
+**PACKAGE** [2015-05-29 14:34:26] Param: BelongsTo; Value: 2
+**PACKAGE** [2015-05-29 14:34:26] Param: ID; Value: 4
+**PACKAGE** [2015-05-29 14:34:26] Param: ChatName; Value: Android Devs
+MY CHATS SENT!
+END OF TRANSMISSION
+**********

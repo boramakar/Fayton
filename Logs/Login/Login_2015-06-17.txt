@@ -1,0 +1,49 @@
+NEW TRANSMISSION START
+**INDEX** [2015-06-17 02:47:39] Index: 0
+**PACKAGE** [2015-06-17 02:47:39] Param: status; Value: 0
+**PACKAGE** [2015-06-17 02:47:39] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-06-17 02:53:05] Param: Register; Value: 
+**$_POST** [2015-06-17 02:53:05] Param: RegisterID; Value: stella_calisto@hotmail.com
+**$_POST** [2015-06-17 02:53:05] Param: RegisterPass; Value: 14071998
+**$_POST** [2015-06-17 02:53:05] Param: RegisterName; Value: Beste Makar
+**$_POST** [2015-06-17 02:53:05] Param: DateOfBirth; Value: 14-07-1998
+**$_POST** [2015-06-17 02:53:05] Param: Sex; Value: Female
+**INDEX** [2015-06-17 02:53:05] Index: 0
+**PACKAGE** [2015-06-17 02:53:05] Param: status; Value: 0
+**PACKAGE** [2015-06-17 02:53:05] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-06-17 02:54:30] Param: Register; Value: 
+**$_POST** [2015-06-17 02:54:30] Param: RegisterID; Value: stella_calisto@hotmail.com
+**$_POST** [2015-06-17 02:54:30] Param: RegisterPass; Value: 14071998
+**$_POST** [2015-06-17 02:54:30] Param: RegisterName; Value: Beste Makar
+**$_POST** [2015-06-17 02:54:30] Param: DateOfBirth; Value: 14-07-1998
+**$_POST** [2015-06-17 02:54:30] Param: SEX; Value: Female
+**INDEX** [2015-06-17 02:54:30] Index: 0
+**PACKAGE** [2015-06-17 02:54:30] Param: status; Value: 1
+**PACKAGE** [2015-06-17 02:54:30] Param: reason; Value: 0
+**INDEX** [2015-06-17 02:54:30] Index: 1
+**PACKAGE** [2015-06-17 02:54:30] Param: token; Value: TKNune00960200876
+SUCCESSFUL REGISTRATION!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-06-17 02:55:04] Param: Login; Value: 
+**$_POST** [2015-06-17 02:55:04] Param: LoginID; Value: stella_calisto@hotmail.com
+**$_POST** [2015-06-17 02:55:04] Param: LoginPass; Value: 14071998
+**VERIFED** [2015-06-17 02:55:04] Param: stella_calisto@hotmail.com; Value: 14071998; Pass: 14071998
+LOGIN SUCCESSFUL!
+**INDEX** [2015-06-17 02:55:04] Index: 0
+**PACKAGE** [2015-06-17 02:55:04] Param: status; Value: 1
+**PACKAGE** [2015-06-17 02:55:04] Param: reason; Value: 0
+**INDEX** [2015-06-17 02:55:04] Index: 1
+**PACKAGE** [2015-06-17 02:55:04] Param: token; Value: TKNeve88388730066
+TOKEN UPDATED!!
+END OF TRANSMISSION
+**********

@@ -1,0 +1,39 @@
+NEW TRANSMISSION START
+**$_POST** [2015-06-17 02:56:13] Param: EventList; Value: 
+**$_POST** [2015-06-17 02:56:13] Param: LoginID; Value: stella_calisto@hotmail.com
+**$_POST** [2015-06-17 02:56:13] Param: LoginPass; Value: 14071998
+**INDEX** [2015-06-17 02:56:13] Index: 0
+**PACKAGE** [2015-06-17 02:56:13] Param: status; Value: 0
+**PACKAGE** [2015-06-17 02:56:13] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-06-17 02:56:26] Param: GetEventList; Value: 
+**$_POST** [2015-06-17 02:56:26] Param: LoginID; Value: stella_calisto@hotmail.com
+**$_POST** [2015-06-17 02:56:26] Param: LoginPass; Value: 14071998
+**VERIFED** [2015-06-17 02:56:26] Param: stella_calisto@hotmail.com; Value: 14071998
+**INDEX** [2015-06-17 02:56:26] Index: 0
+**PACKAGE** [2015-06-17 02:56:26] Param: status; Value: 1
+**PACKAGE** [2015-06-17 02:56:26] Param: reason; Value: 0
+**INDEX** [2015-06-17 02:56:26] Index: 1
+**PACKAGE** [2015-06-17 02:56:26] Param: 0; Value: EventID
+**PACKAGE** [2015-06-17 02:56:26] Param: 1; Value: EventName
+**PACKAGE** [2015-06-17 02:56:26] Param: 2; Value: EventLocation
+**PACKAGE** [2015-06-17 02:56:26] Param: 3; Value: StartTime
+**PACKAGE** [2015-06-17 02:56:26] Param: 4; Value: Participants
+**PACKAGE** [2015-06-17 02:56:26] Param: 5; Value: ParticipantLimit
+**PACKAGE** [2015-06-17 02:56:26] Param: 6; Value: MinKarma
+**PACKAGE** [2015-06-17 02:56:26] Param: 7; Value: EventType
+**INDEX** [2015-06-17 02:56:26] Index: 2
+**PACKAGE** [2015-06-17 02:56:26] Param: EventID; Value: 20
+**PACKAGE** [2015-06-17 02:56:26] Param: EventName; Value: thisevent
+**PACKAGE** [2015-06-17 02:56:26] Param: EventLocation; Value: 123
+**PACKAGE** [2015-06-17 02:56:26] Param: StartTime; Value: 2018-05-29 00:01:00
+**PACKAGE** [2015-06-17 02:56:26] Param: Participants; Value: 2
+**PACKAGE** [2015-06-17 02:56:26] Param: ParticipantLimit; Value: 123
+**PACKAGE** [2015-06-17 02:56:26] Param: MinKarma; Value: 0
+**PACKAGE** [2015-06-17 02:56:26] Param: EventType; Value: WoW
+EVENT LIST SENT!
+END OF TRANSMISSION
+**********

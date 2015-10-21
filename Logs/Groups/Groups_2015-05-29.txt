@@ -1,0 +1,1906 @@
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:19:41] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 02:19:41] Param: LoginID; Value: test6@test.com
+**$_POST** [2015-05-29 02:19:41] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:19:41] Param: test6@test.com; Value: test
+**INDEX** [2015-05-29 02:19:41] Index: 0
+**PACKAGE** [2015-05-29 02:19:41] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:19:41] Param: reason; Value: 0
+EMPTY LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:19:43] Param: GroupSearch; Value: 
+**$_POST** [2015-05-29 02:19:43] Param: LoginID; Value: test6@test.com
+**$_POST** [2015-05-29 02:19:43] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:19:44] Param: test6@test.com; Value: test
+**INDEX** [2015-05-29 02:19:44] Index: 0
+**PACKAGE** [2015-05-29 02:19:44] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:19:44] Param: reason; Value: 0
+**PACKAGE** [2015-05-29 02:19:44] Param: SearchParam; Value: 0
+**INDEX** [2015-05-29 02:19:44] Index: 1
+**PACKAGE** [2015-05-29 02:19:44] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 02:19:44] Param: GroupName; Value: D&D
+**PACKAGE** [2015-05-29 02:19:44] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 02:19:44] Param: GroupMemberCount; Value: 0
+**INDEX** [2015-05-29 02:19:44] Index: 2
+**PACKAGE** [2015-05-29 02:19:44] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 02:19:44] Param: GroupName; Value: WoW
+**PACKAGE** [2015-05-29 02:19:44] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 02:19:44] Param: GroupMemberCount; Value: 1
+**INDEX** [2015-05-29 02:19:44] Index: 3
+**PACKAGE** [2015-05-29 02:19:44] Param: GroupID; Value: 3
+**PACKAGE** [2015-05-29 02:19:44] Param: GroupName; Value: Billiards
+**PACKAGE** [2015-05-29 02:19:44] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 02:19:44] Param: GroupMemberCount; Value: 0
+**INDEX** [2015-05-29 02:19:44] Index: 4
+**PACKAGE** [2015-05-29 02:19:44] Param: GroupID; Value: 4
+**PACKAGE** [2015-05-29 02:19:44] Param: GroupName; Value: Android Devs
+**PACKAGE** [2015-05-29 02:19:44] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 02:19:44] Param: GroupMemberCount; Value: 0
+**INDEX** [2015-05-29 02:19:44] Index: 5
+**PACKAGE** [2015-05-29 02:19:44] Param: GroupID; Value: 5
+**PACKAGE** [2015-05-29 02:19:44] Param: GroupName; Value: Anime
+**PACKAGE** [2015-05-29 02:19:44] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 02:19:44] Param: GroupMemberCount; Value: 0
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:19:46] Param: GetGroup; Value: 3
+**$_POST** [2015-05-29 02:19:46] Param: LoginID; Value: test6@test.com
+**$_POST** [2015-05-29 02:19:46] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:19:47] Param: test6@test.com; Value: test
+**INDEX** [2015-05-29 02:19:47] Index: 0
+**PACKAGE** [2015-05-29 02:19:47] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:19:47] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:19:47] Index: 1
+**PACKAGE** [2015-05-29 02:19:47] Param: GroupID; Value: 3
+**PACKAGE** [2015-05-29 02:19:47] Param: GroupDescription; Value: Pool and Billiards
+**PACKAGE** [2015-05-29 02:19:47] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 02:19:47] Param: GroupName; Value: Billiards
+**PACKAGE** [2015-05-29 02:19:47] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 02:19:47] Param: RAT; Value: 0
+GROUP DETAIL SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:19:48] Param: GroupJL; Value: 1
+**$_POST** [2015-05-29 02:19:48] Param: GroupID; Value: 3
+**$_POST** [2015-05-29 02:19:48] Param: LoginID; Value: test6@test.com
+**$_POST** [2015-05-29 02:19:48] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:19:48] Param: test6@test.com; Value: test
+**INDEX** [2015-05-29 02:19:48] Index: 0
+**PACKAGE** [2015-05-29 02:19:48] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:19:48] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:19:48] Index: 1
+**PACKAGE** [2015-05-29 02:19:48] Param: GroupID; Value: 3
+**PACKAGE** [2015-05-29 02:19:48] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 02:19:48] Param: RAT; Value: 1400
+USER JOINED GROUP!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 02:19:49] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 02:19:49] Param: LoginID; Value: test6@test.com
+**$_POST** [2015-05-29 02:19:49] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 02:19:49] Param: test6@test.com; Value: test
+**INDEX** [2015-05-29 02:19:49] Index: 0
+**PACKAGE** [2015-05-29 02:19:49] Param: status; Value: 1
+**PACKAGE** [2015-05-29 02:19:49] Param: reason; Value: 0
+**INDEX** [2015-05-29 02:19:49] Index: 1
+**PACKAGE** [2015-05-29 02:19:49] Param: GroupID; Value: 3
+**PACKAGE** [2015-05-29 02:19:49] Param: GroupName; Value: Billiards
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 03:06:59] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 03:06:59] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 03:06:59] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 03:06:59] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 03:06:59] Index: 0
+**PACKAGE** [2015-05-29 03:06:59] Param: status; Value: 1
+**PACKAGE** [2015-05-29 03:06:59] Param: reason; Value: 0
+**INDEX** [2015-05-29 03:06:59] Index: 1
+**PACKAGE** [2015-05-29 03:06:59] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 03:06:59] Param: GroupName; Value: WoW
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 03:07:30] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 03:07:30] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 03:07:30] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 03:07:30] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 03:07:30] Index: 0
+**PACKAGE** [2015-05-29 03:07:30] Param: status; Value: 1
+**PACKAGE** [2015-05-29 03:07:30] Param: reason; Value: 0
+**INDEX** [2015-05-29 03:07:30] Index: 1
+**PACKAGE** [2015-05-29 03:07:30] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 03:07:30] Param: GroupName; Value: WoW
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 03:08:00] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 03:08:00] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 03:08:00] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 03:08:00] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 03:08:00] Index: 0
+**PACKAGE** [2015-05-29 03:08:00] Param: status; Value: 1
+**PACKAGE** [2015-05-29 03:08:00] Param: reason; Value: 0
+**INDEX** [2015-05-29 03:08:00] Index: 1
+**PACKAGE** [2015-05-29 03:08:00] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 03:08:00] Param: GroupName; Value: WoW
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 03:09:01] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 03:09:01] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 03:09:01] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 03:09:01] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 03:09:01] Index: 0
+**PACKAGE** [2015-05-29 03:09:01] Param: status; Value: 1
+**PACKAGE** [2015-05-29 03:09:01] Param: reason; Value: 0
+**INDEX** [2015-05-29 03:09:01] Index: 1
+**PACKAGE** [2015-05-29 03:09:01] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 03:09:01] Param: GroupName; Value: WoW
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 03:09:31] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 03:09:31] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 03:09:31] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 03:09:31] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 03:09:31] Index: 0
+**PACKAGE** [2015-05-29 03:09:31] Param: status; Value: 1
+**PACKAGE** [2015-05-29 03:09:31] Param: reason; Value: 0
+**INDEX** [2015-05-29 03:09:31] Index: 1
+**PACKAGE** [2015-05-29 03:09:31] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 03:09:31] Param: GroupName; Value: WoW
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 03:09:46] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 03:09:46] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 03:09:46] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 03:09:46] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 03:09:46] Index: 0
+**PACKAGE** [2015-05-29 03:09:46] Param: status; Value: 1
+**PACKAGE** [2015-05-29 03:09:46] Param: reason; Value: 0
+**INDEX** [2015-05-29 03:09:46] Index: 1
+**PACKAGE** [2015-05-29 03:09:46] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 03:09:46] Param: GroupName; Value: WoW
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 03:10:44] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 03:10:44] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 03:10:44] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 03:10:44] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 03:10:44] Index: 0
+**PACKAGE** [2015-05-29 03:10:44] Param: status; Value: 1
+**PACKAGE** [2015-05-29 03:10:44] Param: reason; Value: 0
+**INDEX** [2015-05-29 03:10:44] Index: 1
+**PACKAGE** [2015-05-29 03:10:44] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 03:10:44] Param: GroupName; Value: WoW
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 03:11:14] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 03:11:14] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 03:11:14] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 03:11:14] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 03:11:14] Index: 0
+**PACKAGE** [2015-05-29 03:11:14] Param: status; Value: 1
+**PACKAGE** [2015-05-29 03:11:14] Param: reason; Value: 0
+**INDEX** [2015-05-29 03:11:14] Index: 1
+**PACKAGE** [2015-05-29 03:11:14] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 03:11:14] Param: GroupName; Value: WoW
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 03:11:55] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 03:11:55] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 03:11:55] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 03:11:56] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 03:11:56] Index: 0
+**PACKAGE** [2015-05-29 03:11:56] Param: status; Value: 1
+**PACKAGE** [2015-05-29 03:11:56] Param: reason; Value: 0
+**INDEX** [2015-05-29 03:11:56] Index: 1
+**PACKAGE** [2015-05-29 03:11:56] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 03:11:56] Param: GroupName; Value: WoW
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 03:18:06] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 03:18:06] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 03:18:06] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 03:18:06] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 03:18:06] Index: 0
+**PACKAGE** [2015-05-29 03:18:06] Param: status; Value: 1
+**PACKAGE** [2015-05-29 03:18:06] Param: reason; Value: 0
+**INDEX** [2015-05-29 03:18:06] Index: 1
+**PACKAGE** [2015-05-29 03:18:06] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 03:18:06] Param: GroupName; Value: WoW
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 03:19:11] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 03:19:11] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 03:19:11] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 03:19:11] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 03:19:11] Index: 0
+**PACKAGE** [2015-05-29 03:19:11] Param: status; Value: 1
+**PACKAGE** [2015-05-29 03:19:11] Param: reason; Value: 0
+**INDEX** [2015-05-29 03:19:11] Index: 1
+**PACKAGE** [2015-05-29 03:19:11] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 03:19:11] Param: GroupName; Value: WoW
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 03:22:40] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 03:22:40] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 03:22:40] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 03:22:40] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 03:22:40] Index: 0
+**PACKAGE** [2015-05-29 03:22:40] Param: status; Value: 1
+**PACKAGE** [2015-05-29 03:22:40] Param: reason; Value: 0
+**INDEX** [2015-05-29 03:22:40] Index: 1
+**PACKAGE** [2015-05-29 03:22:40] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 03:22:40] Param: GroupName; Value: WoW
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 03:25:57] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 03:25:57] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 03:25:57] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 03:25:57] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 03:25:57] Index: 0
+**PACKAGE** [2015-05-29 03:25:57] Param: status; Value: 1
+**PACKAGE** [2015-05-29 03:25:57] Param: reason; Value: 0
+**INDEX** [2015-05-29 03:25:57] Index: 1
+**PACKAGE** [2015-05-29 03:25:57] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 03:25:57] Param: GroupName; Value: WoW
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:07:32] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 04:07:32] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:07:32] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:07:32] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:07:32] Index: 0
+**PACKAGE** [2015-05-29 04:07:32] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:07:32] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:07:32] Index: 1
+**PACKAGE** [2015-05-29 04:07:32] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 04:07:32] Param: GroupName; Value: WoW
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:07:33] Param: GroupSearch; Value: 
+**$_POST** [2015-05-29 04:07:33] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:07:33] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:07:33] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:07:33] Index: 0
+**PACKAGE** [2015-05-29 04:07:33] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:07:33] Param: reason; Value: 0
+**PACKAGE** [2015-05-29 04:07:33] Param: SearchParam; Value: 0
+**INDEX** [2015-05-29 04:07:33] Index: 1
+**PACKAGE** [2015-05-29 04:07:33] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 04:07:33] Param: GroupName; Value: D&D
+**PACKAGE** [2015-05-29 04:07:33] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:07:33] Param: GroupMemberCount; Value: 0
+**INDEX** [2015-05-29 04:07:33] Index: 2
+**PACKAGE** [2015-05-29 04:07:33] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 04:07:33] Param: GroupName; Value: WoW
+**PACKAGE** [2015-05-29 04:07:33] Param: PartOf; Value: 1
+**PACKAGE** [2015-05-29 04:07:33] Param: GroupMemberCount; Value: 1
+**INDEX** [2015-05-29 04:07:33] Index: 3
+**PACKAGE** [2015-05-29 04:07:33] Param: GroupID; Value: 3
+**PACKAGE** [2015-05-29 04:07:33] Param: GroupName; Value: Billiards
+**PACKAGE** [2015-05-29 04:07:33] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:07:33] Param: GroupMemberCount; Value: 1
+**INDEX** [2015-05-29 04:07:33] Index: 4
+**PACKAGE** [2015-05-29 04:07:33] Param: GroupID; Value: 4
+**PACKAGE** [2015-05-29 04:07:33] Param: GroupName; Value: Android Devs
+**PACKAGE** [2015-05-29 04:07:33] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:07:33] Param: GroupMemberCount; Value: 0
+**INDEX** [2015-05-29 04:07:33] Index: 5
+**PACKAGE** [2015-05-29 04:07:33] Param: GroupID; Value: 5
+**PACKAGE** [2015-05-29 04:07:33] Param: GroupName; Value: Anime
+**PACKAGE** [2015-05-29 04:07:33] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:07:33] Param: GroupMemberCount; Value: 0
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:07:34] Param: GetGroup; Value: 1
+**$_POST** [2015-05-29 04:07:34] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:07:34] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:07:34] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:07:34] Index: 0
+**PACKAGE** [2015-05-29 04:07:34] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:07:34] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:07:34] Index: 1
+**PACKAGE** [2015-05-29 04:07:34] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 04:07:34] Param: GroupDescription; Value: Dungeons & Dragons
+**PACKAGE** [2015-05-29 04:07:34] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:07:34] Param: GroupName; Value: D&D
+**PACKAGE** [2015-05-29 04:07:34] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 04:07:34] Param: RAT; Value: 0
+GROUP DETAIL SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:07:35] Param: GroupJL; Value: 1
+**$_POST** [2015-05-29 04:07:35] Param: GroupID; Value: 1
+**$_POST** [2015-05-29 04:07:35] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:07:35] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:07:35] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:07:35] Index: 0
+**PACKAGE** [2015-05-29 04:07:35] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:07:35] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:07:35] Index: 1
+**PACKAGE** [2015-05-29 04:07:35] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 04:07:35] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 04:07:35] Param: RAT; Value: 1400
+USER JOINED GROUP!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:08:03] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 04:08:03] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:08:03] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:08:03] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:08:03] Index: 0
+**PACKAGE** [2015-05-29 04:08:03] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:08:03] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:08:03] Index: 1
+**PACKAGE** [2015-05-29 04:08:03] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 04:08:03] Param: GroupName; Value: D&D
+**INDEX** [2015-05-29 04:08:03] Index: 2
+**PACKAGE** [2015-05-29 04:08:03] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 04:08:03] Param: GroupName; Value: WoW
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:08:06] Param: GetGroup; Value: 1
+**$_POST** [2015-05-29 04:08:06] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:08:06] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:08:06] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:08:06] Index: 0
+**PACKAGE** [2015-05-29 04:08:06] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:08:06] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:08:06] Index: 1
+**PACKAGE** [2015-05-29 04:08:06] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 04:08:06] Param: GroupDescription; Value: Dungeons & Dragons
+**PACKAGE** [2015-05-29 04:08:06] Param: PartOf; Value: 1
+**PACKAGE** [2015-05-29 04:08:06] Param: GroupName; Value: D&D
+**PACKAGE** [2015-05-29 04:08:06] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 04:08:06] Param: RAT; Value: 1400
+GROUP DETAIL SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:08:13] Param: GroupJL; Value: 0
+**$_POST** [2015-05-29 04:08:13] Param: GroupID; Value: 1
+**$_POST** [2015-05-29 04:08:13] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:08:13] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:08:13] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:08:13] Index: 0
+**PACKAGE** [2015-05-29 04:08:13] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:08:13] Param: reason; Value: 0
+USER LEFT GROUP!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:08:15] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 04:08:15] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:08:15] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:08:15] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:08:15] Index: 0
+**PACKAGE** [2015-05-29 04:08:15] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:08:15] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:08:15] Index: 1
+**PACKAGE** [2015-05-29 04:08:15] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 04:08:15] Param: GroupName; Value: WoW
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:08:17] Param: GroupSearch; Value: 
+**$_POST** [2015-05-29 04:08:17] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:08:17] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:08:17] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:08:17] Index: 0
+**PACKAGE** [2015-05-29 04:08:17] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:08:17] Param: reason; Value: 0
+**PACKAGE** [2015-05-29 04:08:17] Param: SearchParam; Value: 0
+**INDEX** [2015-05-29 04:08:17] Index: 1
+**PACKAGE** [2015-05-29 04:08:17] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 04:08:17] Param: GroupName; Value: D&D
+**PACKAGE** [2015-05-29 04:08:17] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:08:17] Param: GroupMemberCount; Value: 0
+**INDEX** [2015-05-29 04:08:17] Index: 2
+**PACKAGE** [2015-05-29 04:08:17] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 04:08:17] Param: GroupName; Value: WoW
+**PACKAGE** [2015-05-29 04:08:17] Param: PartOf; Value: 1
+**PACKAGE** [2015-05-29 04:08:17] Param: GroupMemberCount; Value: 1
+**INDEX** [2015-05-29 04:08:17] Index: 3
+**PACKAGE** [2015-05-29 04:08:17] Param: GroupID; Value: 3
+**PACKAGE** [2015-05-29 04:08:17] Param: GroupName; Value: Billiards
+**PACKAGE** [2015-05-29 04:08:17] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:08:17] Param: GroupMemberCount; Value: 1
+**INDEX** [2015-05-29 04:08:17] Index: 4
+**PACKAGE** [2015-05-29 04:08:17] Param: GroupID; Value: 4
+**PACKAGE** [2015-05-29 04:08:17] Param: GroupName; Value: Android Devs
+**PACKAGE** [2015-05-29 04:08:17] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:08:17] Param: GroupMemberCount; Value: 0
+**INDEX** [2015-05-29 04:08:17] Index: 5
+**PACKAGE** [2015-05-29 04:08:17] Param: GroupID; Value: 5
+**PACKAGE** [2015-05-29 04:08:17] Param: GroupName; Value: Anime
+**PACKAGE** [2015-05-29 04:08:17] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:08:17] Param: GroupMemberCount; Value: 0
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:08:22] Param: GetGroup; Value: 1
+**$_POST** [2015-05-29 04:08:22] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:08:22] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:08:22] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:08:22] Index: 0
+**PACKAGE** [2015-05-29 04:08:22] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:08:22] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:08:22] Index: 1
+**PACKAGE** [2015-05-29 04:08:22] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 04:08:22] Param: GroupDescription; Value: Dungeons & Dragons
+**PACKAGE** [2015-05-29 04:08:22] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:08:22] Param: GroupName; Value: D&D
+**PACKAGE** [2015-05-29 04:08:22] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 04:08:22] Param: RAT; Value: 0
+GROUP DETAIL SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:08:38] Param: GroupJL; Value: 1
+**$_POST** [2015-05-29 04:08:38] Param: GroupID; Value: 1
+**$_POST** [2015-05-29 04:08:38] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:08:38] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:08:38] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:08:38] Index: 0
+**PACKAGE** [2015-05-29 04:08:38] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:08:38] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:08:38] Index: 1
+**PACKAGE** [2015-05-29 04:08:38] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 04:08:38] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 04:08:38] Param: RAT; Value: 1400
+USER JOINED GROUP!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:11:30] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 04:11:30] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:11:30] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:11:30] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:11:30] Index: 0
+**PACKAGE** [2015-05-29 04:11:30] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:11:30] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:11:30] Index: 1
+**PACKAGE** [2015-05-29 04:11:30] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 04:11:30] Param: GroupName; Value: D&D
+**INDEX** [2015-05-29 04:11:30] Index: 2
+**PACKAGE** [2015-05-29 04:11:30] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 04:11:30] Param: GroupName; Value: WoW
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:11:31] Param: GetGroup; Value: 1
+**$_POST** [2015-05-29 04:11:31] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:11:31] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:11:31] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:11:31] Index: 0
+**PACKAGE** [2015-05-29 04:11:31] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:11:31] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:11:31] Index: 1
+**PACKAGE** [2015-05-29 04:11:31] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 04:11:31] Param: GroupDescription; Value: Dungeons & Dragons
+**PACKAGE** [2015-05-29 04:11:31] Param: PartOf; Value: 1
+**PACKAGE** [2015-05-29 04:11:31] Param: GroupName; Value: D&D
+**PACKAGE** [2015-05-29 04:11:31] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 04:11:31] Param: RAT; Value: 1400
+GROUP DETAIL SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:11:38] Param: GroupJL; Value: 0
+**$_POST** [2015-05-29 04:11:38] Param: GroupID; Value: 1
+**$_POST** [2015-05-29 04:11:38] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:11:38] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:11:38] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:11:38] Index: 0
+**PACKAGE** [2015-05-29 04:11:38] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:11:38] Param: reason; Value: 0
+USER LEFT GROUP!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:11:41] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 04:11:41] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:11:41] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:11:41] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:11:41] Index: 0
+**PACKAGE** [2015-05-29 04:11:41] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:11:41] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:11:41] Index: 1
+**PACKAGE** [2015-05-29 04:11:41] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 04:11:41] Param: GroupName; Value: WoW
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:11:42] Param: GroupSearch; Value: 
+**$_POST** [2015-05-29 04:11:42] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:11:42] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:11:42] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:11:42] Index: 0
+**PACKAGE** [2015-05-29 04:11:42] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:11:42] Param: reason; Value: 0
+**PACKAGE** [2015-05-29 04:11:42] Param: SearchParam; Value: 0
+**INDEX** [2015-05-29 04:11:42] Index: 1
+**PACKAGE** [2015-05-29 04:11:42] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 04:11:42] Param: GroupName; Value: D&D
+**PACKAGE** [2015-05-29 04:11:42] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:11:42] Param: GroupMemberCount; Value: 0
+**INDEX** [2015-05-29 04:11:42] Index: 2
+**PACKAGE** [2015-05-29 04:11:42] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 04:11:42] Param: GroupName; Value: WoW
+**PACKAGE** [2015-05-29 04:11:42] Param: PartOf; Value: 1
+**PACKAGE** [2015-05-29 04:11:42] Param: GroupMemberCount; Value: 1
+**INDEX** [2015-05-29 04:11:42] Index: 3
+**PACKAGE** [2015-05-29 04:11:42] Param: GroupID; Value: 3
+**PACKAGE** [2015-05-29 04:11:42] Param: GroupName; Value: Billiards
+**PACKAGE** [2015-05-29 04:11:42] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:11:42] Param: GroupMemberCount; Value: 1
+**INDEX** [2015-05-29 04:11:42] Index: 4
+**PACKAGE** [2015-05-29 04:11:42] Param: GroupID; Value: 4
+**PACKAGE** [2015-05-29 04:11:42] Param: GroupName; Value: Android Devs
+**PACKAGE** [2015-05-29 04:11:42] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:11:42] Param: GroupMemberCount; Value: 0
+**INDEX** [2015-05-29 04:11:42] Index: 5
+**PACKAGE** [2015-05-29 04:11:42] Param: GroupID; Value: 5
+**PACKAGE** [2015-05-29 04:11:42] Param: GroupName; Value: Anime
+**PACKAGE** [2015-05-29 04:11:42] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:11:42] Param: GroupMemberCount; Value: 0
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:11:49] Param: GetGroup; Value: 1
+**$_POST** [2015-05-29 04:11:49] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:11:49] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:11:49] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:11:49] Index: 0
+**PACKAGE** [2015-05-29 04:11:49] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:11:49] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:11:49] Index: 1
+**PACKAGE** [2015-05-29 04:11:49] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 04:11:49] Param: GroupDescription; Value: Dungeons & Dragons
+**PACKAGE** [2015-05-29 04:11:49] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:11:49] Param: GroupName; Value: D&D
+**PACKAGE** [2015-05-29 04:11:49] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 04:11:49] Param: RAT; Value: 0
+GROUP DETAIL SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:11:50] Param: GroupJL; Value: 1
+**$_POST** [2015-05-29 04:11:50] Param: GroupID; Value: 1
+**$_POST** [2015-05-29 04:11:50] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:11:50] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:11:50] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:11:50] Index: 0
+**PACKAGE** [2015-05-29 04:11:50] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:11:50] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:11:50] Index: 1
+**PACKAGE** [2015-05-29 04:11:50] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 04:11:50] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 04:11:50] Param: RAT; Value: 1400
+USER JOINED GROUP!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:12:22] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 04:12:22] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:12:22] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:12:22] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:12:22] Index: 0
+**PACKAGE** [2015-05-29 04:12:22] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:12:22] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:12:22] Index: 1
+**PACKAGE** [2015-05-29 04:12:22] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 04:12:22] Param: GroupName; Value: D&D
+**INDEX** [2015-05-29 04:12:22] Index: 2
+**PACKAGE** [2015-05-29 04:12:22] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 04:12:22] Param: GroupName; Value: WoW
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:12:30] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 04:12:30] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:12:30] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:12:30] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:12:30] Index: 0
+**PACKAGE** [2015-05-29 04:12:30] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:12:30] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:12:30] Index: 1
+**PACKAGE** [2015-05-29 04:12:30] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 04:12:30] Param: GroupName; Value: D&D
+**INDEX** [2015-05-29 04:12:30] Index: 2
+**PACKAGE** [2015-05-29 04:12:30] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 04:12:30] Param: GroupName; Value: WoW
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:12:31] Param: GroupSearch; Value: 
+**$_POST** [2015-05-29 04:12:31] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:12:31] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:12:31] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:12:31] Index: 0
+**PACKAGE** [2015-05-29 04:12:31] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:12:31] Param: reason; Value: 0
+**PACKAGE** [2015-05-29 04:12:31] Param: SearchParam; Value: 0
+**INDEX** [2015-05-29 04:12:31] Index: 1
+**PACKAGE** [2015-05-29 04:12:31] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 04:12:31] Param: GroupName; Value: D&D
+**PACKAGE** [2015-05-29 04:12:31] Param: PartOf; Value: 1
+**PACKAGE** [2015-05-29 04:12:31] Param: GroupMemberCount; Value: 1
+**INDEX** [2015-05-29 04:12:31] Index: 2
+**PACKAGE** [2015-05-29 04:12:31] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 04:12:31] Param: GroupName; Value: WoW
+**PACKAGE** [2015-05-29 04:12:31] Param: PartOf; Value: 1
+**PACKAGE** [2015-05-29 04:12:31] Param: GroupMemberCount; Value: 1
+**INDEX** [2015-05-29 04:12:31] Index: 3
+**PACKAGE** [2015-05-29 04:12:31] Param: GroupID; Value: 3
+**PACKAGE** [2015-05-29 04:12:31] Param: GroupName; Value: Billiards
+**PACKAGE** [2015-05-29 04:12:31] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:12:31] Param: GroupMemberCount; Value: 1
+**INDEX** [2015-05-29 04:12:31] Index: 4
+**PACKAGE** [2015-05-29 04:12:31] Param: GroupID; Value: 4
+**PACKAGE** [2015-05-29 04:12:31] Param: GroupName; Value: Android Devs
+**PACKAGE** [2015-05-29 04:12:31] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:12:31] Param: GroupMemberCount; Value: 0
+**INDEX** [2015-05-29 04:12:31] Index: 5
+**PACKAGE** [2015-05-29 04:12:31] Param: GroupID; Value: 5
+**PACKAGE** [2015-05-29 04:12:31] Param: GroupName; Value: Anime
+**PACKAGE** [2015-05-29 04:12:31] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:12:31] Param: GroupMemberCount; Value: 0
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:12:40] Param: GetGroup; Value: 4
+**$_POST** [2015-05-29 04:12:40] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:12:40] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:12:40] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:12:41] Index: 0
+**PACKAGE** [2015-05-29 04:12:41] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:12:41] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:12:41] Index: 1
+**PACKAGE** [2015-05-29 04:12:41] Param: GroupID; Value: 4
+**PACKAGE** [2015-05-29 04:12:41] Param: GroupDescription; Value: Meeting place for all the android devs
+**PACKAGE** [2015-05-29 04:12:41] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:12:41] Param: GroupName; Value: Android Devs
+**PACKAGE** [2015-05-29 04:12:41] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 04:12:41] Param: RAT; Value: 0
+GROUP DETAIL SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:12:42] Param: GroupJL; Value: 1
+**$_POST** [2015-05-29 04:12:42] Param: GroupID; Value: 4
+**$_POST** [2015-05-29 04:12:42] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:12:42] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:12:42] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:12:42] Index: 0
+**PACKAGE** [2015-05-29 04:12:42] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:12:42] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:12:42] Index: 1
+**PACKAGE** [2015-05-29 04:12:42] Param: GroupID; Value: 4
+**PACKAGE** [2015-05-29 04:12:42] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 04:12:42] Param: RAT; Value: 1400
+USER JOINED GROUP!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:12:51] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 04:12:51] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:12:51] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:12:51] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:12:51] Index: 0
+**PACKAGE** [2015-05-29 04:12:51] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:12:51] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:12:51] Index: 1
+**PACKAGE** [2015-05-29 04:12:51] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 04:12:51] Param: GroupName; Value: D&D
+**INDEX** [2015-05-29 04:12:51] Index: 2
+**PACKAGE** [2015-05-29 04:12:51] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 04:12:51] Param: GroupName; Value: WoW
+**INDEX** [2015-05-29 04:12:51] Index: 3
+**PACKAGE** [2015-05-29 04:12:51] Param: GroupID; Value: 4
+**PACKAGE** [2015-05-29 04:12:51] Param: GroupName; Value: Android Devs
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:12:53] Param: GetGroup; Value: 4
+**$_POST** [2015-05-29 04:12:53] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:12:53] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:12:53] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:12:53] Index: 0
+**PACKAGE** [2015-05-29 04:12:53] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:12:53] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:12:53] Index: 1
+**PACKAGE** [2015-05-29 04:12:53] Param: GroupID; Value: 4
+**PACKAGE** [2015-05-29 04:12:53] Param: GroupDescription; Value: Meeting place for all the android devs
+**PACKAGE** [2015-05-29 04:12:53] Param: PartOf; Value: 1
+**PACKAGE** [2015-05-29 04:12:53] Param: GroupName; Value: Android Devs
+**PACKAGE** [2015-05-29 04:12:53] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 04:12:53] Param: RAT; Value: 1400
+GROUP DETAIL SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:12:54] Param: GroupJL; Value: 0
+**$_POST** [2015-05-29 04:12:54] Param: GroupID; Value: 4
+**$_POST** [2015-05-29 04:12:54] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:12:54] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:12:54] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:12:54] Index: 0
+**PACKAGE** [2015-05-29 04:12:54] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:12:54] Param: reason; Value: 0
+USER LEFT GROUP!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:12:56] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 04:12:56] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:12:56] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:12:56] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:12:56] Index: 0
+**PACKAGE** [2015-05-29 04:12:56] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:12:56] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:12:56] Index: 1
+**PACKAGE** [2015-05-29 04:12:56] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 04:12:56] Param: GroupName; Value: D&D
+**INDEX** [2015-05-29 04:12:56] Index: 2
+**PACKAGE** [2015-05-29 04:12:56] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 04:12:56] Param: GroupName; Value: WoW
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:12:57] Param: GetGroup; Value: 1
+**$_POST** [2015-05-29 04:12:57] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:12:57] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:12:57] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:12:57] Index: 0
+**PACKAGE** [2015-05-29 04:12:57] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:12:57] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:12:57] Index: 1
+**PACKAGE** [2015-05-29 04:12:57] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 04:12:57] Param: GroupDescription; Value: Dungeons & Dragons
+**PACKAGE** [2015-05-29 04:12:57] Param: PartOf; Value: 1
+**PACKAGE** [2015-05-29 04:12:57] Param: GroupName; Value: D&D
+**PACKAGE** [2015-05-29 04:12:57] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 04:12:57] Param: RAT; Value: 1400
+GROUP DETAIL SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:12:59] Param: GroupJL; Value: 0
+**$_POST** [2015-05-29 04:12:59] Param: GroupID; Value: 1
+**$_POST** [2015-05-29 04:12:59] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:12:59] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:12:59] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:12:59] Index: 0
+**PACKAGE** [2015-05-29 04:12:59] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:12:59] Param: reason; Value: 0
+USER LEFT GROUP!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:01] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 04:13:01] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:01] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:13:01] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:01] Index: 0
+**PACKAGE** [2015-05-29 04:13:01] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:01] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:13:01] Index: 1
+**PACKAGE** [2015-05-29 04:13:01] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 04:13:01] Param: GroupName; Value: WoW
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:03] Param: GroupSearch; Value: 
+**$_POST** [2015-05-29 04:13:03] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:03] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:13:03] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:03] Index: 0
+**PACKAGE** [2015-05-29 04:13:03] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:03] Param: reason; Value: 0
+**PACKAGE** [2015-05-29 04:13:03] Param: SearchParam; Value: 0
+**INDEX** [2015-05-29 04:13:03] Index: 1
+**PACKAGE** [2015-05-29 04:13:03] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 04:13:03] Param: GroupName; Value: D&D
+**PACKAGE** [2015-05-29 04:13:03] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:13:03] Param: GroupMemberCount; Value: 0
+**INDEX** [2015-05-29 04:13:03] Index: 2
+**PACKAGE** [2015-05-29 04:13:03] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 04:13:03] Param: GroupName; Value: WoW
+**PACKAGE** [2015-05-29 04:13:03] Param: PartOf; Value: 1
+**PACKAGE** [2015-05-29 04:13:03] Param: GroupMemberCount; Value: 1
+**INDEX** [2015-05-29 04:13:03] Index: 3
+**PACKAGE** [2015-05-29 04:13:03] Param: GroupID; Value: 3
+**PACKAGE** [2015-05-29 04:13:03] Param: GroupName; Value: Billiards
+**PACKAGE** [2015-05-29 04:13:03] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:13:03] Param: GroupMemberCount; Value: 1
+**INDEX** [2015-05-29 04:13:03] Index: 4
+**PACKAGE** [2015-05-29 04:13:03] Param: GroupID; Value: 4
+**PACKAGE** [2015-05-29 04:13:03] Param: GroupName; Value: Android Devs
+**PACKAGE** [2015-05-29 04:13:03] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:13:03] Param: GroupMemberCount; Value: 0
+**INDEX** [2015-05-29 04:13:03] Index: 5
+**PACKAGE** [2015-05-29 04:13:03] Param: GroupID; Value: 5
+**PACKAGE** [2015-05-29 04:13:03] Param: GroupName; Value: Anime
+**PACKAGE** [2015-05-29 04:13:03] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:13:03] Param: GroupMemberCount; Value: 0
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:07] Param: GetGroup; Value: 1
+**$_POST** [2015-05-29 04:13:07] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:07] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:13:07] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:07] Index: 0
+**PACKAGE** [2015-05-29 04:13:07] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:07] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:13:07] Index: 1
+**PACKAGE** [2015-05-29 04:13:07] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 04:13:07] Param: GroupDescription; Value: Dungeons & Dragons
+**PACKAGE** [2015-05-29 04:13:07] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:13:07] Param: GroupName; Value: D&D
+**PACKAGE** [2015-05-29 04:13:07] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 04:13:07] Param: RAT; Value: 0
+GROUP DETAIL SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:08] Param: GroupJL; Value: 1
+**$_POST** [2015-05-29 04:13:08] Param: GroupID; Value: 1
+**$_POST** [2015-05-29 04:13:08] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:08] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:13:09] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:09] Index: 0
+**PACKAGE** [2015-05-29 04:13:09] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:09] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:13:09] Index: 1
+**PACKAGE** [2015-05-29 04:13:09] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 04:13:09] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 04:13:09] Param: RAT; Value: 1400
+USER JOINED GROUP!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:10] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 04:13:10] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:10] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:13:10] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:10] Index: 0
+**PACKAGE** [2015-05-29 04:13:10] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:10] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:13:10] Index: 1
+**PACKAGE** [2015-05-29 04:13:10] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 04:13:10] Param: GroupName; Value: D&D
+**INDEX** [2015-05-29 04:13:10] Index: 2
+**PACKAGE** [2015-05-29 04:13:10] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 04:13:10] Param: GroupName; Value: WoW
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:11] Param: GetGroup; Value: 2
+**$_POST** [2015-05-29 04:13:11] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:11] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:13:11] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:11] Index: 0
+**PACKAGE** [2015-05-29 04:13:11] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:11] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:13:11] Index: 1
+**PACKAGE** [2015-05-29 04:13:11] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 04:13:11] Param: GroupDescription; Value: World of Warcraft
+**PACKAGE** [2015-05-29 04:13:11] Param: PartOf; Value: 1
+**PACKAGE** [2015-05-29 04:13:11] Param: GroupName; Value: WoW
+**PACKAGE** [2015-05-29 04:13:11] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 04:13:11] Param: RAT; Value: 1400
+GROUP DETAIL SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:13] Param: GroupJL; Value: 0
+**$_POST** [2015-05-29 04:13:13] Param: GroupID; Value: 2
+**$_POST** [2015-05-29 04:13:13] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:13] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:13:13] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:13] Index: 0
+**PACKAGE** [2015-05-29 04:13:13] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:13] Param: reason; Value: 0
+USER LEFT GROUP!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:15] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 04:13:15] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:15] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:13:15] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:15] Index: 0
+**PACKAGE** [2015-05-29 04:13:15] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:15] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:13:15] Index: 1
+**PACKAGE** [2015-05-29 04:13:15] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 04:13:15] Param: GroupName; Value: D&D
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:16] Param: GetGroup; Value: 1
+**$_POST** [2015-05-29 04:13:16] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:16] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:13:16] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:16] Index: 0
+**PACKAGE** [2015-05-29 04:13:16] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:16] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:13:16] Index: 1
+**PACKAGE** [2015-05-29 04:13:16] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 04:13:16] Param: GroupDescription; Value: Dungeons & Dragons
+**PACKAGE** [2015-05-29 04:13:16] Param: PartOf; Value: 1
+**PACKAGE** [2015-05-29 04:13:16] Param: GroupName; Value: D&D
+**PACKAGE** [2015-05-29 04:13:16] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 04:13:16] Param: RAT; Value: 1400
+GROUP DETAIL SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:17] Param: GroupJL; Value: 0
+**$_POST** [2015-05-29 04:13:17] Param: GroupID; Value: 1
+**$_POST** [2015-05-29 04:13:17] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:17] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:13:17] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:17] Index: 0
+**PACKAGE** [2015-05-29 04:13:17] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:17] Param: reason; Value: 0
+USER LEFT GROUP!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:18] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 04:13:18] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:18] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:13:18] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:18] Index: 0
+**PACKAGE** [2015-05-29 04:13:18] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:18] Param: reason; Value: 0
+EMPTY LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:20] Param: GroupSearch; Value: 
+**$_POST** [2015-05-29 04:13:20] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:20] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:13:20] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:20] Index: 0
+**PACKAGE** [2015-05-29 04:13:20] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:20] Param: reason; Value: 0
+**PACKAGE** [2015-05-29 04:13:20] Param: SearchParam; Value: 0
+**INDEX** [2015-05-29 04:13:20] Index: 1
+**PACKAGE** [2015-05-29 04:13:20] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 04:13:20] Param: GroupName; Value: D&D
+**PACKAGE** [2015-05-29 04:13:20] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:13:20] Param: GroupMemberCount; Value: 0
+**INDEX** [2015-05-29 04:13:20] Index: 2
+**PACKAGE** [2015-05-29 04:13:20] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 04:13:20] Param: GroupName; Value: WoW
+**PACKAGE** [2015-05-29 04:13:20] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:13:20] Param: GroupMemberCount; Value: 0
+**INDEX** [2015-05-29 04:13:20] Index: 3
+**PACKAGE** [2015-05-29 04:13:20] Param: GroupID; Value: 3
+**PACKAGE** [2015-05-29 04:13:20] Param: GroupName; Value: Billiards
+**PACKAGE** [2015-05-29 04:13:20] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:13:20] Param: GroupMemberCount; Value: 1
+**INDEX** [2015-05-29 04:13:20] Index: 4
+**PACKAGE** [2015-05-29 04:13:20] Param: GroupID; Value: 4
+**PACKAGE** [2015-05-29 04:13:20] Param: GroupName; Value: Android Devs
+**PACKAGE** [2015-05-29 04:13:20] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:13:20] Param: GroupMemberCount; Value: 0
+**INDEX** [2015-05-29 04:13:20] Index: 5
+**PACKAGE** [2015-05-29 04:13:20] Param: GroupID; Value: 5
+**PACKAGE** [2015-05-29 04:13:20] Param: GroupName; Value: Anime
+**PACKAGE** [2015-05-29 04:13:20] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:13:20] Param: GroupMemberCount; Value: 0
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:26] Param: GetGroup; Value: 2
+**$_POST** [2015-05-29 04:13:26] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:26] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:13:26] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:26] Index: 0
+**PACKAGE** [2015-05-29 04:13:26] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:26] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:13:26] Index: 1
+**PACKAGE** [2015-05-29 04:13:26] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 04:13:26] Param: GroupDescription; Value: World of Warcraft
+**PACKAGE** [2015-05-29 04:13:26] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:13:26] Param: GroupName; Value: WoW
+**PACKAGE** [2015-05-29 04:13:26] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 04:13:26] Param: RAT; Value: 0
+GROUP DETAIL SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:28] Param: GroupJL; Value: 1
+**$_POST** [2015-05-29 04:13:28] Param: GroupID; Value: 2
+**$_POST** [2015-05-29 04:13:28] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:28] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:13:28] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:28] Index: 0
+**PACKAGE** [2015-05-29 04:13:28] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:28] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:13:28] Index: 1
+**PACKAGE** [2015-05-29 04:13:28] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 04:13:28] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 04:13:28] Param: RAT; Value: 1400
+USER JOINED GROUP!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:13:29] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 04:13:29] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:13:29] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:13:29] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:13:29] Index: 0
+**PACKAGE** [2015-05-29 04:13:29] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:13:29] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:13:29] Index: 1
+**PACKAGE** [2015-05-29 04:13:29] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 04:13:29] Param: GroupName; Value: WoW
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:14:28] Param: GetGroup; Value: 2
+**$_POST** [2015-05-29 04:14:28] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:14:28] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:14:28] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:14:28] Index: 0
+**PACKAGE** [2015-05-29 04:14:28] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:14:28] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:14:28] Index: 1
+**PACKAGE** [2015-05-29 04:14:28] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 04:14:28] Param: GroupDescription; Value: World of Warcraft
+**PACKAGE** [2015-05-29 04:14:28] Param: PartOf; Value: 1
+**PACKAGE** [2015-05-29 04:14:28] Param: GroupName; Value: WoW
+**PACKAGE** [2015-05-29 04:14:28] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 04:14:28] Param: RAT; Value: 1400
+GROUP DETAIL SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:14:35] Param: GetGroup; Value: 2
+**$_POST** [2015-05-29 04:14:35] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:14:35] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:14:35] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:14:35] Index: 0
+**PACKAGE** [2015-05-29 04:14:35] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:14:35] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:14:35] Index: 1
+**PACKAGE** [2015-05-29 04:14:35] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 04:14:35] Param: GroupDescription; Value: World of Warcraft
+**PACKAGE** [2015-05-29 04:14:35] Param: PartOf; Value: 1
+**PACKAGE** [2015-05-29 04:14:35] Param: GroupName; Value: WoW
+**PACKAGE** [2015-05-29 04:14:35] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 04:14:35] Param: RAT; Value: 1400
+GROUP DETAIL SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:14:35] Param: GroupJL; Value: 0
+**$_POST** [2015-05-29 04:14:35] Param: GroupID; Value: 2
+**$_POST** [2015-05-29 04:14:35] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:14:35] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:14:35] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:14:35] Index: 0
+**PACKAGE** [2015-05-29 04:14:35] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:14:35] Param: reason; Value: 0
+USER LEFT GROUP!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:14:35] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 04:14:35] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:14:35] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:14:35] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:14:35] Index: 0
+**PACKAGE** [2015-05-29 04:14:35] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:14:35] Param: reason; Value: 0
+EMPTY LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:14:37] Param: GroupSearch; Value: 
+**$_POST** [2015-05-29 04:14:37] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:14:37] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:14:37] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:14:37] Index: 0
+**PACKAGE** [2015-05-29 04:14:37] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:14:37] Param: reason; Value: 0
+**PACKAGE** [2015-05-29 04:14:37] Param: SearchParam; Value: 0
+**INDEX** [2015-05-29 04:14:37] Index: 1
+**PACKAGE** [2015-05-29 04:14:37] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 04:14:37] Param: GroupName; Value: D&D
+**PACKAGE** [2015-05-29 04:14:37] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:14:37] Param: GroupMemberCount; Value: 0
+**INDEX** [2015-05-29 04:14:37] Index: 2
+**PACKAGE** [2015-05-29 04:14:37] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 04:14:37] Param: GroupName; Value: WoW
+**PACKAGE** [2015-05-29 04:14:37] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:14:37] Param: GroupMemberCount; Value: 0
+**INDEX** [2015-05-29 04:14:37] Index: 3
+**PACKAGE** [2015-05-29 04:14:37] Param: GroupID; Value: 3
+**PACKAGE** [2015-05-29 04:14:37] Param: GroupName; Value: Billiards
+**PACKAGE** [2015-05-29 04:14:37] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:14:37] Param: GroupMemberCount; Value: 1
+**INDEX** [2015-05-29 04:14:37] Index: 4
+**PACKAGE** [2015-05-29 04:14:37] Param: GroupID; Value: 4
+**PACKAGE** [2015-05-29 04:14:37] Param: GroupName; Value: Android Devs
+**PACKAGE** [2015-05-29 04:14:37] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:14:37] Param: GroupMemberCount; Value: 0
+**INDEX** [2015-05-29 04:14:37] Index: 5
+**PACKAGE** [2015-05-29 04:14:37] Param: GroupID; Value: 5
+**PACKAGE** [2015-05-29 04:14:37] Param: GroupName; Value: Anime
+**PACKAGE** [2015-05-29 04:14:37] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:14:37] Param: GroupMemberCount; Value: 0
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:14:38] Param: GetGroup; Value: 2
+**$_POST** [2015-05-29 04:14:38] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:14:38] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:14:38] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:14:38] Index: 0
+**PACKAGE** [2015-05-29 04:14:38] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:14:38] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:14:38] Index: 1
+**PACKAGE** [2015-05-29 04:14:38] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 04:14:38] Param: GroupDescription; Value: World of Warcraft
+**PACKAGE** [2015-05-29 04:14:38] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 04:14:38] Param: GroupName; Value: WoW
+**PACKAGE** [2015-05-29 04:14:38] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 04:14:38] Param: RAT; Value: 0
+GROUP DETAIL SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:14:39] Param: GroupJL; Value: 1
+**$_POST** [2015-05-29 04:14:39] Param: GroupID; Value: 2
+**$_POST** [2015-05-29 04:14:39] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:14:39] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:14:39] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:14:39] Index: 0
+**PACKAGE** [2015-05-29 04:14:39] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:14:39] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:14:39] Index: 1
+**PACKAGE** [2015-05-29 04:14:39] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 04:14:39] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 04:14:39] Param: RAT; Value: 1400
+USER JOINED GROUP!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 04:14:39] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 04:14:39] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 04:14:39] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 04:14:39] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 04:14:39] Index: 0
+**PACKAGE** [2015-05-29 04:14:39] Param: status; Value: 1
+**PACKAGE** [2015-05-29 04:14:39] Param: reason; Value: 0
+**INDEX** [2015-05-29 04:14:39] Index: 1
+**PACKAGE** [2015-05-29 04:14:39] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 04:14:39] Param: GroupName; Value: WoW
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:10:29] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 14:10:29] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:10:29] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:10:29] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:10:29] Index: 0
+**PACKAGE** [2015-05-29 14:10:29] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:10:29] Param: reason; Value: 0
+EMPTY LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:10:34] Param: GroupSearch; Value: 
+**$_POST** [2015-05-29 14:10:34] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:10:34] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:10:34] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:10:35] Index: 0
+**PACKAGE** [2015-05-29 14:10:35] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:10:35] Param: reason; Value: 0
+**PACKAGE** [2015-05-29 14:10:35] Param: SearchParam; Value: 0
+**INDEX** [2015-05-29 14:10:35] Index: 1
+**PACKAGE** [2015-05-29 14:10:35] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 14:10:35] Param: GroupName; Value: D&D
+**PACKAGE** [2015-05-29 14:10:35] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 14:10:35] Param: GroupMemberCount; Value: 0
+**INDEX** [2015-05-29 14:10:35] Index: 2
+**PACKAGE** [2015-05-29 14:10:35] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 14:10:35] Param: GroupName; Value: WoW
+**PACKAGE** [2015-05-29 14:10:35] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 14:10:35] Param: GroupMemberCount; Value: 1
+**INDEX** [2015-05-29 14:10:35] Index: 3
+**PACKAGE** [2015-05-29 14:10:35] Param: GroupID; Value: 3
+**PACKAGE** [2015-05-29 14:10:35] Param: GroupName; Value: Billiards
+**PACKAGE** [2015-05-29 14:10:35] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 14:10:35] Param: GroupMemberCount; Value: 1
+**INDEX** [2015-05-29 14:10:35] Index: 4
+**PACKAGE** [2015-05-29 14:10:35] Param: GroupID; Value: 4
+**PACKAGE** [2015-05-29 14:10:35] Param: GroupName; Value: Android Devs
+**PACKAGE** [2015-05-29 14:10:35] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 14:10:35] Param: GroupMemberCount; Value: 0
+**INDEX** [2015-05-29 14:10:35] Index: 5
+**PACKAGE** [2015-05-29 14:10:35] Param: GroupID; Value: 5
+**PACKAGE** [2015-05-29 14:10:35] Param: GroupName; Value: Anime
+**PACKAGE** [2015-05-29 14:10:35] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 14:10:35] Param: GroupMemberCount; Value: 0
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:10:42] Param: GroupSearch; Value: Bill
+**$_POST** [2015-05-29 14:10:42] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:10:42] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:10:42] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:10:42] Index: 0
+**PACKAGE** [2015-05-29 14:10:42] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:10:42] Param: reason; Value: 0
+**PACKAGE** [2015-05-29 14:10:42] Param: SearchParam; Value: Bill
+**INDEX** [2015-05-29 14:10:42] Index: 1
+**PACKAGE** [2015-05-29 14:10:42] Param: GroupID; Value: 3
+**PACKAGE** [2015-05-29 14:10:42] Param: GroupName; Value: Billiards
+**PACKAGE** [2015-05-29 14:10:42] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 14:10:42] Param: GroupMemberCount; Value: 1
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:10:49] Param: GetGroup; Value: 3
+**$_POST** [2015-05-29 14:10:49] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:10:49] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:10:49] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:10:49] Index: 0
+**PACKAGE** [2015-05-29 14:10:49] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:10:49] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:10:49] Index: 1
+**PACKAGE** [2015-05-29 14:10:49] Param: GroupID; Value: 3
+**PACKAGE** [2015-05-29 14:10:49] Param: GroupDescription; Value: Pool and Billiards
+**PACKAGE** [2015-05-29 14:10:49] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 14:10:49] Param: GroupName; Value: Billiards
+**PACKAGE** [2015-05-29 14:10:49] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 14:10:49] Param: RAT; Value: 0
+GROUP DETAIL SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:10:58] Param: GroupJL; Value: 1
+**$_POST** [2015-05-29 14:10:58] Param: GroupID; Value: 3
+**$_POST** [2015-05-29 14:10:58] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:10:58] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:10:58] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:10:58] Index: 0
+**PACKAGE** [2015-05-29 14:10:58] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:10:58] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:10:58] Index: 1
+**PACKAGE** [2015-05-29 14:10:58] Param: GroupID; Value: 3
+**PACKAGE** [2015-05-29 14:10:58] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 14:10:58] Param: RAT; Value: 1400
+USER JOINED GROUP!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:10:58] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 14:10:58] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:10:58] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:10:58] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:10:58] Index: 0
+**PACKAGE** [2015-05-29 14:10:58] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:10:58] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:10:58] Index: 1
+**PACKAGE** [2015-05-29 14:10:58] Param: GroupID; Value: 3
+**PACKAGE** [2015-05-29 14:10:58] Param: GroupName; Value: Billiards
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:11:03] Param: GetGroup; Value: 3
+**$_POST** [2015-05-29 14:11:03] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:11:03] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:11:03] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:11:03] Index: 0
+**PACKAGE** [2015-05-29 14:11:03] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:11:03] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:11:03] Index: 1
+**PACKAGE** [2015-05-29 14:11:03] Param: GroupID; Value: 3
+**PACKAGE** [2015-05-29 14:11:03] Param: GroupDescription; Value: Pool and Billiards
+**PACKAGE** [2015-05-29 14:11:03] Param: PartOf; Value: 1
+**PACKAGE** [2015-05-29 14:11:03] Param: GroupName; Value: Billiards
+**PACKAGE** [2015-05-29 14:11:03] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 14:11:03] Param: RAT; Value: 1400
+GROUP DETAIL SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:11:35] Param: GroupJL; Value: 0
+**$_POST** [2015-05-29 14:11:35] Param: GroupID; Value: 3
+**$_POST** [2015-05-29 14:11:35] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:11:35] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:11:35] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:11:35] Index: 0
+**PACKAGE** [2015-05-29 14:11:35] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:11:35] Param: reason; Value: 0
+USER LEFT GROUP!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:11:35] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 14:11:35] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:11:35] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:11:36] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:11:36] Index: 0
+**PACKAGE** [2015-05-29 14:11:36] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:11:36] Param: reason; Value: 0
+EMPTY LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:11:37] Param: GroupSearch; Value: 
+**$_POST** [2015-05-29 14:11:37] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:11:37] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:11:37] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:11:37] Index: 0
+**PACKAGE** [2015-05-29 14:11:37] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:11:37] Param: reason; Value: 0
+**PACKAGE** [2015-05-29 14:11:37] Param: SearchParam; Value: 0
+**INDEX** [2015-05-29 14:11:37] Index: 1
+**PACKAGE** [2015-05-29 14:11:37] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 14:11:37] Param: GroupName; Value: D&D
+**PACKAGE** [2015-05-29 14:11:37] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 14:11:37] Param: GroupMemberCount; Value: 0
+**INDEX** [2015-05-29 14:11:37] Index: 2
+**PACKAGE** [2015-05-29 14:11:37] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 14:11:37] Param: GroupName; Value: WoW
+**PACKAGE** [2015-05-29 14:11:37] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 14:11:37] Param: GroupMemberCount; Value: 1
+**INDEX** [2015-05-29 14:11:37] Index: 3
+**PACKAGE** [2015-05-29 14:11:37] Param: GroupID; Value: 3
+**PACKAGE** [2015-05-29 14:11:37] Param: GroupName; Value: Billiards
+**PACKAGE** [2015-05-29 14:11:37] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 14:11:37] Param: GroupMemberCount; Value: 1
+**INDEX** [2015-05-29 14:11:37] Index: 4
+**PACKAGE** [2015-05-29 14:11:37] Param: GroupID; Value: 4
+**PACKAGE** [2015-05-29 14:11:37] Param: GroupName; Value: Android Devs
+**PACKAGE** [2015-05-29 14:11:37] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 14:11:37] Param: GroupMemberCount; Value: 0
+**INDEX** [2015-05-29 14:11:37] Index: 5
+**PACKAGE** [2015-05-29 14:11:37] Param: GroupID; Value: 5
+**PACKAGE** [2015-05-29 14:11:37] Param: GroupName; Value: Anime
+**PACKAGE** [2015-05-29 14:11:37] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 14:11:37] Param: GroupMemberCount; Value: 0
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:11:39] Param: GetGroup; Value: 1
+**$_POST** [2015-05-29 14:11:39] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:11:39] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:11:39] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:11:39] Index: 0
+**PACKAGE** [2015-05-29 14:11:39] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:11:39] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:11:39] Index: 1
+**PACKAGE** [2015-05-29 14:11:39] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 14:11:39] Param: GroupDescription; Value: Dungeons & Dragons
+**PACKAGE** [2015-05-29 14:11:39] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 14:11:39] Param: GroupName; Value: D&D
+**PACKAGE** [2015-05-29 14:11:39] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 14:11:39] Param: RAT; Value: 0
+GROUP DETAIL SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:11:41] Param: GroupJL; Value: 1
+**$_POST** [2015-05-29 14:11:41] Param: GroupID; Value: 1
+**$_POST** [2015-05-29 14:11:41] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:11:41] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:11:41] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:11:41] Index: 0
+**PACKAGE** [2015-05-29 14:11:41] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:11:41] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:11:41] Index: 1
+**PACKAGE** [2015-05-29 14:11:41] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 14:11:41] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 14:11:41] Param: RAT; Value: 1400
+USER JOINED GROUP!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:11:41] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 14:11:41] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:11:41] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:11:41] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:11:41] Index: 0
+**PACKAGE** [2015-05-29 14:11:41] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:11:41] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:11:41] Index: 1
+**PACKAGE** [2015-05-29 14:11:41] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 14:11:41] Param: GroupName; Value: D&D
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:11:46] Param: GroupSearch; Value: 
+**$_POST** [2015-05-29 14:11:46] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:11:46] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:11:46] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:11:46] Index: 0
+**PACKAGE** [2015-05-29 14:11:46] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:11:46] Param: reason; Value: 0
+**PACKAGE** [2015-05-29 14:11:46] Param: SearchParam; Value: 0
+**INDEX** [2015-05-29 14:11:46] Index: 1
+**PACKAGE** [2015-05-29 14:11:46] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 14:11:46] Param: GroupName; Value: D&D
+**PACKAGE** [2015-05-29 14:11:46] Param: PartOf; Value: 1
+**PACKAGE** [2015-05-29 14:11:46] Param: GroupMemberCount; Value: 1
+**INDEX** [2015-05-29 14:11:46] Index: 2
+**PACKAGE** [2015-05-29 14:11:46] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 14:11:46] Param: GroupName; Value: WoW
+**PACKAGE** [2015-05-29 14:11:46] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 14:11:46] Param: GroupMemberCount; Value: 1
+**INDEX** [2015-05-29 14:11:46] Index: 3
+**PACKAGE** [2015-05-29 14:11:46] Param: GroupID; Value: 3
+**PACKAGE** [2015-05-29 14:11:46] Param: GroupName; Value: Billiards
+**PACKAGE** [2015-05-29 14:11:46] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 14:11:46] Param: GroupMemberCount; Value: 1
+**INDEX** [2015-05-29 14:11:46] Index: 4
+**PACKAGE** [2015-05-29 14:11:46] Param: GroupID; Value: 4
+**PACKAGE** [2015-05-29 14:11:46] Param: GroupName; Value: Android Devs
+**PACKAGE** [2015-05-29 14:11:46] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 14:11:46] Param: GroupMemberCount; Value: 0
+**INDEX** [2015-05-29 14:11:46] Index: 5
+**PACKAGE** [2015-05-29 14:11:46] Param: GroupID; Value: 5
+**PACKAGE** [2015-05-29 14:11:46] Param: GroupName; Value: Anime
+**PACKAGE** [2015-05-29 14:11:46] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 14:11:46] Param: GroupMemberCount; Value: 0
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:12:14] Param: GetGroup; Value: 1
+**$_POST** [2015-05-29 14:12:14] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:12:14] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:12:14] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:12:14] Index: 0
+**PACKAGE** [2015-05-29 14:12:14] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:12:14] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:12:14] Index: 1
+**PACKAGE** [2015-05-29 14:12:14] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 14:12:14] Param: GroupDescription; Value: Dungeons & Dragons
+**PACKAGE** [2015-05-29 14:12:14] Param: PartOf; Value: 1
+**PACKAGE** [2015-05-29 14:12:14] Param: GroupName; Value: D&D
+**PACKAGE** [2015-05-29 14:12:14] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 14:12:14] Param: RAT; Value: 1400
+GROUP DETAIL SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:14:16] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 14:14:16] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:14:16] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:14:16] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:14:16] Index: 0
+**PACKAGE** [2015-05-29 14:14:16] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:14:16] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:14:16] Index: 1
+**PACKAGE** [2015-05-29 14:14:16] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 14:14:16] Param: GroupName; Value: D&D
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:14:41] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 14:14:41] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:14:41] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:14:41] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:14:41] Index: 0
+**PACKAGE** [2015-05-29 14:14:41] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:14:41] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:14:41] Index: 1
+**PACKAGE** [2015-05-29 14:14:41] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 14:14:41] Param: GroupName; Value: D&D
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:16:52] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 14:16:52] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:16:52] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:16:52] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:16:52] Index: 0
+**PACKAGE** [2015-05-29 14:16:52] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:16:52] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:16:52] Index: 1
+**PACKAGE** [2015-05-29 14:16:52] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 14:16:52] Param: GroupName; Value: D&D
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:19:37] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 14:19:37] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:19:37] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:19:37] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:19:37] Index: 0
+**PACKAGE** [2015-05-29 14:19:37] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:19:37] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:19:37] Index: 1
+**PACKAGE** [2015-05-29 14:19:37] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 14:19:37] Param: GroupName; Value: D&D
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:26:39] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 14:26:39] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 14:26:39] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 14:26:39] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 14:26:39] Index: 0
+**PACKAGE** [2015-05-29 14:26:39] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:26:39] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:26:39] Index: 1
+**PACKAGE** [2015-05-29 14:26:39] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 14:26:39] Param: GroupName; Value: WoW
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:27:33] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 14:27:33] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 14:27:33] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 14:27:33] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 14:27:33] Index: 0
+**PACKAGE** [2015-05-29 14:27:33] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:27:33] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:27:33] Index: 1
+**PACKAGE** [2015-05-29 14:27:33] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 14:27:33] Param: GroupName; Value: WoW
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:27:46] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 14:27:46] Param: LoginID; Value: test@test.com
+**$_POST** [2015-05-29 14:27:46] Param: LoginPass; Value: test
+**VERIFED** [2015-05-29 14:27:46] Param: test@test.com; Value: test
+**INDEX** [2015-05-29 14:27:46] Index: 0
+**PACKAGE** [2015-05-29 14:27:46] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:27:46] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:27:46] Index: 1
+**PACKAGE** [2015-05-29 14:27:46] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 14:27:46] Param: GroupName; Value: WoW
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:29:09] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 14:29:09] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:29:09] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:29:09] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:29:09] Index: 0
+**PACKAGE** [2015-05-29 14:29:09] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:29:09] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:29:09] Index: 1
+**PACKAGE** [2015-05-29 14:29:09] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 14:29:09] Param: GroupName; Value: D&D
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:30:25] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 14:30:25] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:30:25] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:30:25] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:30:25] Index: 0
+**PACKAGE** [2015-05-29 14:30:25] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:30:25] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:30:25] Index: 1
+**PACKAGE** [2015-05-29 14:30:25] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 14:30:25] Param: GroupName; Value: D&D
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:32:16] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 14:32:16] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:32:16] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:32:16] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:32:16] Index: 0
+**PACKAGE** [2015-05-29 14:32:16] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:32:16] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:32:16] Index: 1
+**PACKAGE** [2015-05-29 14:32:16] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 14:32:16] Param: GroupName; Value: D&D
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:32:17] Param: GroupSearch; Value: 
+**$_POST** [2015-05-29 14:32:17] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:32:17] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:32:17] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:32:17] Index: 0
+**PACKAGE** [2015-05-29 14:32:17] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:32:17] Param: reason; Value: 0
+**PACKAGE** [2015-05-29 14:32:17] Param: SearchParam; Value: 0
+**INDEX** [2015-05-29 14:32:17] Index: 1
+**PACKAGE** [2015-05-29 14:32:17] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 14:32:17] Param: GroupName; Value: D&D
+**PACKAGE** [2015-05-29 14:32:17] Param: PartOf; Value: 1
+**PACKAGE** [2015-05-29 14:32:17] Param: GroupMemberCount; Value: 1
+**INDEX** [2015-05-29 14:32:17] Index: 2
+**PACKAGE** [2015-05-29 14:32:17] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 14:32:17] Param: GroupName; Value: WoW
+**PACKAGE** [2015-05-29 14:32:17] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 14:32:17] Param: GroupMemberCount; Value: 1
+**INDEX** [2015-05-29 14:32:17] Index: 3
+**PACKAGE** [2015-05-29 14:32:17] Param: GroupID; Value: 3
+**PACKAGE** [2015-05-29 14:32:17] Param: GroupName; Value: Billiards
+**PACKAGE** [2015-05-29 14:32:17] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 14:32:17] Param: GroupMemberCount; Value: 1
+**INDEX** [2015-05-29 14:32:17] Index: 4
+**PACKAGE** [2015-05-29 14:32:17] Param: GroupID; Value: 4
+**PACKAGE** [2015-05-29 14:32:17] Param: GroupName; Value: Android Devs
+**PACKAGE** [2015-05-29 14:32:17] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 14:32:17] Param: GroupMemberCount; Value: 0
+**INDEX** [2015-05-29 14:32:17] Index: 5
+**PACKAGE** [2015-05-29 14:32:17] Param: GroupID; Value: 5
+**PACKAGE** [2015-05-29 14:32:17] Param: GroupName; Value: Anime
+**PACKAGE** [2015-05-29 14:32:17] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 14:32:17] Param: GroupMemberCount; Value: 0
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:32:19] Param: GetGroup; Value: 3
+**$_POST** [2015-05-29 14:32:19] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:32:19] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:32:19] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:32:19] Index: 0
+**PACKAGE** [2015-05-29 14:32:19] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:32:19] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:32:19] Index: 1
+**PACKAGE** [2015-05-29 14:32:19] Param: GroupID; Value: 3
+**PACKAGE** [2015-05-29 14:32:19] Param: GroupDescription; Value: Pool and Billiards
+**PACKAGE** [2015-05-29 14:32:19] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 14:32:19] Param: GroupName; Value: Billiards
+**PACKAGE** [2015-05-29 14:32:19] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 14:32:19] Param: RAT; Value: 0
+GROUP DETAIL SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:32:20] Param: GroupJL; Value: 1
+**$_POST** [2015-05-29 14:32:20] Param: GroupID; Value: 3
+**$_POST** [2015-05-29 14:32:20] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:32:20] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:32:20] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:32:21] Index: 0
+**PACKAGE** [2015-05-29 14:32:21] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:32:21] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:32:21] Index: 1
+**PACKAGE** [2015-05-29 14:32:21] Param: GroupID; Value: 3
+**PACKAGE** [2015-05-29 14:32:21] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 14:32:21] Param: RAT; Value: 1400
+USER JOINED GROUP!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:32:21] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 14:32:21] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:32:21] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:32:21] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:32:21] Index: 0
+**PACKAGE** [2015-05-29 14:32:21] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:32:21] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:32:21] Index: 1
+**PACKAGE** [2015-05-29 14:32:21] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 14:32:21] Param: GroupName; Value: D&D
+**INDEX** [2015-05-29 14:32:21] Index: 2
+**PACKAGE** [2015-05-29 14:32:21] Param: GroupID; Value: 3
+**PACKAGE** [2015-05-29 14:32:21] Param: GroupName; Value: Billiards
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:32:22] Param: GroupSearch; Value: 
+**$_POST** [2015-05-29 14:32:22] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:32:22] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:32:22] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:32:22] Index: 0
+**PACKAGE** [2015-05-29 14:32:22] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:32:22] Param: reason; Value: 0
+**PACKAGE** [2015-05-29 14:32:22] Param: SearchParam; Value: 0
+**INDEX** [2015-05-29 14:32:22] Index: 1
+**PACKAGE** [2015-05-29 14:32:22] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 14:32:22] Param: GroupName; Value: D&D
+**PACKAGE** [2015-05-29 14:32:22] Param: PartOf; Value: 1
+**PACKAGE** [2015-05-29 14:32:22] Param: GroupMemberCount; Value: 1
+**INDEX** [2015-05-29 14:32:22] Index: 2
+**PACKAGE** [2015-05-29 14:32:22] Param: GroupID; Value: 2
+**PACKAGE** [2015-05-29 14:32:22] Param: GroupName; Value: WoW
+**PACKAGE** [2015-05-29 14:32:22] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 14:32:22] Param: GroupMemberCount; Value: 1
+**INDEX** [2015-05-29 14:32:22] Index: 3
+**PACKAGE** [2015-05-29 14:32:22] Param: GroupID; Value: 3
+**PACKAGE** [2015-05-29 14:32:22] Param: GroupName; Value: Billiards
+**PACKAGE** [2015-05-29 14:32:22] Param: PartOf; Value: 1
+**PACKAGE** [2015-05-29 14:32:22] Param: GroupMemberCount; Value: 2
+**INDEX** [2015-05-29 14:32:22] Index: 4
+**PACKAGE** [2015-05-29 14:32:22] Param: GroupID; Value: 4
+**PACKAGE** [2015-05-29 14:32:22] Param: GroupName; Value: Android Devs
+**PACKAGE** [2015-05-29 14:32:22] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 14:32:22] Param: GroupMemberCount; Value: 0
+**INDEX** [2015-05-29 14:32:22] Index: 5
+**PACKAGE** [2015-05-29 14:32:22] Param: GroupID; Value: 5
+**PACKAGE** [2015-05-29 14:32:22] Param: GroupName; Value: Anime
+**PACKAGE** [2015-05-29 14:32:22] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 14:32:22] Param: GroupMemberCount; Value: 0
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:32:24] Param: GetGroup; Value: 4
+**$_POST** [2015-05-29 14:32:24] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:32:24] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:32:24] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:32:25] Index: 0
+**PACKAGE** [2015-05-29 14:32:25] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:32:25] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:32:25] Index: 1
+**PACKAGE** [2015-05-29 14:32:25] Param: GroupID; Value: 4
+**PACKAGE** [2015-05-29 14:32:25] Param: GroupDescription; Value: Meeting place for all the android devs
+**PACKAGE** [2015-05-29 14:32:25] Param: PartOf; Value: 0
+**PACKAGE** [2015-05-29 14:32:25] Param: GroupName; Value: Android Devs
+**PACKAGE** [2015-05-29 14:32:25] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 14:32:25] Param: RAT; Value: 0
+GROUP DETAIL SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:32:26] Param: GroupJL; Value: 1
+**$_POST** [2015-05-29 14:32:26] Param: GroupID; Value: 4
+**$_POST** [2015-05-29 14:32:26] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:32:26] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:32:26] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:32:26] Index: 0
+**PACKAGE** [2015-05-29 14:32:26] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:32:26] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:32:26] Index: 1
+**PACKAGE** [2015-05-29 14:32:26] Param: GroupID; Value: 4
+**PACKAGE** [2015-05-29 14:32:26] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 14:32:26] Param: RAT; Value: 1400
+USER JOINED GROUP!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:32:26] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 14:32:26] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:32:26] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:32:26] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:32:26] Index: 0
+**PACKAGE** [2015-05-29 14:32:26] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:32:26] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:32:26] Index: 1
+**PACKAGE** [2015-05-29 14:32:26] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 14:32:26] Param: GroupName; Value: D&D
+**INDEX** [2015-05-29 14:32:26] Index: 2
+**PACKAGE** [2015-05-29 14:32:26] Param: GroupID; Value: 3
+**PACKAGE** [2015-05-29 14:32:26] Param: GroupName; Value: Billiards
+**INDEX** [2015-05-29 14:32:26] Index: 3
+**PACKAGE** [2015-05-29 14:32:26] Param: GroupID; Value: 4
+**PACKAGE** [2015-05-29 14:32:26] Param: GroupName; Value: Android Devs
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:32:28] Param: GetGroup; Value: 4
+**$_POST** [2015-05-29 14:32:28] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:32:28] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:32:28] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:32:28] Index: 0
+**PACKAGE** [2015-05-29 14:32:28] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:32:28] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:32:28] Index: 1
+**PACKAGE** [2015-05-29 14:32:28] Param: GroupID; Value: 4
+**PACKAGE** [2015-05-29 14:32:28] Param: GroupDescription; Value: Meeting place for all the android devs
+**PACKAGE** [2015-05-29 14:32:28] Param: PartOf; Value: 1
+**PACKAGE** [2015-05-29 14:32:28] Param: GroupName; Value: Android Devs
+**PACKAGE** [2015-05-29 14:32:28] Param: XP; Value: 0
+**PACKAGE** [2015-05-29 14:32:28] Param: RAT; Value: 1400
+GROUP DETAIL SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:34:03] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 14:34:03] Param: LoginID; Value: testlab@test.com
+**$_POST** [2015-05-29 14:34:03] Param: LoginPass; Value: 123
+**VERIFED** [2015-05-29 14:34:03] Param: testlab@test.com; Value: 123
+**INDEX** [2015-05-29 14:34:03] Index: 0
+**PACKAGE** [2015-05-29 14:34:03] Param: status; Value: 1
+**PACKAGE** [2015-05-29 14:34:03] Param: reason; Value: 0
+**INDEX** [2015-05-29 14:34:03] Index: 1
+**PACKAGE** [2015-05-29 14:34:03] Param: GroupID; Value: 1
+**PACKAGE** [2015-05-29 14:34:03] Param: GroupName; Value: D&D
+**INDEX** [2015-05-29 14:34:03] Index: 2
+**PACKAGE** [2015-05-29 14:34:03] Param: GroupID; Value: 3
+**PACKAGE** [2015-05-29 14:34:03] Param: GroupName; Value: Billiards
+**INDEX** [2015-05-29 14:34:03] Index: 3
+**PACKAGE** [2015-05-29 14:34:03] Param: GroupID; Value: 4
+**PACKAGE** [2015-05-29 14:34:03] Param: GroupName; Value: Android Devs
+GROUP LIST SENT!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**$_POST** [2015-05-29 14:34:31] Param: MyGroups; Value: 
+**$_POST** [2015-05-29 14:34:31] Param: LoginID; Value: 
+**$_POST** [2015-05-29 14:34:31] Param: LoginPass; Value: 
+**INDEX** [2015-05-29 14:34:31] Index: 0
+**PACKAGE** [2015-05-29 14:34:31] Param: status; Value: 0
+**PACKAGE** [2015-05-29 14:34:31] Param: reason; Value: 999
+MISSING PARAMETERS!
+END OF TRANSMISSION
+**********

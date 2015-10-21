@@ -1,0 +1,132 @@
+NEW TRANSMISSION START
+**** [2015-05-27 18:34:39] Param: GetMyChats; Value: 
+**** [2015-05-27 18:34:39] Param: LoginID; Value: test@test.com
+**** [2015-05-27 18:34:39] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 18:34:39] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 18:34:39] Index: 0
+**PACKAGE** [2015-05-27 18:34:39] Param: status; Value: 0
+**PACKAGE** [2015-05-27 18:34:39] Param: reason; Value: 5
+QUERY FAILED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-27 18:39:38] Param: GetMyChats; Value: 
+**** [2015-05-27 18:39:38] Param: LoginID; Value: test@test.com
+**** [2015-05-27 18:39:38] Param: LoginPass; Value: test
+**VERIFED** [2015-05-27 18:39:38] Param: test@test.com; Value: test
+**INDEX** [2015-05-27 18:39:38] Index: 0
+**PACKAGE** [2015-05-27 18:39:38] Param: status; Value: 0
+**PACKAGE** [2015-05-27 18:39:38] Param: reason; Value: 5
+QUERY FAILED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 00:01:22] Param: GetMyChats; Value: 
+**** [2015-05-28 00:01:22] Param: LoginID; Value: test@test.com
+**** [2015-05-28 00:01:22] Param: LoginPass; Value: test
+**VERIFED** [2015-05-28 00:01:22] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 00:01:22] Index: 0
+**PACKAGE** [2015-05-28 00:01:22] Param: status; Value: 0
+**PACKAGE** [2015-05-28 00:01:22] Param: reason; Value: 5
+QUERY FAILED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 00:01:49] Param: GetMyChats; Value: 
+**** [2015-05-28 00:01:49] Param: LoginID; Value: test@test.com
+**** [2015-05-28 00:01:49] Param: LoginPass; Value: test
+**VERIFED** [2015-05-28 00:01:49] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 00:01:49] Index: 0
+**PACKAGE** [2015-05-28 00:01:49] Param: status; Value: 0
+**PACKAGE** [2015-05-28 00:01:49] Param: reason; Value: 5
+QUERY FAILED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 00:03:38] Param: GetMyChats; Value: 
+**** [2015-05-28 00:03:38] Param: LoginID; Value: test@test.com
+**** [2015-05-28 00:03:38] Param: LoginPass; Value: test
+**VERIFED** [2015-05-28 00:03:38] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 00:03:38] Index: 0
+**PACKAGE** [2015-05-28 00:03:38] Param: status; Value: 0
+**PACKAGE** [2015-05-28 00:03:38] Param: reason; Value: 5
+QUERY FAILED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 00:06:25] Param: GetMyChats; Value: 
+**** [2015-05-28 00:06:25] Param: LoginID; Value: test@test.com
+**** [2015-05-28 00:06:25] Param: LoginPass; Value: test
+**VERIFED** [2015-05-28 00:06:25] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 00:06:25] Index: 0
+**PACKAGE** [2015-05-28 00:06:25] Param: status; Value: 0
+**PACKAGE** [2015-05-28 00:06:25] Param: reason; Value: 5
+QUERY FAILED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 00:07:10] Param: GetMyChats; Value: 
+**** [2015-05-28 00:07:10] Param: LoginID; Value: test@test.com
+**** [2015-05-28 00:07:10] Param: LoginPass; Value: test
+**VERIFED** [2015-05-28 00:07:10] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 00:07:10] Index: 0
+**PACKAGE** [2015-05-28 00:07:10] Param: status; Value: 0
+**PACKAGE** [2015-05-28 00:07:10] Param: reason; Value: 5
+QUERY FAILED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 00:07:50] Param: GetMyChats; Value: 
+**** [2015-05-28 00:07:50] Param: LoginID; Value: test@test.com
+**** [2015-05-28 00:07:50] Param: LoginPass; Value: test
+**VERIFED** [2015-05-28 00:07:50] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 00:07:50] Index: 0
+**PACKAGE** [2015-05-28 00:07:50] Param: status; Value: 0
+**PACKAGE** [2015-05-28 00:07:50] Param: reason; Value: 5
+QUERY FAILED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 00:23:00] Param: GetMyChats; Value: 
+**** [2015-05-28 00:23:00] Param: LoginID; Value: test@test.com
+**** [2015-05-28 00:23:00] Param: LoginPass; Value: test
+**VERIFED** [2015-05-28 00:23:00] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 00:23:00] Index: 0
+**PACKAGE** [2015-05-28 00:23:00] Param: status; Value: 0
+**PACKAGE** [2015-05-28 00:23:00] Param: reason; Value: 5
+QUERY FAILED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 00:33:46] Param: GetMyChats; Value: 
+**** [2015-05-28 00:33:46] Param: LoginID; Value: test@test.com
+**** [2015-05-28 00:33:46] Param: LoginPass; Value: test
+**VERIFED** [2015-05-28 00:33:46] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 00:33:46] Index: 0
+**PACKAGE** [2015-05-28 00:33:46] Param: status; Value: 0
+**PACKAGE** [2015-05-28 00:33:46] Param: reason; Value: 5
+QUERY FAILED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 00:49:46] Param: GetMyChats; Value: 
+**** [2015-05-28 00:49:46] Param: LoginID; Value: test@test.com
+**** [2015-05-28 00:49:46] Param: LoginPass; Value: test
+**VERIFED** [2015-05-28 00:49:46] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 00:49:46] Index: 0
+**PACKAGE** [2015-05-28 00:49:46] Param: status; Value: 0
+**PACKAGE** [2015-05-28 00:49:46] Param: reason; Value: 5
+QUERY FAILED!
+END OF TRANSMISSION
+**********
+NEW TRANSMISSION START
+**** [2015-05-28 00:51:06] Param: GetMyChats; Value: 
+**** [2015-05-28 00:51:06] Param: LoginID; Value: test@test.com
+**** [2015-05-28 00:51:06] Param: LoginPass; Value: test
+**VERIFED** [2015-05-28 00:51:06] Param: test@test.com; Value: test
+**INDEX** [2015-05-28 00:51:06] Index: 0
+**PACKAGE** [2015-05-28 00:51:06] Param: status; Value: 0
+**PACKAGE** [2015-05-28 00:51:06] Param: reason; Value: 5
+QUERY FAILED!
+END OF TRANSMISSION
+**********
